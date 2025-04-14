@@ -1,0 +1,15 @@
+name: 🦾 Cập nhật hoạt động gần đây
+
+on:
+  schedule:
+    - cron: '0 * * * *' # cập nhật mỗi giờ
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Readme-Workflows/recent-activity@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
