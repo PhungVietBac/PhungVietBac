@@ -13,4 +13,4 @@ jobs:
       - uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: phungvietbac
-          MY_GITHUB_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
+          
