@@ -1,5 +1,3 @@
-recent-activity:
-  events:
-    - PullRequestReviewEvent
-    - ReleaseEvent
-    - WatchEvent
+        with:
+          GH_USERNAME: phungvietbac
+          CONFIG_FILE: .github/recent-activity.config.yml
