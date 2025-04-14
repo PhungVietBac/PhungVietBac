@@ -1,0 +1,5 @@
+recent-activity:
+  events:
+    - PullRequestReviewEvent
+    - ReleaseEvent
+    - WatchEvent
