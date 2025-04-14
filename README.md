@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 📊 Thống kê GitHub
 
 ## 🧑‍💻 Hồ sơ cá nhân
