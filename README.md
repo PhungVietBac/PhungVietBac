@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**PhungVietBac/PhungVietBac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 Thống kê GitHub
 
-Here are some ideas to get you started:
+## 🧑‍💻 Hồ sơ cá nhân
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhungVietBac&show_icons=true&theme=radical)
+
+## 📦 Ngôn ngữ sử dụng
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhungVietBac&layout=compact&theme=radical)
+
+## 🔥 Hoạt động gần đây
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
