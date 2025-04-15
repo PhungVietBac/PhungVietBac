@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: Readme-Workflows/recent-activity@v2.0.0
         with:
           GH_USERNAME: phungvietbac
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
-          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: echo "Workflow completed successfully!"
