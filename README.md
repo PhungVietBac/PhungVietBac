@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/b%E1%BA%AFc-ph%C3%B9ng-vi%E1%BB%87t-396674298/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:phungvietbac@gmail.com">
+  <a href="mailto:bacphungviet@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PhungVietBac">
