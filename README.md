@@ -22,6 +22,8 @@
 1. 🎉 Merged PR [#20](https://github.com/PhungVietBac/AITripSystem/pull/20) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 <!--END_SECTION:activity-->
 
+> 🛠️ Được cập nhật tự động bởi GitHub Actions!
+
 ## 🧭 Biểu đồ hoạt động
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhungVietBac&theme=github-compact)
@@ -62,9 +64,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=AITripSystem&theme=radical)](https://github.com/PhungVietBac/AITripSystem)
 
----
-
-> 🛠️ Được cập nhật tự động bởi GitHub Actions!
 
 ---
 
