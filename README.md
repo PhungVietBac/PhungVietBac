@@ -11,6 +11,7 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 <!--END_SECTION:activity-->
 
 ## 🧭 Biểu đồ hoạt động
