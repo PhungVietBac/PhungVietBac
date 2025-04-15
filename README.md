@@ -65,3 +65,7 @@
 ---
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
+
+---
+
+> ✨ *Cảm ơn bạn đã ghé thăm hồ sơ GitHub của mình!*
