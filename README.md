@@ -47,4 +47,15 @@
 
 ---
 
+## 🧰 Tech Stack
+
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-FF5722?style=flat&logo=esphome&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
