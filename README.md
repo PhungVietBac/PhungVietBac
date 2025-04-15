@@ -40,7 +40,7 @@
   <a href="https://github.com/PhungVietBac">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/phungvietbac" target="_blank">
+  <a href="https://www.facebook.com/bac.phungviet.92" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
