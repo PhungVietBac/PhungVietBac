@@ -58,4 +58,10 @@
 
 ---
 
+## 📌 Pinned Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=AITripSystem&theme=radical)](https://github.com/PhungVietBac/AITripSystem)
+
+---
+
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
