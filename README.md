@@ -31,7 +31,7 @@
 ## 🌐 Mạng xã hội & kết nối
 
 <p align="center">
-  <a href="www.linkedin.com/in/bắc-phùng-việt-396674298" target="_blank">
+  <a href="https://www.linkedin.com/in/b%E1%BA%AFc-ph%C3%B9ng-vi%E1%BB%87t-396674298/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:phungvietbac@gmail.com">
