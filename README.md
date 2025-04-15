@@ -11,7 +11,7 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-<!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#20](https://github.com/PhungVietBac/AITripSystem/pull/20) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 <!--END_SECTION:activity-->
 
 ## 🧭 Biểu đồ hoạt động
