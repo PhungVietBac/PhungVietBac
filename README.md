@@ -1,7 +1,7 @@
 # 👋 Chào mừng đến với GitHub của PhungVietBac!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+IoT+and+Embedded+Systems;ESP32+%7C+WiFi+%7C+MQTT+%7C+C%2B%2B+%7C+C%23;Let's+build+something+awesome!&center=true&width=500&height=45&color=F7971E&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+love+AI+Programming;AI+%7C+FullStack+%7C+Android+%7C+Desktop;Let's+build+something+awesome!&center=true&width=500&height=45&color=F7971E&vCenter=true&size=22">
 </p>
 
 ---
