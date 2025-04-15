@@ -47,22 +47,4 @@
 
 ---
 
-## 📝 Blog kỹ thuật / Chia sẻ kiến thức
-
-🧠 Mình thường chia sẻ các mẹo và kinh nghiệm học lập trình & IoT tại:
-
-📘 Blog cá nhân: [https://phungvietbac.dev](https://phungvietbac.dev) *(demo link)*  
-🛠️ Mục tiêu chia sẻ: 2 bài mỗi tháng về lập trình hệ thống nhúng, ESP32, Wi-Fi & MQTT.
-
----
-
-## 💬 Fun facts
-
-- 🥢 Có thể vừa code vừa ăn mì cay cấp 7
-- 📻 Từng thử code ESP32 để làm… máy phát FM mini
-- 🧠 Thích hack vặt phần cứng để tiết kiệm linh kiện
-- 🌙 Code giỏi nhất vào lúc 2h sáng 😴
-
----
-
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
