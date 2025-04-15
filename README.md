@@ -8,7 +8,8 @@
 
 ## 🧑‍💻 Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhungVietBac&show_icons=true&theme=radical)     
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhungVietBac&show_icons=true&theme=radical)
+<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=PhungVietBac&theme=radical)
 
 ## 📊 Ngôn ngữ sử dụng nhiều nhất
