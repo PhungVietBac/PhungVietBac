@@ -25,8 +25,6 @@
 4. 🎉 Merged PR [#28](https://github.com/PhungVietBac/AITripSystem/pull/28) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 5. 🎉 Merged PR [#26](https://github.com/PhungVietBac/AITripSystem/pull/26) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 <!--END_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/PhungVietBac/AITripSystem/pull/31) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-2. 🎉 Merged PR [#30](https://github.com/PhungVietBac/AITripSystem/pull/30) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
 
@@ -69,7 +67,6 @@
 ## 📌 Pinned Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=AITripSystem&theme=radical)](https://github.com/PhungVietBac/AITripSystem)
-
 
 ---
 
