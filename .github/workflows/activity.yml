@@ -101,7 +101,7 @@ jobs:
             // replace everything between your markers:
             const regex = /<!--START_SECTION:activity-->(.*?)<!--END_SECTION:activity-->/s;
             const match = readme.match(regex);
-            readme = readme.replace(match[1], md.replace(/"/g, ''));
+            readme = readme.replace(match[1], md);
             fs.writeFileSync(file, readme, 'utf8');
 
       - name: Commit & Push if changed
