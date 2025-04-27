@@ -39,8 +39,8 @@ jobs:
 
       - name: Write README.md
         run: |
-          echo "${{ steps.render.outputs.result }}" > README.md
-
+          echo "# Recent Activity Across Top 5 Repos\n\n## [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)\n- [PushEvent](https://github.com/PhungVietBac/PhungVietBac) at 28/04/2025, 02:39:53\n\n## [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)\n- [PushEvent](https://github.com/PhungVietBac/WebAPI) at 28/04/2025, 02:28:54\n\n" > README.md
+          
       - name: Show git status & diff
         run: |
           git status
