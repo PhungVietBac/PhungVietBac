@@ -19,17 +19,17 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-"### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:51:27
+  - [f9dafcc](https://github.com/PhungVietBac/PhungVietBac/commit/f9dafcc108b1ef0b1a504b3c98cd280da303a16c): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 05:47:39
+  - [a02955f](https://github.com/PhungVietBac/PhungVietBac/commit/a02955fc1ed03b0aa16d25cb46e2047ecfef7318): ⚡ Update README with the recent activity _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:47:15
   - [ea12628](https://github.com/PhungVietBac/PhungVietBac/commit/ea1262884273c718523a3184444533d5678439f6): Update activity.yml _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:45:44
   - [a817cbd](https://github.com/PhungVietBac/PhungVietBac/commit/a817cbd107b64ad9f1eae2aaaf88561835c2d0ad): Update activity.yml _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:39:44
   - [a32f97f](https://github.com/PhungVietBac/PhungVietBac/commit/a32f97f6c119c0241400be75a4cff7b7516f819a): Update activity.yml _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 05:33:56
-  - [8faef3b](https://github.com/PhungVietBac/PhungVietBac/commit/8faef3b2c66cf7ddd920bbcd26bf7a143c396c4d): ⚡ Update README with the recent activity _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:33:34
-  - [6cb3ee1](https://github.com/PhungVietBac/PhungVietBac/commit/6cb3ee17963fb763b1b3af7257a7cd6c51001b30): Update activity.yml _(by Phùng Việt Bắc)_
 
 ### [WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
@@ -71,7 +71,7 @@ Add modal edit user profile _(by PhungVietBac)_
 ### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
-"
+
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
