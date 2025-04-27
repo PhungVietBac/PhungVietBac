@@ -70,9 +70,9 @@ jobs:
                     md += `- **IssuesEvent**: [#${issue.number} ${issue.title}](${issue.html_url}) by **${ev.actor.login}** (${issue.state}) at ${when}\n`;
                     break;
                   case 'IssueCommentEvent':
-                    const issue = ev.payload.issue;
+                    const issue_cmt = ev.payload.issue;
                     const comment = ev.payload.comment.body.split('\n')[0];
-                    md += `- **IssueCommentEvent** on [#${issue.number} ${issue.title}](${issue.html_url}) by **${ev.actor.login}**: "${comment}" at ${when}\n`;
+                    md += `- **IssueCommentEvent** on [#${issue_cmt.number} ${issue_cmt.title}](${issue_cmt.html_url}) by **${ev.actor.login}**: "${comment}" at ${when}\n`;
                     break;
                   case 'ReleaseEvent':
                     const rel = ev.payload.release;
