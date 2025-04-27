@@ -66,10 +66,9 @@ jobs:
             const file = 'README.md';
             let readme = fs.readFileSync(file, 'utf8');
             // replace everything between your markers:
-            readme = readme.replace(
-              /<!-- START_SECTION:activity -->(.*?)<!-- END_SECTION:activity -->/,
-              `<!-- START_SECTION:activity -->${md}<!-- END_SECTION:activity -->`
-            );
+            const regex = /<!--START_SECTION:activity-->(.*?)<!--END_SECTION:activity-->/s;
+            const match = readme.match(regex);
+            readme = readme.replace(match[1], md);
             fs.writeFileSync(file, readme, 'utf8');
 
       - name: Commit & Push if changed
