@@ -20,32 +20,32 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:05:41
-- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:03:02
-- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:52:14
-- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:51:56
-- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:48:59
+- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/1c08f374b09a563682bda84540a3808451bb7185) by PhungVietBac at 28/04/2025, 03:15:17
+- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/3cbb15aa538c80301c17849e2b003d4315e74925) by PhungVietBac at 28/04/2025, 03:05:41
+- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/19e1b40d5a145561cdbe32aee5197170e1310673) by PhungVietBac at 28/04/2025, 03:03:02
+- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/79ecbd54176a87fd2739a1709ca5fb03b0adcc21) by github-actions[bot] at 28/04/2025, 02:52:14
+- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/148d33b349a348ccc18ce464e87cd036b272c3eb) by PhungVietBac at 28/04/2025, 02:51:56
 
 ### [WebAPI](https://github.com/PhungVietBac/WebAPI)
-- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 02:28:54
-- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 02:27:20
-- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 00:31:35
-- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 26/04/2025, 02:51:29
-- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 26/04/2025, 02:43:05
+- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e) by PhungVietBac at 28/04/2025, 02:28:54
+- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353) by PhungVietBac at 28/04/2025, 02:27:20
+- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943) by PhungVietBac at 28/04/2025, 00:31:35
+- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/5ee21c6d6740e9c257d8ebd21412b5003d99c9bf) by PhungVietBac at 26/04/2025, 02:51:29
+- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0) by PhungVietBac at 26/04/2025, 02:43:05
 
 ### [Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App)
-- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 23:22:32
-- [MemberEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:57:59
-- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:56:13
-- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:54:57
-- [CreateEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:36:40
+- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/9ec2d977f49d3c1a66d4bc8533a6d9a84db307c5) by PhungVietBac at 26/04/2025, 23:22:32
+- [MemberEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App) by PhungVietBac at 26/04/2025, 22:57:59
+- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/c1e88c8541f90c2f6dbbecaaf089d043443ec124) by PhungVietBac at 26/04/2025, 22:56:13
+- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/d13f01151b5aa13bb93d7edb5d028c5eff8c3dd8) by PhungVietBac at 26/04/2025, 22:54:57
+- [CreateEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/tree/main) by PhungVietBac at 26/04/2025, 22:36:40
 
 ### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- [DeleteEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:10
-- [PushEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:06
-- [PullRequestEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:06
-- [PullRequestEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 20/04/2025, 23:41:45
-- [CreateEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 20/04/2025, 23:40:49
+- [DeleteEvent](https://github.com/PhungVietBac/AITripSystem) by PhungVietBac at 21/04/2025, 00:16:10
+- [PushEvent](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0) by PhungVietBac at 21/04/2025, 00:16:06
+- [PullRequestEvent](https://github.com/PhungVietBac/AITripSystem/pull/33) by PhungVietBac at 21/04/2025, 00:16:06
+- [PullRequestEvent](https://github.com/PhungVietBac/AITripSystem/pull/33) by PDAnh77 at 20/04/2025, 23:41:45
+- [CreateEvent](https://github.com/PhungVietBac/AITripSystem/tree/DucAnh) by PDAnh77 at 20/04/2025, 23:40:49
 
 ### [Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
