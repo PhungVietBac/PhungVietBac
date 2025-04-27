@@ -93,9 +93,9 @@ jobs:
       - name: Inject into README.md
         run: |
           sed -i '/<!-- START_SECTION:activity -->/,/<!-- END_SECTION:activity -->/c\
-<!-- START_SECTION:activity -->\
-$(steps.render.outputs.result)\
-<!-- END_SECTION:activity -->' README.md
+          <!-- START_SECTION:activity -->\
+          $(steps.render.outputs.result)\
+          <!-- END_SECTION:activity -->' README.md
 
       - name: Commit & Push if changed
         run: |
