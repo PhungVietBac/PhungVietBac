@@ -58,7 +58,7 @@ jobs:
                       const sha7 = c.sha.slice(0,7);
                       // build web URL from repo.html_url
                       const commitUrl = `${repo.html_url}/commit/${c.sha}`;
-                      md += `  - [${sha7}](${commitUrl}): ${c.message.replace(/\n+/g, ' + ')} _(by ${c.author.name})_\n`;
+                      md += `  - [\`${sha7}\`](${commitUrl}): ${c.message.replace(/\n+/g, ' + ')} _(by ${c.author.name})_\n`;
                     }
                     break;
                   case 'PullRequestEvent':
@@ -95,7 +95,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs   = require('fs');
-            const md   = `\n${{ steps.render.outputs.result }}\n`;
+            const md   = `${{ steps.render.outputs.result }}`;
             const file = 'README.md';
             let readme = fs.readFileSync(file, 'utf8');
             // replace everything between your markers:
