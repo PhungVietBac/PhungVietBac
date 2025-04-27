@@ -63,7 +63,7 @@ jobs:
                     break;
                   case 'PullRequestEvent':
                     const pr = ev.payload.pull_request;
-                    md += `- **PullRequestEvent**: [#${pr.number} ${pr.title}](${pr.html_url}) by **${ev.actor.login}** (${pr.state}${pr.merged? ', merged':'')}) at ${when}\n`;
+                    md += `- **PullRequestEvent**: [#${pr.number} ${pr.title}](${pr.html_url}) by **${ev.actor.login}** (${pr.state}${pr.merged? ', merged':''}) at ${when}\n`;
                     break;
                   case 'IssuesEvent':
                     const issue = ev.payload.issue;
