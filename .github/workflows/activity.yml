@@ -33,7 +33,7 @@ jobs:
               per_page: maxRepos
             });
 
-            let md = '';
+            let md = '\n';
             for (const repo of repos) {
               md += `### [${repo.name}](${repo.html_url})\n`;
               const { data: events } = await github.rest.activity.listRepoEvents({
