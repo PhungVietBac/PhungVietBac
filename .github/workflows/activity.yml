@@ -24,14 +24,22 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            // ... build your Markdown into `md`
+            const activities = [
+              { repo: 'PhungVietBac/PhungVietBac', event: 'PushEvent', date: '28/04/2025, 02:39:53' },
+              { repo: 'PhungVietBac/WebAPI', event: 'PushEvent', date: '28/04/2025, 02:28:54' },
+              // Add more events as needed
+            ];
+
+            let md = "# Recent Activity Across Top 5 Repos\n\n";
+            activities.forEach(activity => {
+              md += `## [${activity.repo}](https://github.com/${activity.repo})\n`;
+              md += `- [${activity.event}](${activity.repo}) at ${activity.date}\n\n`;
+            });
             return md;
 
       - name: Write README.md
         run: |
-          cat << 'EOF' > README.md
-          ${{ steps.render.outputs.result }}
-          EOF
+          echo "${{ steps.render.outputs.result }}" > README.md
 
       - name: Show git status & diff
         run: |
