@@ -1,4 +1,4 @@
-name: Update README with Activity
+name: Update README with Multi-Repo Activity
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -10,7 +10,6 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -18,43 +17,69 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Fetch and Render Activity
+      - name: Fetch & Render Activity
         id: render
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const activities = [
-              { repo: 'PhungVietBac/PhungVietBac', event: 'PushEvent', date: '28/04/2025, 02:39:53' },
-              { repo: 'PhungVietBac/WebAPI', event: 'PushEvent', date: '28/04/2025, 02:28:54' },
-              // Add more events as needed
-            ];
-
-            let md = "# Recent Activity Across Top 5 Repos\n\n";
-            activities.forEach(activity => {
-              md += `## [${activity.repo}](https://github.com/${activity.repo})\n`;
-              md += `- [${activity.event}](${activity.repo}) at ${activity.date}\n\n`;
+            const username   = 'PhungVietBac';
+            const maxRepos   = 6;
+            const eventsPerRepo = 5;
+            // 1. list top repos
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: 'updated',
+              per_page: maxRepos
             });
+
+            let md = '';
+            for (const repo of repos) {
+              md += `### [${repo.name}](${repo.html_url})\n`;
+              const { data: events } = await github.rest.activity.listRepoEvents({
+                owner: username,
+                repo: repo.name,
+                per_page: eventsPerRepo
+              });
+              if (events.length === 0) {
+                md += `- _No recent events_\n\n`;
+                continue;
+              }
+              for (const ev of events) {
+                const date = new Date(ev.created_at)
+                  .toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
+                md += `- [${ev.type}](${ev.repo?.url || repo.html_url}) at ${date}\n`;
+              }
+              md += `\n`;
+            }
+
+            // return the markdown block
             return md;
 
-      - name: Write README.md
-        run: |
-          echo "# Recent Activity Across Top 5 Repos\n\n## [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)\n- [PushEvent](https://github.com/PhungVietBac/PhungVietBac) at 28/04/2025, 02:39:53\n\n## [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)\n- [PushEvent](https://github.com/PhungVietBac/WebAPI) at 28/04/2025, 02:28:54\n\n" > README.md
-          
-      - name: Show git status & diff
-        run: |
-          git status
-          git diff
-          git diff --cached
+      - name: Inject into README
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs   = require('fs');
+            const md   = `\n${{ steps.render.outputs.result }}\n`;
+            const file = 'README.md';
+            let readme = fs.readFileSync(file, 'utf8');
+            // replace everything between your markers:
+            readme = readme.replace(
+              /<!-- START_SECTION:activity -->([\s\S]*?)<!-- END_SECTION:activity -->/,
+              `<!-- START_SECTION:activity -->${md}<!-- END_SECTION:activity -->`
+            );
+            fs.writeFileSync(file, readme, 'utf8');
 
-      - name: Commit & Push if changes
+      - name: Commit & Push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "PhungVietBac"
+          git config user.email "bacphungviet@gmail.com"
           git add README.md
           if git diff --cached --exit-code; then
             echo "✅ No changes to commit"
           else
-            git commit -m "chore: update multi-repo activity"
+            git commit -m "⚡ Update README with the recent activity"
             git push origin HEAD:${{ github.ref_name }}
           fi
