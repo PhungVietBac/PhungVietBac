@@ -80,6 +80,7 @@ jobs:
                     break;
                   default:
                     md += `- **${ev.type}** by **${ev.actor.login}** at ${when} ([repo](${repo.html_url}))\n`;
+                    break;
                 }
               }
               md += `\n`;
