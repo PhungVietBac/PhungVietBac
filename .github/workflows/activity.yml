@@ -48,7 +48,26 @@ jobs:
               for (const ev of events) {
                 const date = new Date(ev.created_at)
                   .toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
-                md += `- [${ev.type}](${ev.repo?.url || repo.html_url}) at ${date}\n`;
+
+                // Hiển thị chi tiết event
+                switch (ev.type) {
+                  case 'PushEvent':
+                    md += `- [PushEvent](https://github.com/${username}/${repo.name}/commit/${ev.payload.commits[0].sha}) by ${ev.actor.login} at ${date}\n`;
+                    break;
+                  case 'PullRequestEvent':
+                    md += `- [PullRequestEvent](https://github.com/${username}/${repo.name}/pull/${ev.payload.pull_request.number}) by ${ev.actor.login} at ${date}\n`;
+                    break;
+                  case 'CreateEvent':
+                    md += `- [CreateEvent](https://github.com/${username}/${repo.name}/tree/${ev.payload.ref}) by ${ev.actor.login} at ${date}\n`;
+                    break;
+                  case 'IssueCommentEvent':
+                    md += `- [IssueCommentEvent](https://github.com/${username}/${repo.name}/issues/${ev.payload.issue.number}) by ${ev.actor.login} at ${date}\n`;
+                    break;
+                  // Thêm các loại event khác nếu cần
+                  default:
+                    md += `- [${ev.type}](${repo.html_url}) by ${ev.actor.login} at ${date}\n`;
+                    break;
+                }
               }
               md += `\n`;
             }
