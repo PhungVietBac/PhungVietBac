@@ -19,33 +19,51 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/22daf3f3c9568ef18b575976ae18bbe3324aa51a) by github-actions[bot] at 28/04/2025, 04:37:02
-- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/3b0426ba3edc32605f7e2f37d0d7e35c8872bfa6) by PhungVietBac at 28/04/2025, 04:36:40
-- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/8744f00ebde0a38ef23643a1dda4eea004d53293) by PhungVietBac at 28/04/2025, 04:28:16
-- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/e2a3e6903fb7d0799e3c8d9fb5dae9428c2e500a) by PhungVietBac at 28/04/2025, 04:24:56
-- [PushEvent](https://github.com/PhungVietBac/PhungVietBac/commit/67f775bad723efaefbfa001eace9068d4857105a) by PhungVietBac at 28/04/2025, 04:12:32
+"### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:33:34
+  - [6cb3ee1](https://github.com/PhungVietBac/PhungVietBac/commit/6cb3ee17963fb763b1b3af7257a7cd6c51001b30): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:22:16
+  - [23e8ef6](https://github.com/PhungVietBac/PhungVietBac/commit/23e8ef63fe3f9f17c863ee56522089fb6e1b8690): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:18:31
+  - [7ef30f6](https://github.com/PhungVietBac/PhungVietBac/commit/7ef30f6409ad75ca96dd04c48373f68f415f2acf): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:11:02
+  - [3f2adab](https://github.com/PhungVietBac/PhungVietBac/commit/3f2adab3a3f4b4f8accbd946cb1f3fb946e74d54): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:01:28
+  - [5d3e243](https://github.com/PhungVietBac/PhungVietBac/commit/5d3e2433d9290037b628ecc027a9fa4ff8c4e9ca): Update activity.yml _(by Phùng Việt Bắc)_
 
 ### [WebAPI](https://github.com/PhungVietBac/WebAPI)
-- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e) by PhungVietBac at 28/04/2025, 02:28:54
-- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353) by PhungVietBac at 28/04/2025, 02:27:20
-- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943) by PhungVietBac at 28/04/2025, 00:31:35
-- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/5ee21c6d6740e9c257d8ebd21412b5003d99c9bf) by PhungVietBac at 26/04/2025, 02:51:29
-- [PushEvent](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0) by PhungVietBac at 26/04/2025, 02:43:05
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
+  - [dd99cfe](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e): Remove unnecessary file _(by PhungVietBac)_
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
+  - [dc2a3e0](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353): Fix clean cache _(by PhungVietBac)_
+  - [7948139](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 00:31:35
+  - [4b55429](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943): Add proxy and cache _(by PhungVietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:51:29
+  - [5ee21c6](https://github.com/PhungVietBac/WebAPI/commit/5ee21c6d6740e9c257d8ebd21412b5003d99c9bf): Update requirements _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:43:05
+  - [a7bb920](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0): Storage API _(by VietBac)_
 
 ### [Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App)
-- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/9ec2d977f49d3c1a66d4bc8533a6d9a84db307c5) by PhungVietBac at 26/04/2025, 23:22:32
-- [MemberEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App) by PhungVietBac at 26/04/2025, 22:57:59
-- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/c1e88c8541f90c2f6dbbecaaf089d043443ec124) by PhungVietBac at 26/04/2025, 22:56:13
-- [PushEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/d13f01151b5aa13bb93d7edb5d028c5eff8c3dd8) by PhungVietBac at 26/04/2025, 22:54:57
-- [CreateEvent](https://github.com/PhungVietBac/Armoiracle-Fashion-App/tree/main) by PhungVietBac at 26/04/2025, 22:36:40
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 23:22:32
+  - [9ec2d97](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/9ec2d977f49d3c1a66d4bc8533a6d9a84db307c5): Update gitignore _(by PhungVietBac)_
+- **MemberEvent** by **PhungVietBac** at 26/04/2025, 22:57:59 ([repo](https://github.com/PhungVietBac/Armoiracle-Fashion-App))
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 22:56:13
+  - [c1e88c8](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/c1e88c8541f90c2f6dbbecaaf089d043443ec124): Delete .idea directory _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 22:54:57
+  - [d13f011](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/d13f01151b5aa13bb93d7edb5d028c5eff8c3dd8): Init repository _(by PhungVietBac)_
+- **CreateEvent** by **PhungVietBac** at 26/04/2025, 22:36:40 ([repo](https://github.com/PhungVietBac/Armoiracle-Fashion-App))
 
 ### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- [DeleteEvent](https://github.com/PhungVietBac/AITripSystem) by PhungVietBac at 21/04/2025, 00:16:10
-- [PushEvent](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0) by PhungVietBac at 21/04/2025, 00:16:06
-- [PullRequestEvent](https://github.com/PhungVietBac/AITripSystem/pull/33) by PhungVietBac at 21/04/2025, 00:16:06
-- [PullRequestEvent](https://github.com/PhungVietBac/AITripSystem/pull/33) by PDAnh77 at 20/04/2025, 23:41:45
-- [CreateEvent](https://github.com/PhungVietBac/AITripSystem/tree/DucAnh) by PDAnh77 at 20/04/2025, 23:40:49
+- **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([repo](https://github.com/PhungVietBac/AITripSystem))
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
+  - [847f95c](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
+  - [146f69e](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh
+
+Add modal edit user profile _(by PhungVietBac)_
+- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
+- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PDAnh77** (open) at 20/04/2025, 23:41:45
+- **CreateEvent** by **PDAnh77** at 20/04/2025, 23:40:49 ([repo](https://github.com/PhungVietBac/AITripSystem))
 
 ### [Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
@@ -53,7 +71,7 @@
 ### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
-
+"
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
