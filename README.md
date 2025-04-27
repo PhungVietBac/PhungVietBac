@@ -19,7 +19,7 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-"### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:05:41
 - [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:03:02
 - [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:52:14
@@ -53,7 +53,7 @@
 ### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
-"
+
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
