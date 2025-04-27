@@ -34,7 +34,6 @@ jobs:
             for (const repo of repos) {
               md += `## [${repo.name}](${repo.html_url})\n\n`;
 
-              // Lấy events
               const { data: events } = await github.rest.activity.listRepoEvents({
                 owner: username,
                 repo: repo.name,
@@ -55,7 +54,6 @@ jobs:
                     md += `- **PushEvent**: ${commits.length} commit(s) by **${ev.actor.login}** at ${when}\n`;
                     for (const c of commits) {
                       const sha7 = c.sha.slice(0,7);
-                      // build web URL from repo.html_url
                       const commitUrl = `${repo.html_url}/commit/${c.sha}`;
                       md += `  - [\`${sha7}\`]( ${commitUrl} ): ${c.message} _(by ${c.author.name})_\n`;
                     }
@@ -95,9 +93,9 @@ jobs:
       - name: Inject into README.md
         run: |
           sed -i '/<!-- START_SECTION:activity -->/,/<!-- END_SECTION:activity -->/c\
-          <!-- START_SECTION:activity -->\
-          ${{ steps.render.outputs.result }}\
-          <!-- END_SECTION:activity -->' README.md
+<!-- START_SECTION:activity -->\
+$(steps.render.outputs.result)\
+<!-- END_SECTION:activity -->' README.md
 
       - name: Commit & Push if changed
         run: |
