@@ -95,7 +95,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs   = require('fs');
-            const md   = `${{ steps.render.outputs.result }}`;
+            const md   = steps.render.outputs.result;
             const file = 'README.md';
             let readme = fs.readFileSync(file, 'utf8');
             // replace everything between your markers:
