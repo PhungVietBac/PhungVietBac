@@ -19,11 +19,41 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/PhungVietBac/AITripSystem/pull/33) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-2. 🎉 Merged PR [#31](https://github.com/PhungVietBac/AITripSystem/pull/31) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-3. 🎉 Merged PR [#30](https://github.com/PhungVietBac/AITripSystem/pull/30) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-4. 🎉 Merged PR [#29](https://github.com/PhungVietBac/AITripSystem/pull/29) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-5. 🎉 Merged PR [#28](https://github.com/PhungVietBac/AITripSystem/pull/28) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+"### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:05:41
+- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 03:03:02
+- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:52:14
+- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:51:56
+- [PushEvent](https://api.github.com/repos/PhungVietBac/PhungVietBac) at 28/04/2025, 02:48:59
+
+### [WebAPI](https://github.com/PhungVietBac/WebAPI)
+- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 02:28:54
+- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 02:27:20
+- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 28/04/2025, 00:31:35
+- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 26/04/2025, 02:51:29
+- [PushEvent](https://api.github.com/repos/PhungVietBac/WebAPI) at 26/04/2025, 02:43:05
+
+### [Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App)
+- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 23:22:32
+- [MemberEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:57:59
+- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:56:13
+- [PushEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:54:57
+- [CreateEvent](https://api.github.com/repos/PhungVietBac/Armoiracle-Fashion-App) at 26/04/2025, 22:36:40
+
+### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- [DeleteEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:10
+- [PushEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:06
+- [PullRequestEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 21/04/2025, 00:16:06
+- [PullRequestEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 20/04/2025, 23:41:45
+- [CreateEvent](https://api.github.com/repos/PhungVietBac/AITripSystem) at 20/04/2025, 23:40:49
+
+### [Test](https://github.com/PhungVietBac/Test)
+- _No recent events_
+
+### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
+- _No recent events_
+
+"
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
