@@ -20,16 +20,16 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 06:01:19
+  - [32b6d7b](https://github.com/PhungVietBac/PhungVietBac/commit/32b6d7b5f90cc4b6e24326f97980ed3aa99791c0): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 05:51:54
+  - [7274453](https://github.com/PhungVietBac/PhungVietBac/commit/72744531367596e2a60e2f30d4e8fa28e6fdae03): ⚡ Update README with the recent activity _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:51:27
   - [f9dafcc](https://github.com/PhungVietBac/PhungVietBac/commit/f9dafcc108b1ef0b1a504b3c98cd280da303a16c): Update activity.yml _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 05:47:39
   - [a02955f](https://github.com/PhungVietBac/PhungVietBac/commit/a02955fc1ed03b0aa16d25cb46e2047ecfef7318): ⚡ Update README with the recent activity _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:47:15
   - [ea12628](https://github.com/PhungVietBac/PhungVietBac/commit/ea1262884273c718523a3184444533d5678439f6): Update activity.yml _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:45:44
-  - [a817cbd](https://github.com/PhungVietBac/PhungVietBac/commit/a817cbd107b64ad9f1eae2aaaf88561835c2d0ad): Update activity.yml _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 05:39:44
-  - [a32f97f](https://github.com/PhungVietBac/PhungVietBac/commit/a32f97f6c119c0241400be75a4cff7b7516f819a): Update activity.yml _(by Phùng Việt Bắc)_
 
 ### [WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
@@ -58,9 +58,7 @@
 - **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([[object Object]](https://github.com/PhungVietBac/AITripSystem))
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
   - [847f95c](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
-  - [146f69e](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh
-
-Add modal edit user profile _(by PhungVietBac)_
+  - [146f69e](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh -  - Add modal edit user profile _(by PhungVietBac)_
 - **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
 - **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PDAnh77** (open) at 20/04/2025, 23:41:45
 - **CreateEvent** by **PDAnh77** at 20/04/2025, 23:40:49 ([[object Object]](https://github.com/PhungVietBac/AITripSystem))
