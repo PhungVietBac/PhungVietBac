@@ -1,22 +1,72 @@
-name: Update README
+name: Update README with Multi-Repo Activity
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_SECRET_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and Render Activity
+        uses: actions/github-script@v6
+        id: render
         with:
-          GH_USERNAME: PhungVietBac
-          COMMIT_NAME: PhungVietBac
-          COMMIT_EMAIL: bacphungviet@gmail.com
-          
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const username = 'PhungVietBac';
+            const maxRepos = 5;         // max số repo muốn theo dõi
+            const eventsPerRepo = 5;    // max sự kiện mỗi repo
+
+            // 1. Lấy danh sách public repos
+            const { data: repos } = await github.rest.repos.listForUser({
+              username,
+              sort: 'updated',
+              per_page: maxRepos
+            });
+
+            let md = `# Recent Activity Across Top ${repos.length} Repos\n\n`;
+
+            for (const repo of repos) {
+              md += `## [${repo.name}](${repo.html_url})\n\n`;
+
+              // 2. Lấy events cho từng repo
+              const { data: events } = await github.rest.activity.listRepoEvents({
+                owner: username,
+                repo: repo.name,
+                per_page: eventsPerRepo
+              });
+
+              if (events.length === 0) {
+                md += `- _No recent events_\n\n`;
+                continue;
+              }
+
+              // 3. Build markdown lines
+              for (const ev of events) {
+                // Mỗi event có thể có nhiều type, ta chỉ render type + link + timestamp
+                const date = new Date(ev.created_at).toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
+                const line = `- [${ev.type}](${ev.actor.html_url}) in [${repo.name}](${repo.html_url}) at ${date}\n`;
+                md += line;
+              }
+              md += `\n`;
+            }
+
+            // Trả kết quả về bước tiếp theo
+            return md;
+
+      - name: Update README.md
+        run: |
+          echo "${{ steps.render.outputs.result }}" > README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update multi-repo activity"
+          git push
