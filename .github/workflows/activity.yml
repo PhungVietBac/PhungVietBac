@@ -87,7 +87,7 @@ jobs:
             }
 
             // return the markdown block
-            return md;
+            return md.replace(/"/g, '');
 
       - name: Inject into README
         uses: actions/github-script@v6
