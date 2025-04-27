@@ -19,6 +19,11 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#33](https://github.com/PhungVietBac/AITripSystem/pull/33) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+2. 🎉 Merged PR [#31](https://github.com/PhungVietBac/AITripSystem/pull/31) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+3. 🎉 Merged PR [#30](https://github.com/PhungVietBac/AITripSystem/pull/30) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+4. 🎉 Merged PR [#29](https://github.com/PhungVietBac/AITripSystem/pull/29) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+5. 🎉 Merged PR [#28](https://github.com/PhungVietBac/AITripSystem/pull/28) in [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
