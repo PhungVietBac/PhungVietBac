@@ -67,7 +67,7 @@ jobs:
             let readme = fs.readFileSync(file, 'utf8');
             // replace everything between your markers:
             readme = readme.replace(
-              /<!-- START_SECTION:activity -->([\s\S]*?)<!-- END_SECTION:activity -->/,
+              /<!-- START_SECTION:activity -->(.*?)<!-- END_SECTION:activity -->/,
               `<!-- START_SECTION:activity -->${md}<!-- END_SECTION:activity -->`
             );
             fs.writeFileSync(file, readme, 'utf8');
