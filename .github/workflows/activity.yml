@@ -21,53 +21,72 @@ jobs:
         id: render
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.MY_PAT }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const username = 'PhungVietBac';
-            const { data: events } = await github.rest.activity.listPublicEventsForUser({
-              username,
-              per_page: 100,
+            const username   = 'PhungVietBac';
+            const maxRepos   = 6;
+            const eventsPerRepo = 5;
+            // 1. list top repos
+            const { data: repos } = await github.rest.repos.listForAuthenticatedUser({
+              affiliation: 'owner,collaborator,organization_member',
+              sort: 'updated',
+              per_page: maxRepos
             });
 
             let md = '\n';
-            const seenRepos = new Set();
-
-            for (const ev of events) {
-              const repoName = ev.repo.name;
-
-              const when = new Date(ev.created_at).toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
-
-              md += `### [${repoName}](https://github.com/${repoName})\n`;
-
-              switch (ev.type) {
-                case 'PushEvent':
-                  md += `- **PushEvent** by **${ev.actor.login}** at ${when}\n`;
-                  break;
-                case 'PullRequestEvent':
-                  const pr = ev.payload.pull_request;
-                  md += `- **PullRequestEvent**: [#${pr.number} ${pr.title}](${pr.html_url}) by **${ev.actor.login}** (${pr.state}${pr.merged ? ', merged':''}) at ${when}\n`;
-                  break;
-                case 'IssuesEvent':
-                  const issue = ev.payload.issue;
-                  md += `- **IssuesEvent**: [#${issue.number} ${issue.title}](${issue.html_url}) by **${ev.actor.login}** (${issue.state}) at ${when}\n`;
-                  break;
-                case 'IssueCommentEvent':
-                  const issue_cmt = ev.payload.issue;
-                  const comment = ev.payload.comment.body.split('\n')[0];
-                  md += `- **IssueCommentEvent** on [#${issue_cmt.number} ${issue_cmt.title}](${issue_cmt.html_url}) by **${ev.actor.login}**: "${comment}" at ${when}\n`;
-                  break;
-                case 'ReleaseEvent':
-                  const rel = ev.payload.release;
-                  md += `- **ReleaseEvent**: [${rel.name || rel.tag_name}](${rel.html_url}) (${rel.tag_name}) by **${ev.actor.login}** at ${when}\n`;
-                  break;
-                default:
-                  md += `- **${ev.type}** by **${ev.actor.login}** at ${when}\n`;
-                  break;
+            for (const repo of repos) {
+              md += `### [${repo.name}](${repo.html_url})\n`;
+              const { data: events } = await github.rest.activity.listRepoEvents({
+                owner: repo.owner.login,
+                repo: repo.name,
+                per_page: eventsPerRepo
+              });
+              if (events.length === 0) {
+                md += `- _No recent events_\n\n`;
+                continue;
               }
+              for (const ev of events) {
+                const when = new Date(ev.created_at)
+                  .toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
 
+                // Hiển thị chi tiết event
+                switch (ev.type) {
+                  case 'PushEvent':
+                    const commits = ev.payload.commits || [];
+                    md += `- **PushEvent**: ${commits.length} commit(s) by **${ev.actor.login}** at ${when}\n`;
+                    for (const c of commits) {
+                      const sha7 = c.sha.slice(0,7);
+                      // build web URL from repo.html_url
+                      const commitUrl = `${repo.html_url}/commit/${c.sha}`;
+                      md += `  - [\`${sha7}\`](${commitUrl}): ${c.message.replace(/\n+/g, ' + ')} _(by ${c.author.name})_\n`;
+                    }
+                    break;
+                  case 'PullRequestEvent':
+                    const pr = ev.payload.pull_request;
+                    md += `- **PullRequestEvent**: [#${pr.number} ${pr.title}](${pr.html_url}) by **${ev.actor.login}** (${pr.state}${pr.merged? ', merged':''}) at ${when}\n`;
+                    break;
+                  case 'IssuesEvent':
+                    const issue = ev.payload.issue;
+                    md += `- **IssuesEvent**: [#${issue.number} ${issue.title}](${issue.html_url}) by **${ev.actor.login}** (${issue.state}) at ${when}\n`;
+                    break;
+                  case 'IssueCommentEvent':
+                    const issue_cmt = ev.payload.issue;
+                    const comment = ev.payload.comment.body.split('\n')[0];
+                    md += `- **IssueCommentEvent** on [#${issue_cmt.number} ${issue_cmt.title}](${issue_cmt.html_url}) by **${ev.actor.login}**: "${comment}" at ${when}\n`;
+                    break;
+                  case 'ReleaseEvent':
+                    const rel = ev.payload.release;
+                    md += `- **ReleaseEvent**: [${rel.name || rel.tag_name}](${rel.html_url}) (${rel.tag_name}) by **${ev.actor.login}** at ${when}\n`;
+                    break;
+                  default:
+                    md += `- **${ev.type}** by **${ev.actor.login}** at ${when} ([${repo.name}](${repo.html_url}))\n`;
+                    break;
+                }
+              }
               md += `\n`;
             }
 
+            // return the markdown block
             return md;
 
       - name: Inject into README
