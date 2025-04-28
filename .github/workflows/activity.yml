@@ -37,7 +37,7 @@ jobs:
             for (const repo of repos) {
               md += `### [${repo.name}](${repo.html_url})\n`;
               const { data: events } = await github.rest.activity.listRepoEvents({
-                owner: repo.owner.login,
+                owner: username,
                 repo: repo.name,
                 per_page: eventsPerRepo
               });
