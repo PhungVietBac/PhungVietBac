@@ -44,16 +44,6 @@
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:43:05
   - [`a7bb920`](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0): Storage API _(by VietBac)_
 
-### [Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 23:22:32
-  - [`9ec2d97`](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/9ec2d977f49d3c1a66d4bc8533a6d9a84db307c5): Update gitignore _(by PhungVietBac)_
-- **MemberEvent** by **PhungVietBac** at 26/04/2025, 22:57:59 ([Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App))
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 22:56:13
-  - [`c1e88c8`](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/c1e88c8541f90c2f6dbbecaaf089d043443ec124): Delete .idea directory _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 22:54:57
-  - [`d13f011`](https://github.com/PhungVietBac/Armoiracle-Fashion-App/commit/d13f01151b5aa13bb93d7edb5d028c5eff8c3dd8): Init repository _(by PhungVietBac)_
-- **CreateEvent** by **PhungVietBac** at 26/04/2025, 22:36:40 ([Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App))
-
 ### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
@@ -67,6 +57,9 @@
 - _No recent events_
 
 ### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
+- _No recent events_
+
+### [Olympia](https://github.com/PhungVietBac/Olympia)
 - _No recent events_
 
 <!--END_SECTION:activity-->
