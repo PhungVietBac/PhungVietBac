@@ -108,7 +108,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=WebAPI&theme=radical)](https://github.com/PhungVietBac/WebAPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=DemoFirebase&theme=radical)](https://github.com/PhungVietBac/DemoFirebase)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=Olympia&theme=radical)](https://github.com/PhungVietBac/Olympia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=WENS_project_NT131.P13_group15&theme=radical)](https://github.com/PhungVietBac/ENS_project_NT131.P13_group15)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhungVietBac&repo=WENS_project_NT131.P13_group15&theme=radical)](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TranDai108&repo=Armoiracle_Fashion_App&theme=radical)](https://github.com/TranDai108/Armoiracle_Fashion_App)
 
 ---
