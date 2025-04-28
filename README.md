@@ -19,48 +19,17 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 19:58:51
-  - [`f14d6fc`](https://github.com/PhungVietBac/PhungVietBac/commit/f14d6fc940c65125c5aec23240e9f5cdb20c37b7): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 17:59:09
-  - [`f1f52fb`](https://github.com/PhungVietBac/PhungVietBac/commit/f1f52fbad6fb3ab2f30148f3e2fed015f4e4b899): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 16:25:05
-  - [`fabdb0b`](https://github.com/PhungVietBac/PhungVietBac/commit/fabdb0bf1415756a50c4f1a2036cb18c7f2c607c): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 14:50:50
-  - [`4e0421b`](https://github.com/PhungVietBac/PhungVietBac/commit/4e0421b11f2805e5b71e09fd4bd86c0e8a1ac24f): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 13:40:20
-  - [`8822fec`](https://github.com/PhungVietBac/PhungVietBac/commit/8822fec9ad1f0ee69a5a22cac292ac94ab0efa08): ⚡ Update README with the recent activity _(by github-actions[bot])_
+### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent** by **PhungVietBac** at 28/04/2025, 06:30:02
 
-### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
-  - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
-  - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
-- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
-- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PDAnh77** (open) at 20/04/2025, 23:41:45
-- **CreateEvent** by **PDAnh77** at 20/04/2025, 23:40:49 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent** by **PhungVietBac** at 28/04/2025, 02:28:54
 
-### [WebAPI](https://github.com/PhungVietBac/WebAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
-  - [`dd99cfe`](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e): Remove unnecessary file _(by PhungVietBac)_
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
-  - [`dc2a3e0`](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353): Fix clean cache _(by PhungVietBac)_
-  - [`7948139`](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 00:31:35
-  - [`4b55429`](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943): Add proxy and cache _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:51:29
-  - [`5ee21c6`](https://github.com/PhungVietBac/WebAPI/commit/5ee21c6d6740e9c257d8ebd21412b5003d99c9bf): Update requirements _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:43:05
-  - [`a7bb920`](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0): Storage API _(by VietBac)_
+### [PhungVietBac/Armoiracle-Fashion-App](https://github.com/PhungVietBac/Armoiracle-Fashion-App)
+- **PushEvent** by **PhungVietBac** at 26/04/2025, 23:22:32
 
-### [DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
-- _No recent events_
-
-### [Olympia](https://github.com/PhungVietBac/Olympia)
-- _No recent events_
-
-### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
-- _No recent events_
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10
 
 <!--END_SECTION:activity-->
 
