@@ -20,16 +20,16 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:16:51
-  - [`e651f60`](https://github.com/PhungVietBac/PhungVietBac/commit/e651f60e5cf91aa0e14c41b8cc732f2a046b0bae): Update README.md _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:16:30
-  - [`76280a2`](https://github.com/PhungVietBac/PhungVietBac/commit/76280a25d3519f18a01adea5b9e01d70feb9c6ed): Update README.md _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:15:35
-  - [`9a9848a`](https://github.com/PhungVietBac/PhungVietBac/commit/9a9848a8d2f4493e7ce6c731bc63dc88c91983e6): Update README.md _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 22:54:54
-  - [`f7815bd`](https://github.com/PhungVietBac/PhungVietBac/commit/f7815bd64be6e21a6455803a61aec53a8dfc1629): Update README.md _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 22:48:28
-  - [`bb55bbc`](https://github.com/PhungVietBac/PhungVietBac/commit/bb55bbca7a1a912bcacd7e75c61b3f07eb692cbb): Update README.md _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 23:36:12
+  - [`9f7be61`](https://github.com/PhungVietBac/PhungVietBac/commit/9f7be61facca5d460d827ba2d162f5cbd26a5d76): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:35:53
+  - [`cbb68cd`](https://github.com/PhungVietBac/PhungVietBac/commit/cbb68cde75916a86eb01c99042396375bb240a64): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:34:32
+  - [`f585815`](https://github.com/PhungVietBac/PhungVietBac/commit/f585815767af5c442f13def961e8b9f5abdca8b7): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 23:32:44
+  - [`d12a2c0`](https://github.com/PhungVietBac/PhungVietBac/commit/d12a2c0cb7ff24a35f2f646102f93ee23d902c6b): Update activity.yml _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 23:29:04
+  - [`701184a`](https://github.com/PhungVietBac/PhungVietBac/commit/701184a96fc5244287bf7d71d47ddc7f300bdcda): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
