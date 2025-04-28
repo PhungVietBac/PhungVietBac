@@ -21,14 +21,14 @@ jobs:
         id: render
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.MY_SECRET_TOKEN }}
           script: |
             const username   = 'PhungVietBac';
             const maxRepos   = 6;
             const eventsPerRepo = 5;
             // 1. list top repos
-            const { data: repos } = await github.rest.repos.listForUser({
-              username,
+            const { data: repos } = await github.rest.repos.listForAuthenticatedUser({
+              affiliation: 'owner,collaborator,organization_member',
               sort: 'updated',
               per_page: maxRepos
             });
