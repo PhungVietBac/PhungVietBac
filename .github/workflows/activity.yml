@@ -24,6 +24,7 @@ jobs:
           github-token: ${{ secrets.MY_PAT }}
           script: |
             const username   = 'PhungVietBac';
+            const bot        = 'github-actions[bot]';
             const maxRepos   = 10;
             const eventsPerRepo = 5;
             // 1. list top repos
@@ -46,7 +47,7 @@ jobs:
                 continue;
               }
               for (const ev of events) {
-                if (username !== ev.actor.login) continue;
+                if (username !== ev.actor.login && bot !== ev.actor.login) continue;
                 const when = new Date(ev.created_at)
                   .toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
 
