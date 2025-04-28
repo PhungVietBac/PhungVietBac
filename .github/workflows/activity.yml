@@ -21,7 +21,7 @@ jobs:
         id: render
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.MY_PAT }}
           script: |
             const username   = 'PhungVietBac';
             const maxRepos   = 6;
