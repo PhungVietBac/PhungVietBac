@@ -46,6 +46,7 @@ jobs:
                 continue;
               }
               for (const ev of events) {
+                if (username !== ev.actor.login) continue;
                 const when = new Date(ev.created_at)
                   .toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
 
