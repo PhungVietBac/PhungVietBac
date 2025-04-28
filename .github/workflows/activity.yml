@@ -34,8 +34,6 @@ jobs:
 
             for (const ev of events) {
               const repoName = ev.repo.name;
-              if (!repoName || seenRepos.has(repoName)) continue;
-              seenRepos.add(repoName);
 
               const when = new Date(ev.created_at).toLocaleString('en-GB', { timeZone: 'Asia/Ho_Chi_Minh' });
 
