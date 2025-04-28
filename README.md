@@ -32,7 +32,7 @@
   - [`4e0421b`](https://github.com/PhungVietBac/PhungVietBac/commit/4e0421b11f2805e5b71e09fd4bd86c0e8a1ac24f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
   - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
   - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
