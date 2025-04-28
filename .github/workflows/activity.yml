@@ -24,7 +24,7 @@ jobs:
           github-token: ${{ secrets.MY_PAT }}
           script: |
             const username   = 'PhungVietBac';
-            const maxRepos   = 20;
+            const maxRepos   = 10;
             const eventsPerRepo = 5;
             // 1. list top repos
             const { data: repos } = await github.rest.repos.listForAuthenticatedUser({
@@ -35,9 +35,9 @@ jobs:
 
             let md = '\n';
             for (const repo of repos) {
-              md += `### [${repo.name}](${repo.html_url})\n`;
+              md += `### [${repo.full_name}](${repo.html_url})\n`;
               const { data: events } = await github.rest.activity.listRepoEvents({
-                owner: username,
+                owner: repo.owner.login,
                 repo: repo.name,
                 per_page: eventsPerRepo
               });
