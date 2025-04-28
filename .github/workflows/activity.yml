@@ -80,16 +80,30 @@ jobs:
                     const rel = ev.payload.release;
                     md += `- **ReleaseEvent**: [${rel.name || rel.tag_name}](${rel.html_url}) (${rel.tag_name}) by **${ev.actor.login}** at ${when}\n`;
                     break;
+                  case 'ForkEvent':
+                    const fork = ev.payload.forkee;
+                    md += `- **ForkEvent**: Forked to [${fork.full_name}](${fork.html_url}) by **${ev.actor.login}** at ${when}\n`;
+                    break;
+                  case 'MemberEvent':
+                    const member = ev.payload.member;
+                    md += `- **MemberEvent**: ${ev.actor.login} added ${member.login} to ${ev.repo.name} at ${when}\n`;
+                    break;
+                  case 'CreateEvent':
+                    const refTypeC = ev.payload.ref_type;
+                    const refC = ev.payload.ref;
+                    md += `- **CreateEvent**: A new ${refTypeC} named ${refC} was created in ${ev.repo.name} at ${when}\n`;
+                    break;
+                  case 'DeleteEvent':
+                    const refTypeD = ev.payload.ref_type;
+                    const refD = ev.payload.ref;
+                    md += `- **DeleteEvent**: The ${refTypeD} ${refD} was deleted in ${ev.repo.name} at ${when}\n`;
+                    break;
+                  case 'PublicEvent':
+                    const action = ev.payload.action;
+                    md += `- **PublicEvent**: Repository [${repo.name}](${repo.html_url}) was made public by **${ev.actor.login}** at ${when}\n`;
+                    break;
                   default:
-                    const res = ''
-                    const commits_d = ev.payload.commits || [];
-                    if (commits_d.length === 1) {
-                      const sha7 = commits_d.sha.slice(0,7);
-                      // build web URL from repo.html_url
-                      const commitUrl = `${repo.html_url}/commit/${commits_d.sha}`;
-                      res = `([\`${sha7}\`](${commitUrl}))`
-                    }
-                    md += `- **${ev.type}** by **${ev.actor.login}** at ${when} ${res}\n`;
+                    md += `- **${ev.type}** by **${ev.actor.login}** at ${when} ([${repo.name}](${repo.html_url}))\n`;
                     break;
                 }
               }
