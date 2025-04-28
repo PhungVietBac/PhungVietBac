@@ -82,11 +82,11 @@ jobs:
                     break;
                   default:
                     const res = ''
-                    const commits = ev.payload.commits || [];
-                    if (commits.length > 0) {
-                      const sha7 = c.sha.slice(0,7);
+                    const commits_d = ev.payload.commits || [];
+                    if (commits_d.length === 1) {
+                      const sha7 = commits_d.sha.slice(0,7);
                       // build web URL from repo.html_url
-                      const commitUrl = `${repo.html_url}/commit/${c.sha}`;
+                      const commitUrl = `${repo.html_url}/commit/${commits_d.sha}`;
                       res = `([\`${sha7}\`](${commitUrl}))`
                     }
                     md += `- **${ev.type}** by **${ev.actor.login}** at ${when} ${res}\n`;
