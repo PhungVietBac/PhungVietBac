@@ -62,6 +62,46 @@
 ### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
+### [Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
+  - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
+- **MemberEvent** by **TranDai108** at 28/04/2025, 21:55:29 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
+- **CreateEvent** by **TranDai108** at 28/04/2025, 16:50:58 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
+- **CreateEvent** by **TranDai108** at 28/04/2025, 16:20:27 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
+
+### [Test](https://github.com/PhungVietBac/Test)
+- _No recent events_
+
+### [Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
+- _No recent events_
+
+### [DoAn_ATM](https://github.com/TranDai108/DoAn_ATM)
+- _No recent events_
+
+### [MinigameOlympia](https://github.com/ShadowK2494/MinigameOlympia)
+- _No recent events_
+
+### [Lab1](https://github.com/PhungVietBac/Lab1)
+- _No recent events_
+
+### [Paint](https://github.com/PhungVietBac/Paint)
+- _No recent events_
+
+### [Lab05](https://github.com/ShadowK2494/Lab05)
+- _No recent events_
+
+### [Olympia_Api](https://github.com/Continue3010/Olympia_Api)
+- _No recent events_
+
+### [Olympia_Api](https://github.com/PhungVietBac/Olympia_Api)
+- _No recent events_
+
+### [Lab03](https://github.com/ShadowK2494/Lab03)
+- _No recent events_
+
+### [Lab2](https://github.com/PhungVietBac/Lab2)
+- _No recent events_
+
 <!--END_SECTION:activity-->
 
 > 🛠️ Được cập nhật tự động bởi GitHub Actions!
