@@ -19,7 +19,7 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 21:48:58
   - [`755ef6a`](https://github.com/PhungVietBac/PhungVietBac/commit/755ef6a25c3b8144967de7601676e94524225811): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 19:58:51
@@ -31,7 +31,7 @@
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 14:50:50
   - [`4e0421b`](https://github.com/PhungVietBac/PhungVietBac/commit/4e0421b11f2805e5b71e09fd4bd86c0e8a1ac24f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
-### [AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
   - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
@@ -40,7 +40,7 @@
 - **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PDAnh77** (open) at 20/04/2025, 23:41:45
 - **CreateEvent** by **PDAnh77** at 20/04/2025, 23:40:49 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
-### [WebAPI](https://github.com/PhungVietBac/WebAPI)
+### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
   - [`dd99cfe`](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e): Remove unnecessary file _(by PhungVietBac)_
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
@@ -53,53 +53,29 @@
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:43:05
   - [`a7bb920`](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0): Storage API _(by VietBac)_
 
-### [DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
+### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
 
-### [Olympia](https://github.com/PhungVietBac/Olympia)
+### [PhungVietBac/Olympia](https://github.com/PhungVietBac/Olympia)
 - _No recent events_
 
-### [WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
+### [PhungVietBac/WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
-### [Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
   - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
 - **MemberEvent** by **TranDai108** at 28/04/2025, 21:55:29 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
 - **CreateEvent** by **TranDai108** at 28/04/2025, 16:50:58 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
 - **CreateEvent** by **TranDai108** at 28/04/2025, 16:20:27 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
 
-### [Test](https://github.com/PhungVietBac/Test)
+### [PhungVietBac/Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
 
-### [Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
+### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
 
-### [DoAn_ATM](https://github.com/TranDai108/DoAn_ATM)
-- _No recent events_
-
-### [MinigameOlympia](https://github.com/ShadowK2494/MinigameOlympia)
-- _No recent events_
-
-### [Lab1](https://github.com/PhungVietBac/Lab1)
-- _No recent events_
-
-### [Paint](https://github.com/PhungVietBac/Paint)
-- _No recent events_
-
-### [Lab05](https://github.com/ShadowK2494/Lab05)
-- _No recent events_
-
-### [Olympia_Api](https://github.com/Continue3010/Olympia_Api)
-- _No recent events_
-
-### [Olympia_Api](https://github.com/PhungVietBac/Olympia_Api)
-- _No recent events_
-
-### [Lab03](https://github.com/ShadowK2494/Lab03)
-- _No recent events_
-
-### [Lab2](https://github.com/PhungVietBac/Lab2)
+### [TranDai108/DoAn_ATM](https://github.com/TranDai108/DoAn_ATM)
 - _No recent events_
 
 <!--END_SECTION:activity-->
