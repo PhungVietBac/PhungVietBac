@@ -20,16 +20,6 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 21:48:58
-  - [`755ef6a`](https://github.com/PhungVietBac/PhungVietBac/commit/755ef6a25c3b8144967de7601676e94524225811): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 19:58:51
-  - [`f14d6fc`](https://github.com/PhungVietBac/PhungVietBac/commit/f14d6fc940c65125c5aec23240e9f5cdb20c37b7): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 17:59:09
-  - [`f1f52fb`](https://github.com/PhungVietBac/PhungVietBac/commit/f1f52fbad6fb3ab2f30148f3e2fed015f4e4b899): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 16:25:05
-  - [`fabdb0b`](https://github.com/PhungVietBac/PhungVietBac/commit/fabdb0bf1415756a50c4f1a2036cb18c7f2c607c): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/04/2025, 14:50:50
-  - [`4e0421b`](https://github.com/PhungVietBac/PhungVietBac/commit/4e0421b11f2805e5b71e09fd4bd86c0e8a1ac24f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent** by **PhungVietBac** at 21/04/2025, 00:16:10 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
@@ -37,8 +27,6 @@
   - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
   - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
 - **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
-- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PDAnh77** (open) at 20/04/2025, 23:41:45
-- **CreateEvent** by **PDAnh77** at 20/04/2025, 23:40:49 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
@@ -65,9 +53,6 @@
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
   - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
-- **MemberEvent** by **TranDai108** at 28/04/2025, 21:55:29 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
-- **CreateEvent** by **TranDai108** at 28/04/2025, 16:50:58 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
-- **CreateEvent** by **TranDai108** at 28/04/2025, 16:20:27 ([Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App))
 
 ### [PhungVietBac/Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
