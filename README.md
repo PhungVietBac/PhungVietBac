@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 17:47:53
+  - [`3129f76`](https://github.com/PhungVietBac/PhungVietBac/commit/3129f7691054d738f3b6659433e0200f80ae93cd): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 17:27:00
   - [`31b5852`](https://github.com/PhungVietBac/PhungVietBac/commit/31b5852a717fc55bd3081affc8d872d63aae4228): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 16:27:02
@@ -28,8 +30,6 @@
   - [`68f0ac3`](https://github.com/PhungVietBac/PhungVietBac/commit/68f0ac3b2bb415de36f9411b7d3581300b059056): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 12:23:39
   - [`044ec8b`](https://github.com/PhungVietBac/PhungVietBac/commit/044ec8b7bcf28d66c6176e6d20c1edb43a27d4fa): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 11:45:17
-  - [`352f111`](https://github.com/PhungVietBac/PhungVietBac/commit/352f11130a4455c693eeedfc724ca2fd1f4351c9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
