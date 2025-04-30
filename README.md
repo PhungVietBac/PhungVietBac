@@ -31,6 +31,9 @@
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/04/2025, 21:24:27
   - [`4048d0b`](https://github.com/PhungVietBac/PhungVietBac/commit/4048d0b9b1d32d124f6f00f48dd1d5b3d42ce25e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
+### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- _No recent events_
+
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
   - [`5faf777`](https://github.com/PhungVietBac/WebAPI/commit/5faf7770e7e3088250d1e5640c30a6bbac99c82c): Update requirements _(by VietBac)_
@@ -68,9 +71,6 @@
 - _No recent events_
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
-- _No recent events_
-
-### [TranDai108/DoAn_ATM](https://github.com/TranDai108/DoAn_ATM)
 - _No recent events_
 
 <!--END_SECTION:activity-->
