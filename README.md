@@ -32,6 +32,10 @@
   - [`869df61`](https://github.com/PhungVietBac/PhungVietBac/commit/869df610dffc174462d6647c4da612b2141dcf98): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
+  - [`5faf777`](https://github.com/PhungVietBac/WebAPI/commit/5faf7770e7e3088250d1e5640c30a6bbac99c82c): Update requirements _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:23:13
+  - [`ba17c62`](https://github.com/PhungVietBac/WebAPI/commit/ba17c62ca0593ebac5ecb17192ae43d6add8dce0): Update place controller _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
   - [`dd99cfe`](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e): Remove unnecessary file _(by PhungVietBac)_
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
@@ -39,10 +43,6 @@
   - [`7948139`](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 00:31:35
   - [`4b55429`](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943): Add proxy and cache _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:51:29
-  - [`5ee21c6`](https://github.com/PhungVietBac/WebAPI/commit/5ee21c6d6740e9c257d8ebd21412b5003d99c9bf): Update requirements _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/04/2025, 02:43:05
-  - [`a7bb920`](https://github.com/PhungVietBac/WebAPI/commit/a7bb920343978eeb6b5ad87486119bc3856037a0): Storage API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
