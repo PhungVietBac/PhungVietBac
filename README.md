@@ -32,7 +32,9 @@
   - [`4048d0b`](https://github.com/PhungVietBac/PhungVietBac/commit/4048d0b9b1d32d124f6f00f48dd1d5b3d42ce25e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- _No recent events_
+- **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
+- **CreateEvent**: A new branch named main was created in PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:54:26
+- **CreateEvent**: A new repository named null was created in PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:54:19
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
