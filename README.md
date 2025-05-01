@@ -32,11 +32,14 @@
   - [`478361c`](https://github.com/PhungVietBac/PhungVietBac/commit/478361cd51b25bbfd74e3220791c019be2e18761): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
-  - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
-  - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
-- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
+- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/05/2025, 23:50:57
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 01/05/2025, 23:50:52
+  - [`9670ddb`](https://github.com/PhungVietBac/AITripSystem/commit/9670ddb3ea33d6e4a8da63a5408e7b6f74e0249e): Fix API _(by VietBac)_
+  - [`0c47c56`](https://github.com/PhungVietBac/AITripSystem/commit/0c47c56ec5e742e465ba066145e05df62d1cc3f7): Use OpenTripMap + Leaflet - Configue backend data types _(by VietBac)_
+  - [`c18fe51`](https://github.com/PhungVietBac/AITripSystem/commit/c18fe5109d7cfcf774bd1c02c0ec527bc7f71a2c): Merge pull request #34 from PhungVietBac/VietBac + Use OpenTripMap + Leaflet - Configue backend data types _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#34 Use OpenTripMap + Leaflet - Configue backend data types](https://github.com/PhungVietBac/AITripSystem/pull/34) by **PhungVietBac** (closed, merged) at 01/05/2025, 23:50:51
+- **PullRequestEvent**: [#34 Use OpenTripMap + Leaflet - Configue backend data types](https://github.com/PhungVietBac/AITripSystem/pull/34) by **PhungVietBac** (open) at 01/05/2025, 23:49:35
+- **CreateEvent**: A new branch named VietBac was created in PhungVietBac/AITripSystem at 01/05/2025, 23:47:20
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
