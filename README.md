@@ -19,6 +19,13 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
+  - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
+  - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
+- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/05/2025, 18:39:23
   - [`491d86e`](https://github.com/PhungVietBac/PhungVietBac/commit/491d86edb18a1089f40c7206d6f2193e21eea085): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -48,13 +55,6 @@
   - [`7948139`](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 00:31:35
   - [`4b55429`](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943): Add proxy and cache _(by PhungVietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 21/04/2025, 00:16:10
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 21/04/2025, 00:16:06
-  - [`847f95c`](https://github.com/PhungVietBac/AITripSystem/commit/847f95c60d7f87ea3425105cef8bf1d1e6cdd3f0): Add modal edit user profile _(by PDAnh77)_
-  - [`146f69e`](https://github.com/PhungVietBac/AITripSystem/commit/146f69e5f7273bb7cb4720654a70e86a87cfe750): Merge pull request #33 from PhungVietBac/DucAnh + Add modal edit user profile _(by PhungVietBac)_
-- **PullRequestEvent**: [#33 Add modal edit user profile](https://github.com/PhungVietBac/AITripSystem/pull/33) by **PhungVietBac** (closed, merged) at 21/04/2025, 00:16:06
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
