@@ -19,14 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 12/05/2025, 02:08:33
-  - [`8c41ec0`](https://github.com/PhungVietBac/AITripSystem/commit/8c41ec09b104b73603d5409755e844e7cc40d28a): UPDATE new_intro(frontend) _(by tnduya3)_
-  - [`314cdc3`](https://github.com/PhungVietBac/AITripSystem/commit/314cdc3a1689c9485639a8bbd09d606faf8b4c2b): Merge pull request #35 from PhungVietBac/Duy + UPDATE new_intro(frontend) _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#35 UPDATE new_intro(frontend)](https://github.com/PhungVietBac/AITripSystem/pull/35) by **PhungVietBac** (closed, merged) at 12/05/2025, 02:08:33
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/05/2025, 23:50:57
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 12/05/2025, 02:17:22
+  - [`1af1f06`](https://github.com/PhungVietBac/PhungVietBac/commit/1af1f0634da6e7bd42be733ce4eeb1f20c669f90): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 12/05/2025, 01:47:41
   - [`555da67`](https://github.com/PhungVietBac/PhungVietBac/commit/555da67b8fe16157268f895bfb21078588ea3f21): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 12/05/2025, 01:29:59
@@ -35,8 +30,13 @@
   - [`716d376`](https://github.com/PhungVietBac/PhungVietBac/commit/716d376943dd72d605779b94a1266237fccc7910): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 12/05/2025, 00:18:16
   - [`579d357`](https://github.com/PhungVietBac/PhungVietBac/commit/579d357f5774f529f8c653bdc64b48c3c8ea9787): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 11/05/2025, 23:46:27
-  - [`b4fb928`](https://github.com/PhungVietBac/PhungVietBac/commit/b4fb9285698a364614780c79f9e4149f93b7f1c3): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 12/05/2025, 02:08:33
+  - [`8c41ec0`](https://github.com/PhungVietBac/AITripSystem/commit/8c41ec09b104b73603d5409755e844e7cc40d28a): UPDATE new_intro(frontend) _(by tnduya3)_
+  - [`314cdc3`](https://github.com/PhungVietBac/AITripSystem/commit/314cdc3a1689c9485639a8bbd09d606faf8b4c2b): Merge pull request #35 from PhungVietBac/Duy + UPDATE new_intro(frontend) _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#35 UPDATE new_intro(frontend)](https://github.com/PhungVietBac/AITripSystem/pull/35) by **PhungVietBac** (closed, merged) at 12/05/2025, 02:08:33
+- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/05/2025, 23:50:57
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
