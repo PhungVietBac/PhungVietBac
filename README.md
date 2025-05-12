@@ -32,6 +32,8 @@
   - [`d0b3509`](https://github.com/PhungVietBac/PhungVietBac/commit/d0b35090c3c4100bf647f4b91c5ab23f4bf6126f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 01:19:27
+  - [`f3e1142`](https://github.com/PhungVietBac/WebAPI/commit/f3e114214f15ad0a7a8f118d9d71c353021eb497): Update prompt Gemini _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 00:58:27
   - [`45f8c8b`](https://github.com/PhungVietBac/WebAPI/commit/45f8c8bc63991da7aa31e943f341fd30cedacab8): AI generation with Gemini _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
@@ -40,9 +42,6 @@
   - [`ba17c62`](https://github.com/PhungVietBac/WebAPI/commit/ba17c62ca0593ebac5ecb17192ae43d6add8dce0): Update place controller _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 02:28:54
   - [`dd99cfe`](https://github.com/PhungVietBac/WebAPI/commit/dd99cfeebae02a0c851129cadc978173b184584e): Remove unnecessary file _(by PhungVietBac)_
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
-  - [`dc2a3e0`](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353): Fix clean cache _(by PhungVietBac)_
-  - [`7948139`](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 13/05/2025, 01:08:38
