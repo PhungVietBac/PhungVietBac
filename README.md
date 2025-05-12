@@ -32,6 +32,8 @@
   - [`d0b3509`](https://github.com/PhungVietBac/PhungVietBac/commit/d0b35090c3c4100bf647f4b91c5ab23f4bf6126f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 00:58:27
+  - [`45f8c8b`](https://github.com/PhungVietBac/WebAPI/commit/45f8c8bc63991da7aa31e943f341fd30cedacab8): AI generation with Gemini _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
   - [`5faf777`](https://github.com/PhungVietBac/WebAPI/commit/5faf7770e7e3088250d1e5640c30a6bbac99c82c): Update requirements _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:23:13
@@ -41,14 +43,15 @@
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 28/04/2025, 02:27:20
   - [`dc2a3e0`](https://github.com/PhungVietBac/WebAPI/commit/dc2a3e08a0754bea523774b09ceaf5c53747e353): Fix clean cache _(by PhungVietBac)_
   - [`7948139`](https://github.com/PhungVietBac/WebAPI/commit/7948139c96a3660737a2b7ab0c9894ce784a8537): Fix clean cache _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 00:31:35
-  - [`4b55429`](https://github.com/PhungVietBac/WebAPI/commit/4b55429f7ecbd428b7b5c6294f937c85c5818943): Add proxy and cache _(by PhungVietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 13/05/2025, 01:08:38
+  - [`585beba`](https://github.com/PhungVietBac/AITripSystem/commit/585beba77e9799eef726906c5e602ff436e72e14): update loginForm _(by tnduya3)_
+  - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#36 update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/36) by **PhungVietBac** (closed, merged) at 13/05/2025, 01:08:37
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 12/05/2025, 02:08:33
   - [`8c41ec0`](https://github.com/PhungVietBac/AITripSystem/commit/8c41ec09b104b73603d5409755e844e7cc40d28a): UPDATE new_intro(frontend) _(by tnduya3)_
   - [`314cdc3`](https://github.com/PhungVietBac/AITripSystem/commit/314cdc3a1689c9485639a8bbd09d606faf8b4c2b): Merge pull request #35 from PhungVietBac/Duy + UPDATE new_intro(frontend) _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#35 UPDATE new_intro(frontend)](https://github.com/PhungVietBac/AITripSystem/pull/35) by **PhungVietBac** (closed, merged) at 12/05/2025, 02:08:33
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
