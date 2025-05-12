@@ -49,7 +49,6 @@
   - [`8c41ec0`](https://github.com/PhungVietBac/AITripSystem/commit/8c41ec09b104b73603d5409755e844e7cc40d28a): UPDATE new_intro(frontend) _(by tnduya3)_
   - [`314cdc3`](https://github.com/PhungVietBac/AITripSystem/commit/314cdc3a1689c9485639a8bbd09d606faf8b4c2b): Merge pull request #35 from PhungVietBac/Duy + UPDATE new_intro(frontend) _(by Phùng Việt Bắc)_
 - **PullRequestEvent**: [#35 UPDATE new_intro(frontend)](https://github.com/PhungVietBac/AITripSystem/pull/35) by **PhungVietBac** (closed, merged) at 12/05/2025, 02:08:33
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/05/2025, 23:50:57
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
