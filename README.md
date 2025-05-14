@@ -32,10 +32,13 @@
   - [`d6516cd`](https://github.com/PhungVietBac/PhungVietBac/commit/d6516cd658c3801a4f5f4d0497a4c571a1eb7dab): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 14/05/2025, 14:15:45
+  - [`14e5813`](https://github.com/PhungVietBac/AITripSystem/commit/14e58135591716df859ada143fd56a310a41e80a): create registerForm, update loginForm _(by tnduya3)_
+  - [`be58087`](https://github.com/PhungVietBac/AITripSystem/commit/be5808788f9341ac1478248d0154326301368a40): Merge pull request #37 from PhungVietBac/Duy + create registerForm, update loginForm _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#37 create registerForm, update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/37) by **PhungVietBac** (closed, merged) at 14/05/2025, 14:15:44
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 13/05/2025, 01:08:38
   - [`585beba`](https://github.com/PhungVietBac/AITripSystem/commit/585beba77e9799eef726906c5e602ff436e72e14): update loginForm _(by tnduya3)_
   - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#36 update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/36) by **PhungVietBac** (closed, merged) at 13/05/2025, 01:08:37
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 15:03:38
