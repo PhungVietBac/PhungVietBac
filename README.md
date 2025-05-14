@@ -19,12 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 13/05/2025, 01:08:38
-  - [`585beba`](https://github.com/PhungVietBac/AITripSystem/commit/585beba77e9799eef726906c5e602ff436e72e14): update loginForm _(by tnduya3)_
-  - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#36 update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/36) by **PhungVietBac** (closed, merged) at 13/05/2025, 01:08:37
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 04:40:56
   - [`8e1bcd1`](https://github.com/PhungVietBac/PhungVietBac/commit/8e1bcd14bb834b4c1fea8bb1453b2c4dcaf5fa1f): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -36,6 +30,12 @@
   - [`aa4c5e4`](https://github.com/PhungVietBac/PhungVietBac/commit/aa4c5e41ddf209ca37479d710463a7c5bdd7be0a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 13/05/2025, 23:31:48
   - [`a275131`](https://github.com/PhungVietBac/PhungVietBac/commit/a275131df1ee5fc91eac188447ad2db8e1a19a6b): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 13/05/2025, 01:08:38
+  - [`585beba`](https://github.com/PhungVietBac/AITripSystem/commit/585beba77e9799eef726906c5e602ff436e72e14): update loginForm _(by tnduya3)_
+  - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#36 update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/36) by **PhungVietBac** (closed, merged) at 13/05/2025, 01:08:37
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 15:03:38
