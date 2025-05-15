@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 15/05/2025, 01:32:09
+  - [`10e421c`](https://github.com/PhungVietBac/PhungVietBac/commit/10e421c020b42c31a1fc88696fd3144aa8f39f36): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 23:30:39
   - [`44daf71`](https://github.com/PhungVietBac/PhungVietBac/commit/44daf71056a7cacd61c25e89c7a556ad46ad4180): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 22:44:50
@@ -28,14 +30,15 @@
   - [`4bb7d29`](https://github.com/PhungVietBac/PhungVietBac/commit/4bb7d29c9dd157ec3bed5037846e2efd1f41c482): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 21:44:48
   - [`63c970e`](https://github.com/PhungVietBac/PhungVietBac/commit/63c970e20d4a0a737cb02af6f5897d8f9185cc19): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 21:25:02
-  - [`e5fa510`](https://github.com/PhungVietBac/PhungVietBac/commit/e5fa510dcbe43209619a93f79686ffbf593bca27): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 14/05/2025, 14:15:45
-  - [`14e5813`](https://github.com/PhungVietBac/AITripSystem/commit/14e58135591716df859ada143fd56a310a41e80a): create registerForm, update loginForm _(by tnduya3)_
-  - [`be58087`](https://github.com/PhungVietBac/AITripSystem/commit/be5808788f9341ac1478248d0154326301368a40): Merge pull request #37 from PhungVietBac/Duy + create registerForm, update loginForm _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#37 create registerForm, update loginForm](https://github.com/PhungVietBac/AITripSystem/pull/37) by **PhungVietBac** (closed, merged) at 14/05/2025, 14:15:44
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 15/05/2025, 00:43:22
+- **PushEvent**: 4 commit(s) by **PhungVietBac** at 15/05/2025, 00:43:15
+  - [`c2f752b`](https://github.com/PhungVietBac/AITripSystem/commit/c2f752be97ffc98594ae7c63360c11f6c77b43a2): Update profile page _(by PDAnh77)_
+  - [`dcd33c6`](https://github.com/PhungVietBac/AITripSystem/commit/dcd33c640ed08d3a0adbb8830e985cdd02b985ec): Fix get user info _(by PDAnh77)_
+  - [`bfee776`](https://github.com/PhungVietBac/AITripSystem/commit/bfee776c31adb7084ac871b67a0e28b2b2dfc932): Add update user feature _(by PDAnh77)_
+  - [`6b706e7`](https://github.com/PhungVietBac/AITripSystem/commit/6b706e758e0165e9c9e55dce5047b89d1cefc7f4): Merge pull request #38 from PhungVietBac/DucAnh + Fetch user data _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#38 Fetch user data](https://github.com/PhungVietBac/AITripSystem/pull/38) by **PhungVietBac** (closed, merged) at 15/05/2025, 00:43:14
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
