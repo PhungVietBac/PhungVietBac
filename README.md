@@ -20,16 +20,16 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 22:44:50
+  - [`c93eafa`](https://github.com/PhungVietBac/PhungVietBac/commit/c93eafae8b3eda77ed0b901406e02042930bd9a6): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 22:26:32
+  - [`4bb7d29`](https://github.com/PhungVietBac/PhungVietBac/commit/4bb7d29c9dd157ec3bed5037846e2efd1f41c482): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 21:44:48
+  - [`63c970e`](https://github.com/PhungVietBac/PhungVietBac/commit/63c970e20d4a0a737cb02af6f5897d8f9185cc19): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 21:25:02
   - [`e5fa510`](https://github.com/PhungVietBac/PhungVietBac/commit/e5fa510dcbe43209619a93f79686ffbf593bca27): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 20:34:27
   - [`76dfab9`](https://github.com/PhungVietBac/PhungVietBac/commit/76dfab9923c1bf37cc3154c42769994ab08708f4): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 19:50:09
-  - [`f16bcc4`](https://github.com/PhungVietBac/PhungVietBac/commit/f16bcc4ea2b4eb76babc9e4b23117d7f9f1a9b7b): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 18:40:15
-  - [`b86cb7a`](https://github.com/PhungVietBac/PhungVietBac/commit/b86cb7ad51a704148a861a4e4246f36d8474ccda): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 14/05/2025, 17:26:36
-  - [`b464eee`](https://github.com/PhungVietBac/PhungVietBac/commit/b464eee6b51b91ef424019036ddb85bfb95c50d8): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 14/05/2025, 14:15:45
@@ -41,16 +41,16 @@
   - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:46:25
+  - [`0cafb36`](https://github.com/PhungVietBac/WebAPI/commit/0cafb36efd079f9f58a5b89d095a78181d7d8085): Fix origin _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:09:57
+  - [`219aa36`](https://github.com/PhungVietBac/WebAPI/commit/219aa36d4c0a0292eb3f90596b07f58e49ca468f): Fix origins _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 15:03:38
   - [`4b871b3`](https://github.com/PhungVietBac/WebAPI/commit/4b871b30b9310167b927a999f04dae1d84b75b45): Integrate cookies _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 09:49:43
   - [`e40ebe0`](https://github.com/PhungVietBac/WebAPI/commit/e40ebe072c9d5dcd49f63064e70a72419d8a22dd): Add auth GET endpoint _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 01:19:27
   - [`f3e1142`](https://github.com/PhungVietBac/WebAPI/commit/f3e114214f15ad0a7a8f118d9d71c353021eb497): Update prompt Gemini _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 00:58:27
-  - [`45f8c8b`](https://github.com/PhungVietBac/WebAPI/commit/45f8c8bc63991da7aa31e943f341fd30cedacab8): AI generation with Gemini _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/04/2025, 01:25:40
-  - [`5faf777`](https://github.com/PhungVietBac/WebAPI/commit/5faf7770e7e3088250d1e5640c30a6bbac99c82c): Update requirements _(by VietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
