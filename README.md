@@ -41,16 +41,16 @@
   - [`339e06e`](https://github.com/PhungVietBac/AITripSystem/commit/339e06e1cff174d60f7191b944d6b938f9a1c690): Merge pull request #36 from PhungVietBac/Duy + update loginForm _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
+  - [`6b46b8d`](https://github.com/PhungVietBac/WebAPI/commit/6b46b8d8209a6984505e8a64c7756e34be2f556c): Fix samesite _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:42:24
+  - [`3c23a8f`](https://github.com/PhungVietBac/WebAPI/commit/3c23a8f7642c6d0bfb5130592736b94244268164): Fix samesite _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:00:11
   - [`75046b2`](https://github.com/PhungVietBac/WebAPI/commit/75046b277f2c94ec96664182efe2d1153a8ad085): Fix middleware _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:46:25
   - [`0cafb36`](https://github.com/PhungVietBac/WebAPI/commit/0cafb36efd079f9f58a5b89d095a78181d7d8085): Fix origin _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:09:57
   - [`219aa36`](https://github.com/PhungVietBac/WebAPI/commit/219aa36d4c0a0292eb3f90596b07f58e49ca468f): Fix origins _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 15:03:38
-  - [`4b871b3`](https://github.com/PhungVietBac/WebAPI/commit/4b871b30b9310167b927a999f04dae1d84b75b45): Integrate cookies _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/05/2025, 09:49:43
-  - [`e40ebe0`](https://github.com/PhungVietBac/WebAPI/commit/e40ebe072c9d5dcd49f63064e70a72419d8a22dd): Add auth GET endpoint _(by VietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
