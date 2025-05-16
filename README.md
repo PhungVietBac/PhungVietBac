@@ -33,12 +33,6 @@
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 15/05/2025, 00:43:22
-- **PushEvent**: 4 commit(s) by **PhungVietBac** at 15/05/2025, 00:43:15
-  - [`c2f752b`](https://github.com/PhungVietBac/AITripSystem/commit/c2f752be97ffc98594ae7c63360c11f6c77b43a2): Update profile page _(by PDAnh77)_
-  - [`dcd33c6`](https://github.com/PhungVietBac/AITripSystem/commit/dcd33c640ed08d3a0adbb8830e985cdd02b985ec): Fix get user info _(by PDAnh77)_
-  - [`bfee776`](https://github.com/PhungVietBac/AITripSystem/commit/bfee776c31adb7084ac871b67a0e28b2b2dfc932): Add update user feature _(by PDAnh77)_
-  - [`6b706e7`](https://github.com/PhungVietBac/AITripSystem/commit/6b706e758e0165e9c9e55dce5047b89d1cefc7f4): Merge pull request #38 from PhungVietBac/DucAnh + Fetch user data _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#38 Fetch user data](https://github.com/PhungVietBac/AITripSystem/pull/38) by **PhungVietBac** (closed, merged) at 15/05/2025, 00:43:14
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
