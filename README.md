@@ -19,7 +19,21 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 19/05/2025, 09:22:31
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 19/05/2025, 09:22:22
+  - [`91b61c8`](https://github.com/PhungVietBac/AITripSystem/commit/91b61c8b06d0bd7713d647569724905e8689240a): Add update user avatar feature _(by PDAnh77)_
+  - [`3ba5b20`](https://github.com/PhungVietBac/AITripSystem/commit/3ba5b201b8eabb10ada719220485550954717ace): Update profile page and fix footer _(by PDAnh77)_
+  - [`da6d988`](https://github.com/PhungVietBac/AITripSystem/commit/da6d9888c99e7fe933b078822f48ed21c11bf334): Merge pull request #40 from PhungVietBac/DucAnh + Update profile page _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#40 Update profile page](https://github.com/PhungVietBac/AITripSystem/pull/40) by **PhungVietBac** (closed, merged) at 19/05/2025, 09:22:21
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 19/05/2025, 09:18:31
+  - [`e627972`](https://github.com/PhungVietBac/AITripSystem/commit/e62797233612864fc08b62860c1794d2b9bbb811): Complete Login&RegisterPage, Update HeaderStatus _(by tnduya3)_
+  - [`8fd0a78`](https://github.com/PhungVietBac/AITripSystem/commit/8fd0a78879a8bb4591d59891a7cae96da9df567e): Merge pull request #39 from PhungVietBac/Duy + Complete Login&RegisterPage, Update HeaderStatus _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#39 Complete Login&RegisterPage, Update HeaderStatus](https://github.com/PhungVietBac/AITripSystem/pull/39) by **PhungVietBac** (closed, merged) at 19/05/2025, 09:18:31
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 09:04:04
+  - [`38c6136`](https://github.com/PhungVietBac/PhungVietBac/commit/38c6136d13595ffcfdad59bf1bdd17dbd580b74a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:41:00
   - [`b6fd75e`](https://github.com/PhungVietBac/PhungVietBac/commit/b6fd75eaed4046d41551c55db10c5ad0da9866e3): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:21:40
@@ -28,10 +42,6 @@
   - [`f968bbd`](https://github.com/PhungVietBac/PhungVietBac/commit/f968bbdcc3cdc6a1c38f0c7e2b6868c203e61c98): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 05:21:43
   - [`0ece726`](https://github.com/PhungVietBac/PhungVietBac/commit/0ece726890ed4224945865160edf8c83f2001ff2): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 04:38:58
-  - [`98d48f1`](https://github.com/PhungVietBac/PhungVietBac/commit/98d48f14dd160dcaa34a23e2571180c9f15626d2): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
