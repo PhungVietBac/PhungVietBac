@@ -19,6 +19,18 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 10:34:56
+  - [`3cd1014`](https://github.com/PhungVietBac/PhungVietBac/commit/3cd10149b8965746f824f6676591f2084bde9609): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 09:04:04
+  - [`38c6136`](https://github.com/PhungVietBac/PhungVietBac/commit/38c6136d13595ffcfdad59bf1bdd17dbd580b74a): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:41:00
+  - [`b6fd75e`](https://github.com/PhungVietBac/PhungVietBac/commit/b6fd75eaed4046d41551c55db10c5ad0da9866e3): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:21:40
+  - [`8a193c7`](https://github.com/PhungVietBac/PhungVietBac/commit/8a193c7aed9e6b81c58f9e0c3aa99fd828a0d93d): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 05:42:25
+  - [`f968bbd`](https://github.com/PhungVietBac/PhungVietBac/commit/f968bbdcc3cdc6a1c38f0c7e2b6868c203e61c98): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 19/05/2025, 09:22:31
 - **PushEvent**: 3 commit(s) by **PhungVietBac** at 19/05/2025, 09:22:22
@@ -30,18 +42,6 @@
   - [`e627972`](https://github.com/PhungVietBac/AITripSystem/commit/e62797233612864fc08b62860c1794d2b9bbb811): Complete Login&RegisterPage, Update HeaderStatus _(by tnduya3)_
   - [`8fd0a78`](https://github.com/PhungVietBac/AITripSystem/commit/8fd0a78879a8bb4591d59891a7cae96da9df567e): Merge pull request #39 from PhungVietBac/Duy + Complete Login&RegisterPage, Update HeaderStatus _(by Phùng Việt Bắc)_
 - **PullRequestEvent**: [#39 Complete Login&RegisterPage, Update HeaderStatus](https://github.com/PhungVietBac/AITripSystem/pull/39) by **PhungVietBac** (closed, merged) at 19/05/2025, 09:18:31
-
-### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 09:04:04
-  - [`38c6136`](https://github.com/PhungVietBac/PhungVietBac/commit/38c6136d13595ffcfdad59bf1bdd17dbd580b74a): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:41:00
-  - [`b6fd75e`](https://github.com/PhungVietBac/PhungVietBac/commit/b6fd75eaed4046d41551c55db10c5ad0da9866e3): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 06:21:40
-  - [`8a193c7`](https://github.com/PhungVietBac/PhungVietBac/commit/8a193c7aed9e6b81c58f9e0c3aa99fd828a0d93d): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 05:42:25
-  - [`f968bbd`](https://github.com/PhungVietBac/PhungVietBac/commit/f968bbdcc3cdc6a1c38f0c7e2b6868c203e61c98): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/05/2025, 05:21:43
-  - [`0ece726`](https://github.com/PhungVietBac/PhungVietBac/commit/0ece726890ed4224945865160edf8c83f2001ff2): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
