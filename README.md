@@ -41,7 +41,6 @@
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 19/05/2025, 09:18:31
   - [`e627972`](https://github.com/PhungVietBac/AITripSystem/commit/e62797233612864fc08b62860c1794d2b9bbb811): Complete Login&RegisterPage, Update HeaderStatus _(by tnduya3)_
   - [`8fd0a78`](https://github.com/PhungVietBac/AITripSystem/commit/8fd0a78879a8bb4591d59891a7cae96da9df567e): Merge pull request #39 from PhungVietBac/Duy + Complete Login&RegisterPage, Update HeaderStatus _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#39 Complete Login&RegisterPage, Update HeaderStatus](https://github.com/PhungVietBac/AITripSystem/pull/39) by **PhungVietBac** (closed, merged) at 19/05/2025, 09:18:31
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
