@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 21:41:28
+  - [`672ad11`](https://github.com/PhungVietBac/PhungVietBac/commit/672ad118ff631d093be44867482a537ce7877369): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 21:20:08
   - [`d812367`](https://github.com/PhungVietBac/PhungVietBac/commit/d812367a96c0acd67e3a07a738959bd9d91df684): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 20:44:23
@@ -28,8 +30,6 @@
   - [`80f6548`](https://github.com/PhungVietBac/PhungVietBac/commit/80f6548ce3d7f814ea16266880e29f527c9471ec): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 19:44:25
   - [`2b64f68`](https://github.com/PhungVietBac/PhungVietBac/commit/2b64f68bc74c6af720fb3b36f0bedadcf8cb2e3f): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 18:39:05
-  - [`ffc4a72`](https://github.com/PhungVietBac/PhungVietBac/commit/ffc4a72d97983b2c78073750221c811e381011bb): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
@@ -39,11 +39,6 @@
 - **CreateEvent**: A new repository named null was created in PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:54:19
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 19/05/2025, 09:22:31
-- **PushEvent**: 3 commit(s) by **PhungVietBac** at 19/05/2025, 09:22:22
-  - [`91b61c8`](https://github.com/PhungVietBac/AITripSystem/commit/91b61c8b06d0bd7713d647569724905e8689240a): Add update user avatar feature _(by PDAnh77)_
-  - [`3ba5b20`](https://github.com/PhungVietBac/AITripSystem/commit/3ba5b201b8eabb10ada719220485550954717ace): Update profile page and fix footer _(by PDAnh77)_
-  - [`da6d988`](https://github.com/PhungVietBac/AITripSystem/commit/da6d9888c99e7fe933b078822f48ed21c11bf334): Merge pull request #40 from PhungVietBac/DucAnh + Update profile page _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
