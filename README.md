@@ -19,7 +19,19 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
+  - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
+  - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
+  - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
+  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 22:40:24
+  - [`5f6bd62`](https://github.com/PhungVietBac/PhungVietBac/commit/5f6bd6206f0692ee61e8f2d4abcc3d69b126f83c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 22:22:12
   - [`9df3097`](https://github.com/PhungVietBac/PhungVietBac/commit/9df3097cd90012669509ccc6222364afb8b6e072): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 21:41:28
@@ -28,17 +40,10 @@
   - [`d812367`](https://github.com/PhungVietBac/PhungVietBac/commit/d812367a96c0acd67e3a07a738959bd9d91df684): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 20:44:23
   - [`9fa6d97`](https://github.com/PhungVietBac/PhungVietBac/commit/9fa6d97b2f9d8416e87090887e0656d448a64433): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/05/2025, 20:29:56
-  - [`80f6548`](https://github.com/PhungVietBac/PhungVietBac/commit/80f6548ce3d7f814ea16266880e29f527c9471ec): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
-  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
-- **MemberEvent**: PhungVietBac added TranDai108 to PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:56:35
-- **CreateEvent**: A new branch named main was created in PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:54:26
-- **CreateEvent**: A new repository named null was created in PhungVietBac/Armoiracle_Fashion_API at 01/05/2025, 00:54:19
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PullRequestReviewCommentEvent** by **PhungVietBac** at 24/05/2025, 23:18:48 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewEvent** by **PhungVietBac** at 24/05/2025, 23:18:49 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
