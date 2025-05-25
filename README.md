@@ -19,7 +19,13 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
+  - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 21:42:02
+  - [`7437d14`](https://github.com/PhungVietBac/PhungVietBac/commit/7437d14b730aec7f69d7ac5876ce338bda4701ca): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 21:20:52
   - [`dd027a7`](https://github.com/PhungVietBac/PhungVietBac/commit/dd027a7985a8c1839444a29afa9389079f6ad911): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 20:43:48
@@ -28,8 +34,6 @@
   - [`36831c1`](https://github.com/PhungVietBac/PhungVietBac/commit/36831c12b942074816f5d39be38383d50945f68e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 19:45:14
   - [`c8abb81`](https://github.com/PhungVietBac/PhungVietBac/commit/c8abb816d9e00c30e62d331781818f921c829aa0): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 18:38:57
-  - [`b6a6a2f`](https://github.com/PhungVietBac/PhungVietBac/commit/b6a6a2f3db9819ec1bfd9b91d728acda21de4fb0): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
@@ -67,10 +71,6 @@
 
 ### [PhungVietBac/WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
-
-### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
-  - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
