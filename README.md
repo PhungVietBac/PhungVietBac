@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 18:38:57
+  - [`b6a6a2f`](https://github.com/PhungVietBac/PhungVietBac/commit/b6a6a2f3db9819ec1bfd9b91d728acda21de4fb0): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 18:17:58
   - [`2832b59`](https://github.com/PhungVietBac/PhungVietBac/commit/2832b594d1744b41fbf8ab3d18da3c8538aec5a2): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 17:43:59
@@ -28,8 +30,6 @@
   - [`0b6a7a3`](https://github.com/PhungVietBac/PhungVietBac/commit/0b6a7a32a94de750804df9fb6a4aa5431d3abb0a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 16:40:24
   - [`753a07d`](https://github.com/PhungVietBac/PhungVietBac/commit/753a07de51951f326647be04d9ed1ea003e0b78f): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/05/2025, 16:22:25
-  - [`6eb5eb5`](https://github.com/PhungVietBac/PhungVietBac/commit/6eb5eb5fa32bd6ee57a70e0471af2c84a86c8d69): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
@@ -42,6 +42,8 @@
   - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PullRequestReviewCommentEvent** by **PhungVietBac** at 25/05/2025, 19:15:30 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewEvent** by **PhungVietBac** at 25/05/2025, 19:15:31 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 - **PullRequestReviewCommentEvent** by **PhungVietBac** at 24/05/2025, 23:18:48 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 - **PullRequestReviewEvent** by **PhungVietBac** at 24/05/2025, 23:18:49 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
