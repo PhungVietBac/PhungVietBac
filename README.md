@@ -32,16 +32,13 @@
   - [`7f028ee`](https://github.com/PhungVietBac/PhungVietBac/commit/7f028ee8195be1d45c1a54dc37365a999a838752): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:52:47
-  - [`6b46b8d`](https://github.com/PhungVietBac/WebAPI/commit/6b46b8d8209a6984505e8a64c7756e34be2f556c): Fix samesite _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:42:24
-  - [`3c23a8f`](https://github.com/PhungVietBac/WebAPI/commit/3c23a8f7642c6d0bfb5130592736b94244268164): Fix samesite _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 23:00:11
-  - [`75046b2`](https://github.com/PhungVietBac/WebAPI/commit/75046b277f2c94ec96664182efe2d1153a8ad085): Fix middleware _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:46:25
-  - [`0cafb36`](https://github.com/PhungVietBac/WebAPI/commit/0cafb36efd079f9f58a5b89d095a78181d7d8085): Fix origin _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 14/05/2025, 22:09:57
-  - [`219aa36`](https://github.com/PhungVietBac/WebAPI/commit/219aa36d4c0a0292eb3f90596b07f58e49ca468f): Fix origins _(by VietBac)_
+- **DeleteEvent**: The branch br-1 was deleted in PhungVietBac/WebAPI at 26/05/2025, 22:11:35
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 26/05/2025, 22:11:27
+  - [`7e4fac0`](https://github.com/PhungVietBac/WebAPI/commit/7e4fac09181f4e6343d7d8514972e7f0177d44d7): Fix bugs _(by VietBac)_
+  - [`779d6f2`](https://github.com/PhungVietBac/WebAPI/commit/779d6f25985b7c4b4a6d39d47d51247861736c50): Merge pull request #1 from PhungVietBac/br-1 + Fix bugs _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#1 Fix bugs](https://github.com/PhungVietBac/WebAPI/pull/1) by **PhungVietBac** (closed, merged) at 26/05/2025, 22:11:26
+- **PullRequestEvent**: [#1 Fix bugs](https://github.com/PhungVietBac/WebAPI/pull/1) by **PhungVietBac** (open) at 26/05/2025, 22:10:51
+- **CreateEvent**: A new branch named br-1 was created in PhungVietBac/WebAPI at 26/05/2025, 22:10:03
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
