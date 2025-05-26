@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/05/2025, 23:29:21
+  - [`41892b2`](https://github.com/PhungVietBac/PhungVietBac/commit/41892b2816525ade0f2b8f6e42bd497de686c800): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/05/2025, 22:25:43
   - [`87d1bb3`](https://github.com/PhungVietBac/PhungVietBac/commit/87d1bb3d375ac1d84ef3d028b0d9b13e41a382f2): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/05/2025, 21:24:20
@@ -28,10 +30,10 @@
   - [`1372e86`](https://github.com/PhungVietBac/PhungVietBac/commit/1372e869fb3f3f2b31c7d53157dff8d0eee99bd7): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/05/2025, 18:18:50
   - [`c05e83b`](https://github.com/PhungVietBac/PhungVietBac/commit/c05e83bd6a4f46543ae0c045fca3f78a1a539739): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/05/2025, 17:28:29
-  - [`8ca51c2`](https://github.com/PhungVietBac/PhungVietBac/commit/8ca51c21c8e66254a2e662bf3125293c995f1c05): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:57:52
+  - [`573f347`](https://github.com/PhungVietBac/WebAPI/commit/573f347b7506157c1c791584e30be82eac1cf115): Update main.py _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:30:21
   - [`bec7a16`](https://github.com/PhungVietBac/WebAPI/commit/bec7a16c790ff1701efa7c6df457004e2122343b): Update auth_ctrl.py _(by Phùng Việt Bắc)_
 - **DeleteEvent**: The branch br-1 was deleted in PhungVietBac/WebAPI at 26/05/2025, 22:11:35
@@ -39,7 +41,6 @@
   - [`7e4fac0`](https://github.com/PhungVietBac/WebAPI/commit/7e4fac09181f4e6343d7d8514972e7f0177d44d7): Fix bugs _(by VietBac)_
   - [`779d6f2`](https://github.com/PhungVietBac/WebAPI/commit/779d6f25985b7c4b4a6d39d47d51247861736c50): Merge pull request #1 from PhungVietBac/br-1 + Fix bugs _(by Phùng Việt Bắc)_
 - **PullRequestEvent**: [#1 Fix bugs](https://github.com/PhungVietBac/WebAPI/pull/1) by **PhungVietBac** (closed, merged) at 26/05/2025, 22:11:26
-- **PullRequestEvent**: [#1 Fix bugs](https://github.com/PhungVietBac/WebAPI/pull/1) by **PhungVietBac** (open) at 26/05/2025, 22:10:51
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
