@@ -19,15 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 25/05/2025, 23:22:55
-  - [`2c99754`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2c997547c513851c4036a75ba70be4879648caf4): Commit changes _(by PhungVietBac)_
-  - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 25/05/2025, 22:24:55
-  - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
-  - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 02:39:18
   - [`7b6da1d`](https://github.com/PhungVietBac/PhungVietBac/commit/7b6da1daf9c3e836ff78d7b65247cf1f96c105a2): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -39,6 +30,15 @@
   - [`2354e9c`](https://github.com/PhungVietBac/PhungVietBac/commit/2354e9cbc0d0f80f372f6127e603b397c9b73f42): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/05/2025, 18:40:20
   - [`9d7e910`](https://github.com/PhungVietBac/PhungVietBac/commit/9d7e9101f28c4cd254a640cff72bf1bbe93f2064): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 25/05/2025, 23:22:55
+  - [`2c99754`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2c997547c513851c4036a75ba70be4879648caf4): Commit changes _(by PhungVietBac)_
+  - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 25/05/2025, 22:24:55
+  - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/04/2025, 21:56:28
+  - [`37d054d`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/37d054d992043f49d32547b53eaacf947478599a): Delete .idea directory _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
