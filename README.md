@@ -21,15 +21,6 @@
 <!--START_SECTION:activity-->
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
-### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
-  - [`d0ba9de`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/d0ba9de4205fff1b6523abe190812de1a8f3e728): Update UI (LogIn, SignUp, Setting,...) _(by PhungVietBac)_
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 25/05/2025, 23:22:55
-  - [`2c99754`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2c997547c513851c4036a75ba70be4879648caf4): Commit changes _(by PhungVietBac)_
-  - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 25/05/2025, 22:24:55
-  - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 14:41:43
   - [`27de9f3`](https://github.com/PhungVietBac/PhungVietBac/commit/27de9f3a26734286e7f4ef03a7504e3f229cdd58): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -41,6 +32,15 @@
   - [`82b79a0`](https://github.com/PhungVietBac/PhungVietBac/commit/82b79a04f71b774e8f7e99c709e3b6d922981537): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 06:22:06
   - [`60de9cc`](https://github.com/PhungVietBac/PhungVietBac/commit/60de9cc6f4968e30acb4ee897f321f40a9c478b7): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
+  - [`d0ba9de`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/d0ba9de4205fff1b6523abe190812de1a8f3e728): Update UI (LogIn, SignUp, Setting,...) _(by PhungVietBac)_
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 25/05/2025, 23:22:55
+  - [`2c99754`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2c997547c513851c4036a75ba70be4879648caf4): Commit changes _(by PhungVietBac)_
+  - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 25/05/2025, 22:24:55
+  - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
