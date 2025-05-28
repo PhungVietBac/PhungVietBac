@@ -19,9 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 16:26:53
+  - [`a6e7acd`](https://github.com/PhungVietBac/PhungVietBac/commit/a6e7acdec95369aa98d7a7f7b0e10e99eb269960): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 14:41:43
   - [`27de9f3`](https://github.com/PhungVietBac/PhungVietBac/commit/27de9f3a26734286e7f4ef03a7504e3f229cdd58): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 12:44:46
@@ -30,8 +30,8 @@
   - [`3ecb75a`](https://github.com/PhungVietBac/PhungVietBac/commit/3ecb75a30f3de0d7d6c2041b7b63dfd6d91ce8b1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 11:33:08
   - [`82b79a0`](https://github.com/PhungVietBac/PhungVietBac/commit/82b79a04f71b774e8f7e99c709e3b6d922981537): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 06:22:06
-  - [`60de9cc`](https://github.com/PhungVietBac/PhungVietBac/commit/60de9cc6f4968e30acb4ee897f321f40a9c478b7): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
