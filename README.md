@@ -47,8 +47,6 @@
   - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
   - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
-  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 29/05/2025, 01:54:30
