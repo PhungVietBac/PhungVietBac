@@ -41,6 +41,8 @@
   - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 15:53:30
+  - [`0c62266`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/0c622660e8e1464493c67f79b6102080b02e0301): Add login API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
   - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
