@@ -42,6 +42,8 @@
   - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PullRequestReviewEvent** by **PhungVietBac** at 28/05/2025, 23:59:23 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewCommentEvent** by **PhungVietBac** at 28/05/2025, 23:59:22 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
