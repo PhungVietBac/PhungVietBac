@@ -19,6 +19,16 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
+  - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
+  - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
+  - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
+  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 21:25:50
   - [`0e3f144`](https://github.com/PhungVietBac/PhungVietBac/commit/0e3f144c15f179166390d31994e0e30a99387b19): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -53,16 +63,6 @@
   - [`573f347`](https://github.com/PhungVietBac/WebAPI/commit/573f347b7506157c1c791584e30be82eac1cf115): Update main.py _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:30:21
   - [`bec7a16`](https://github.com/PhungVietBac/WebAPI/commit/bec7a16c790ff1701efa7c6df457004e2122343b): Update auth_ctrl.py _(by Phùng Việt Bắc)_
-
-### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
-  - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
-  - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
-  - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
-  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
