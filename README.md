@@ -19,6 +19,16 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
+  - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
+  - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
+  - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
+  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 23:29:58
   - [`3cc46ad`](https://github.com/PhungVietBac/PhungVietBac/commit/3cc46ad3b89c83f4efe6ef0bb2934e277c1996ff): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -31,19 +41,14 @@
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/05/2025, 16:44:53
   - [`87d2e16`](https://github.com/PhungVietBac/PhungVietBac/commit/87d2e16f80259570c9dea63393b63640e224d2e3): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
-### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:13:18
-  - [`3b8a25f`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3b8a25f9eeda405069fdc99ddf40749231df0a97): Update URL _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 23:07:08
-  - [`a278100`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a27810044f7b63b7dcf8466708582158b61024b2): Update URL _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 22:57:50
-  - [`fc87690`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/fc8769092a854f41ad5814a9e41e72188525c28b): Update port to .env _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 24/05/2025, 18:08:48
-  - [`948fbd1`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/948fbd1766c8dd11cf682247c480afbbc121c457): User, Style, User_Style, Question, Answer API _(by VietBac)_
-
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PullRequestReviewEvent** by **PhungVietBac** at 28/05/2025, 23:59:23 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
-- **PullRequestReviewCommentEvent** by **PhungVietBac** at 28/05/2025, 23:59:22 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **DeleteEvent**: The branch VB was deleted in PhungVietBac/AITripSystem at 29/05/2025, 01:04:13
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 29/05/2025, 01:04:08
+  - [`aea2033`](https://github.com/PhungVietBac/AITripSystem/commit/aea2033a424304522c9edfb4e22df00a3ecc8734): Add resolve token file _(by VietBac)_
+  - [`d4c957e`](https://github.com/PhungVietBac/AITripSystem/commit/d4c957e12ebc43612aeb8b61d25f2ac884834597): Merge pull request #46 from PhungVietBac/VB + Add resolve token file _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#46 Add resolve token file](https://github.com/PhungVietBac/AITripSystem/pull/46) by **PhungVietBac** (closed, merged) at 29/05/2025, 01:04:07
+- **PullRequestEvent**: [#46 Add resolve token file](https://github.com/PhungVietBac/AITripSystem/pull/46) by **PhungVietBac** (open) at 29/05/2025, 01:03:18
+- **CreateEvent**: A new branch named VB was created in PhungVietBac/AITripSystem at 29/05/2025, 01:02:44
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
