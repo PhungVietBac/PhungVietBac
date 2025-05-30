@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 22:25:53
+  - [`00250e7`](https://github.com/PhungVietBac/PhungVietBac/commit/00250e78ef54a1ab3029176321e9bbb83b2dd4b0): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 21:45:01
   - [`2b05b8d`](https://github.com/PhungVietBac/PhungVietBac/commit/2b05b8d2641cba9924b28c045a6215760d174351): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 21:24:04
@@ -28,14 +30,10 @@
   - [`ec3119a`](https://github.com/PhungVietBac/PhungVietBac/commit/ec3119abdc3055f78217db9a926731ea26934efb): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 19:50:27
   - [`d6cc29e`](https://github.com/PhungVietBac/PhungVietBac/commit/d6cc29e5c32f137b6f2ae0af6389127abd86f652): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 18:39:59
-  - [`6ad3bd7`](https://github.com/PhungVietBac/PhungVietBac/commit/6ad3bd739331875aab4c01a340c397d0dd178b73): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
   - [`778219c`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/778219c3171f0a9f687e5e663fb4f7cd105142f7): Update logic LogIn _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
-  - [`d0ba9de`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/d0ba9de4205fff1b6523abe190812de1a8f3e728): Update UI (LogIn, SignUp, Setting,...) _(by PhungVietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 21:26:16
