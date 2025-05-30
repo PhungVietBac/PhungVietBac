@@ -46,12 +46,6 @@
   - [`216b372`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/216b372c3a7fcf2d2b6d72119c5f9299fc81c1b3): Fix APIs _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 29/05/2025, 01:54:30
-- **PushEvent**: 3 commit(s) by **PhungVietBac** at 29/05/2025, 01:54:25
-  - [`6d99832`](https://github.com/PhungVietBac/AITripSystem/commit/6d99832136ed900e1bf1f7d03731d6c874155a9c): Update profile page _(by PDAnh77)_
-  - [`b5742f7`](https://github.com/PhungVietBac/AITripSystem/commit/b5742f7d2ada10805d24346a3dc0e7057ef525c0): Update dynamic routing for profile _(by PDAnh77)_
-  - [`b365d5a`](https://github.com/PhungVietBac/AITripSystem/commit/b365d5ac90041b96074123e3f40fdaed3b16b4d7): Merge pull request #47 from PhungVietBac/DucAnh + Update profile page _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#47 Update profile page](https://github.com/PhungVietBac/AITripSystem/pull/47) by **PhungVietBac** (closed, merged) at 29/05/2025, 01:54:24
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
