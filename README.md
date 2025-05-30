@@ -32,6 +32,9 @@
   - [`2047a11`](https://github.com/PhungVietBac/PhungVietBac/commit/2047a1108b8b65afa906d585c8b682b05b59ae1c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
+  - [`2b7e067`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2b7e0676570b09a02259df726a4b494629e70b03): Update logic SignUp _(by PhungVietBac)_
+  - [`77febe3`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/77febe3f7505eed757ae5980b174b0b907fe4759): Update logic Home _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
   - [`778219c`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/778219c3171f0a9f687e5e663fb4f7cd105142f7): Update logic LogIn _(by PhungVietBac)_
 
