@@ -20,25 +20,25 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 16:44:07
+  - [`8003072`](https://github.com/PhungVietBac/PhungVietBac/commit/80030727c9b2270dc4517d2f306296b5b8187368): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 16:26:32
+  - [`bb75ac4`](https://github.com/PhungVietBac/PhungVietBac/commit/bb75ac411161cb840f1770f8da1d1e0f18789a9a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 15:32:33
   - [`bd231a1`](https://github.com/PhungVietBac/PhungVietBac/commit/bd231a17d63012aceee89707d9f6c6d97c053e96): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 14:41:21
   - [`719dbff`](https://github.com/PhungVietBac/PhungVietBac/commit/719dbff911e955fb766b5d5a3883b49e76effd4e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 14:23:59
   - [`a343949`](https://github.com/PhungVietBac/PhungVietBac/commit/a34394957f66a91549d5c0193687fcee996334bb): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 10:58:16
-  - [`6755dd2`](https://github.com/PhungVietBac/PhungVietBac/commit/6755dd2a16d53b746ef9a07415d937561e9b840a): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 08:59:45
-  - [`2f6afd9`](https://github.com/PhungVietBac/PhungVietBac/commit/2f6afd93e8840527c2ebeb6c42e5c5a6e79bde64): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
+  - [`778219c`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/778219c3171f0a9f687e5e663fb4f7cd105142f7): Update logic LogIn _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 11:03:09
   - [`d0ba9de`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/d0ba9de4205fff1b6523abe190812de1a8f3e728): Update UI (LogIn, SignUp, Setting,...) _(by PhungVietBac)_
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 25/05/2025, 23:22:55
   - [`2c99754`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2c997547c513851c4036a75ba70be4879648caf4): Commit changes _(by PhungVietBac)_
   - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 25/05/2025, 22:24:55
-  - [`9d1532f`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/9d1532f597f8b14f7b7641b86c1bec586fdfad75): Delete .idea directory _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 17:55:15
@@ -49,8 +49,6 @@
   - [`216b372`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/216b372c3a7fcf2d2b6d72119c5f9299fc81c1b3): Fix APIs _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 16:19:11
   - [`7b01c60`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/7b01c609cdf4748d6fed3a7cb4b22a50fe339841): Fix APIs _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 15:53:30
-  - [`0c62266`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/0c622660e8e1464493c67f79b6102080b02e0301): Add login API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 29/05/2025, 01:54:30
