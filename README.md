@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 17:27:42
+  - [`00398fe`](https://github.com/PhungVietBac/PhungVietBac/commit/00398fe3461d4fc51a592a14e842a5e370a3eb88): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 16:44:07
   - [`8003072`](https://github.com/PhungVietBac/PhungVietBac/commit/80030727c9b2270dc4517d2f306296b5b8187368): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 16:26:32
@@ -28,8 +30,6 @@
   - [`bd231a1`](https://github.com/PhungVietBac/PhungVietBac/commit/bd231a17d63012aceee89707d9f6c6d97c053e96): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 14:41:21
   - [`719dbff`](https://github.com/PhungVietBac/PhungVietBac/commit/719dbff911e955fb766b5d5a3883b49e76effd4e): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 29/05/2025, 14:23:59
-  - [`a343949`](https://github.com/PhungVietBac/PhungVietBac/commit/a34394957f66a91549d5c0193687fcee996334bb): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
@@ -41,14 +41,14 @@
   - [`cdf9059`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/cdf905937b1bd33285951eadf1e2705421bb1eeb): Update UI + .gitignore _(by PhungVietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 21:26:16
+  - [`6695f28`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6695f28a0453f0a42ca82fa030ef9589dcb656e0): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 17:55:15
   - [`cffcefc`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/cffcefccb9cbde07d32b89ef39844f6465c017e2): Fix APIs _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 17:24:56
   - [`3542a16`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/3542a1653c2c5737af4926ae991c6adb98b4b7ca): Fix APIs _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 16:20:03
   - [`216b372`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/216b372c3a7fcf2d2b6d72119c5f9299fc81c1b3): Fix APIs _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 16:19:11
-  - [`7b01c60`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/7b01c609cdf4748d6fed3a7cb4b22a50fe339841): Fix APIs _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 29/05/2025, 01:54:30
