@@ -19,7 +19,21 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
+  - [`417fcf6`](https://github.com/PhungVietBac/WebAPI/commit/417fcf6bf8f2c6ef6a20223e9b42f50961ac53bd): Fix bugs _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 27/05/2025, 22:57:37
+  - [`b287d1c`](https://github.com/PhungVietBac/WebAPI/commit/b287d1c2e406141a2e45e1ecf37d6de426e41bdb): Fix bugs _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 27/05/2025, 07:40:32
+  - [`baadfdb`](https://github.com/PhungVietBac/WebAPI/commit/baadfdb6412205821581232875ec8dd190e3fc22): Update prompt AI _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:57:52
+  - [`573f347`](https://github.com/PhungVietBac/WebAPI/commit/573f347b7506157c1c791584e30be82eac1cf115): Update main.py _(by Phùng Việt Bắc)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:30:21
+  - [`bec7a16`](https://github.com/PhungVietBac/WebAPI/commit/bec7a16c790ff1701efa7c6df457004e2122343b): Update auth_ctrl.py _(by Phùng Việt Bắc)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 05:43:24
+  - [`0a8c64c`](https://github.com/PhungVietBac/PhungVietBac/commit/0a8c64c25836c2c52302b76cc4f3da7102336575): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 05:22:00
   - [`8d7fd7d`](https://github.com/PhungVietBac/PhungVietBac/commit/8d7fd7d0cbc9134147581e421932f74e0c780012): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 04:40:06
@@ -28,8 +42,6 @@
   - [`80af5c2`](https://github.com/PhungVietBac/PhungVietBac/commit/80af5c2d112be1b325449851a7cf984063e6bf89): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 03:41:11
   - [`d83a408`](https://github.com/PhungVietBac/PhungVietBac/commit/d83a4086d0143b6f98d6c61347f8b4d18f1b5875): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 03:24:17
-  - [`993600c`](https://github.com/PhungVietBac/PhungVietBac/commit/993600cecbfd01b7dc1f3011cebde5507cfbf40e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
@@ -51,18 +63,6 @@
   - [`221c744`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/221c7441f53974fc7fb50a158ba27251a447b2d7): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:41:15
   - [`57d7b8c`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/57d7b8c8b525895dc1b74041a93f1277f8054634): Add personality API _(by VietBac)_
-
-### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
-  - [`417fcf6`](https://github.com/PhungVietBac/WebAPI/commit/417fcf6bf8f2c6ef6a20223e9b42f50961ac53bd): Fix bugs _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 27/05/2025, 22:57:37
-  - [`b287d1c`](https://github.com/PhungVietBac/WebAPI/commit/b287d1c2e406141a2e45e1ecf37d6de426e41bdb): Fix bugs _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 27/05/2025, 07:40:32
-  - [`baadfdb`](https://github.com/PhungVietBac/WebAPI/commit/baadfdb6412205821581232875ec8dd190e3fc22): Update prompt AI _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:57:52
-  - [`573f347`](https://github.com/PhungVietBac/WebAPI/commit/573f347b7506157c1c791584e30be82eac1cf115): Update main.py _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 26/05/2025, 22:30:21
-  - [`bec7a16`](https://github.com/PhungVietBac/WebAPI/commit/bec7a16c790ff1701efa7c6df457004e2122343b): Update auth_ctrl.py _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
