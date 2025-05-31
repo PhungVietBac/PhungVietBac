@@ -19,7 +19,11 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 31/05/2025, 20:31:23
+  - [`9a53b08`](https://github.com/PhungVietBac/PhungVietBac/commit/9a53b08d06dcb327b31fdfc11b1a396bcb98726b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 31/05/2025, 19:45:47
   - [`71108fc`](https://github.com/PhungVietBac/PhungVietBac/commit/71108fc72eb3ebac09885f528a831a894ad151ec): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 31/05/2025, 18:39:03
@@ -28,8 +32,6 @@
   - [`a9dbbdc`](https://github.com/PhungVietBac/PhungVietBac/commit/a9dbbdcab303db6d2f5e019426b041fa05900169): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 31/05/2025, 17:43:23
   - [`6a320ab`](https://github.com/PhungVietBac/PhungVietBac/commit/6a320ab7f025209a1c7284b2b5cfc203166698e3): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 31/05/2025, 17:23:59
-  - [`b0ee963`](https://github.com/PhungVietBac/PhungVietBac/commit/b0ee963adf3d8acef80c02a6dd00158769c103fe): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
@@ -49,8 +51,6 @@
   - [`221c744`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/221c7441f53974fc7fb50a158ba27251a447b2d7): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:41:15
   - [`57d7b8c`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/57d7b8c8b525895dc1b74041a93f1277f8054634): Add personality API _(by VietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
