@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 16:41:22
+  - [`05aa549`](https://github.com/PhungVietBac/PhungVietBac/commit/05aa54942e6f51d84a30b18b6f97b693a29a0d8b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 16:24:06
   - [`3ed8eae`](https://github.com/PhungVietBac/PhungVietBac/commit/3ed8eae3cdb83d84ffd8bd4a6a8aa4ccbc0b5f3b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 15:50:46
@@ -28,34 +30,17 @@
   - [`cfc4312`](https://github.com/PhungVietBac/PhungVietBac/commit/cfc431203737079860c0fe20942b01a0f4d0fa8d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 14:40:51
   - [`b86468f`](https://github.com/PhungVietBac/PhungVietBac/commit/b86468f584ebffb6eab7482b91291e8ed49401d3): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 14:22:47
-  - [`456fcc7`](https://github.com/PhungVietBac/PhungVietBac/commit/456fcc79eebbd66336265a2bebee2b9296117b0e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 7 commit(s) by **PhungVietBac** at 01/06/2025, 06:35:21
-  - [`1b89ae2`](https://github.com/PhungVietBac/AITripSystem/commit/1b89ae2445a915eed8d82fc1656dfbe25e9e20bd): update middleware for route _(by tnduya3)_
-  - [`d0dcc81`](https://github.com/PhungVietBac/AITripSystem/commit/d0dcc8137930f8ec95cfa66985048ba441ff133a): update login&register UI, fix cookie in middleware _(by tnduya3)_
-  - [`f6ac351`](https://github.com/PhungVietBac/AITripSystem/commit/f6ac3517d8273edbb85c3f77836fb80726decf70): fix username _(by tnduya3)_
-  - [`8de75c6`](https://github.com/PhungVietBac/AITripSystem/commit/8de75c6096625231cb69415ea5d1b0fa0a390d6a): Merge branch 'main' of https://github.com/PhungVietBac/AITripSystem into Duy _(by tnduya3)_
-  - [`ab3fda3`](https://github.com/PhungVietBac/AITripSystem/commit/ab3fda35770cb686b8bc3f2793a71e6317342738): fix responsive login&registerForm _(by tnduya3)_
-  - [`32d2612`](https://github.com/PhungVietBac/AITripSystem/commit/32d26123c3f9df826ea5a405f80241cf377cac18): Merge branch 'main' into Duy _(by Phùng Việt Bắc)_
-  - [`3c168e6`](https://github.com/PhungVietBac/AITripSystem/commit/3c168e6f7154e0663461a30dbedd0c7644caf91a): Merge pull request #45 from PhungVietBac/Duy + update middleware for route _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#45 update middleware for route](https://github.com/PhungVietBac/AITripSystem/pull/45) by **PhungVietBac** (closed, merged) at 01/06/2025, 06:35:21
-- **PushEvent**: 14 commit(s) by **PhungVietBac** at 01/06/2025, 06:34:34
-  - [`97c43ba`](https://github.com/PhungVietBac/AITripSystem/commit/97c43bad3e01286d84cfba068aa028f7e348d2be): update home UI _(by Flourine)_
-  - [`cf01c8a`](https://github.com/PhungVietBac/AITripSystem/commit/cf01c8a2c650d1a38112b9e58792c5c222247e7b): update oauth, UI home & intro _(by Flourine)_
-  - [`8f433a1`](https://github.com/PhungVietBac/AITripSystem/commit/8f433a1dd1830ffc5f7bb1d85af617d94c3e8139): build Chatbot (non-cache, not optimized), update location asked _(by Flourine)_
-  - [`89be901`](https://github.com/PhungVietBac/AITripSystem/commit/89be90184910cb08d8cf8f530d4c38f9e835340b): update submit form for AI _(by Flourine)_
-  - [`1ecfc2f`](https://github.com/PhungVietBac/AITripSystem/commit/1ecfc2fb823c9e399ab57155c23d9163e015f0a2): Merge branch 'main' into tuantran _(by TuanTran)_
-  - [`3d14052`](https://github.com/PhungVietBac/AITripSystem/commit/3d14052b1e7bb744f93dfbf2834fbb1d1014871e): Merge main into tuantran - resolved conflicts prioritizing tuantran branch _(by Flourine)_
-  - [`32bb9f8`](https://github.com/PhungVietBac/AITripSystem/commit/32bb9f80f4acbdf206586855e06c0c4726f11501): fixed the submodules of Chatbot _(by Flourine)_
-  - [`34cb0a2`](https://github.com/PhungVietBac/AITripSystem/commit/34cb0a203316601b2d4400f1b24d4be8f31f10d0): Add Chatbot files to repository (fix submodule issue) _(by Flourine)_
-  - [`976af97`](https://github.com/PhungVietBac/AITripSystem/commit/976af9706e5046604fe9fce3fb9db7353adac0b4): delete the junk _(by Flourine)_
-  - [`a5ad59e`](https://github.com/PhungVietBac/AITripSystem/commit/a5ad59e3a3927c38eb3bc6ef2d88a5c2b384833d): update context tracing for chatbots _(by Flourine)_
-  - [`8ac5b89`](https://github.com/PhungVietBac/AITripSystem/commit/8ac5b89a5ad40fc4fd99329b62fb2bbc23152078): Merge pull request #49 from PhungVietBac/tuantran + Tuantran _(by Phùng Việt Bắc)_
-  - [`5bf347b`](https://github.com/PhungVietBac/AITripSystem/commit/5bf347b2ef6c830c324e8c4f1a45cea37487879a): rewrite the api use conversations _(by Flourine)_
-  - [`4d0ea7f`](https://github.com/PhungVietBac/AITripSystem/commit/4d0ea7fc5c0887c02ce5108a073951b4278d6811): Merge pull request #50 from PhungVietBac/tuantran + rewrite the api use conversations _(by TuanTran)_
-  - [`32d2612`](https://github.com/PhungVietBac/AITripSystem/commit/32d26123c3f9df826ea5a405f80241cf377cac18): Merge branch 'main' into Duy _(by Phùng Việt Bắc)_
+- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/06/2025, 07:08:57
+- **PushEvent**: 4 commit(s) by **PhungVietBac** at 01/06/2025, 07:08:46
+  - [`8839f2c`](https://github.com/PhungVietBac/AITripSystem/commit/8839f2c8f236e73bf268bb4154d9549b007d3e22): A _(by VietBac)_
+  - [`f9bea90`](https://github.com/PhungVietBac/AITripSystem/commit/f9bea903c739a29f783e753f559b6fba7b02c6e2): Save _(by VietBac)_
+  - [`6b3cfa4`](https://github.com/PhungVietBac/AITripSystem/commit/6b3cfa43b942c126d63d17b1150b24ec4505d25e): Fix bugs _(by VietBac)_
+  - [`58929d7`](https://github.com/PhungVietBac/AITripSystem/commit/58929d794021089199667974bbfe54c4f4ef8eff): Merge pull request #51 from PhungVietBac/VietBac + Fix bugs _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#51 Fix bugs](https://github.com/PhungVietBac/AITripSystem/pull/51) by **PhungVietBac** (closed, merged) at 01/06/2025, 07:08:45
+- **PullRequestEvent**: [#51 Fix bugs](https://github.com/PhungVietBac/AITripSystem/pull/51) by **PhungVietBac** (open) at 01/06/2025, 07:06:15
+- **CreateEvent**: A new branch named VietBac was created in PhungVietBac/AITripSystem at 01/06/2025, 07:05:37
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 06:16:58
