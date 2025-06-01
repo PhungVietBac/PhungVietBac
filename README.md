@@ -19,9 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 09:24:22
+  - [`a33b7d4`](https://github.com/PhungVietBac/PhungVietBac/commit/a33b7d472f979c08e0cc5167ba5556b28018f1e8): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 06:40:45
   - [`9d56334`](https://github.com/PhungVietBac/PhungVietBac/commit/9d5633436e5434ea9167ab6aac3470653cc5da8d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 06:22:51
@@ -30,8 +30,20 @@
   - [`0a8c64c`](https://github.com/PhungVietBac/PhungVietBac/commit/0a8c64c25836c2c52302b76cc4f3da7102336575): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 05:22:00
   - [`8d7fd7d`](https://github.com/PhungVietBac/PhungVietBac/commit/8d7fd7d0cbc9134147581e421932f74e0c780012): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 01/06/2025, 04:40:06
-  - [`02a18bc`](https://github.com/PhungVietBac/PhungVietBac/commit/02a18bc806f22105ba5bb95c30be0a004300992d): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 11 commit(s) by **PhungVietBac** at 31/05/2025, 20:42:36
+  - [`97c43ba`](https://github.com/PhungVietBac/AITripSystem/commit/97c43bad3e01286d84cfba068aa028f7e348d2be): update home UI _(by Flourine)_
+  - [`cf01c8a`](https://github.com/PhungVietBac/AITripSystem/commit/cf01c8a2c650d1a38112b9e58792c5c222247e7b): update oauth, UI home & intro _(by Flourine)_
+  - [`8f433a1`](https://github.com/PhungVietBac/AITripSystem/commit/8f433a1dd1830ffc5f7bb1d85af617d94c3e8139): build Chatbot (non-cache, not optimized), update location asked _(by Flourine)_
+  - [`89be901`](https://github.com/PhungVietBac/AITripSystem/commit/89be90184910cb08d8cf8f530d4c38f9e835340b): update submit form for AI _(by Flourine)_
+  - [`1ecfc2f`](https://github.com/PhungVietBac/AITripSystem/commit/1ecfc2fb823c9e399ab57155c23d9163e015f0a2): Merge branch 'main' into tuantran _(by TuanTran)_
+  - [`3d14052`](https://github.com/PhungVietBac/AITripSystem/commit/3d14052b1e7bb744f93dfbf2834fbb1d1014871e): Merge main into tuantran - resolved conflicts prioritizing tuantran branch _(by Flourine)_
+  - [`32bb9f8`](https://github.com/PhungVietBac/AITripSystem/commit/32bb9f80f4acbdf206586855e06c0c4726f11501): fixed the submodules of Chatbot _(by Flourine)_
+  - [`34cb0a2`](https://github.com/PhungVietBac/AITripSystem/commit/34cb0a203316601b2d4400f1b24d4be8f31f10d0): Add Chatbot files to repository (fix submodule issue) _(by Flourine)_
+  - [`976af97`](https://github.com/PhungVietBac/AITripSystem/commit/976af9706e5046604fe9fce3fb9db7353adac0b4): delete the junk _(by Flourine)_
+  - [`a5ad59e`](https://github.com/PhungVietBac/AITripSystem/commit/a5ad59e3a3927c38eb3bc6ef2d88a5c2b384833d): update context tracing for chatbots _(by Flourine)_
+  - [`8ac5b89`](https://github.com/PhungVietBac/AITripSystem/commit/8ac5b89a5ad40fc4fd99329b62fb2bbc23152078): Merge pull request #49 from PhungVietBac/tuantran + Tuantran _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 28/05/2025, 00:00:52
