@@ -44,12 +44,6 @@
   - [`fb546f8`](https://github.com/PhungVietBac/WebAPI/commit/fb546f8fa0a49f1bfe8b2ef3031781a6dcc649d4): Add Conversations + Messages endpoint _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/06/2025, 07:08:57
-- **PushEvent**: 4 commit(s) by **PhungVietBac** at 01/06/2025, 07:08:46
-  - [`8839f2c`](https://github.com/PhungVietBac/AITripSystem/commit/8839f2c8f236e73bf268bb4154d9549b007d3e22): A _(by VietBac)_
-  - [`f9bea90`](https://github.com/PhungVietBac/AITripSystem/commit/f9bea903c739a29f783e753f559b6fba7b02c6e2): Save _(by VietBac)_
-  - [`6b3cfa4`](https://github.com/PhungVietBac/AITripSystem/commit/6b3cfa43b942c126d63d17b1150b24ec4505d25e): Fix bugs _(by VietBac)_
-  - [`58929d7`](https://github.com/PhungVietBac/AITripSystem/commit/58929d794021089199667974bbfe54c4f4ef8eff): Merge pull request #51 from PhungVietBac/VietBac + Fix bugs _(by Phùng Việt Bắc)_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
