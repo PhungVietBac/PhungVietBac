@@ -19,19 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 23:05:17
-  - [`9007fd5`](https://github.com/PhungVietBac/WebAPI/commit/9007fd5a9f2ca42278fc6bfeea4ceeb517ed9176): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:49:44
-  - [`57949c8`](https://github.com/PhungVietBac/WebAPI/commit/57949c896318efc43872a2dd9caff85e77426f7d): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:16:11
-  - [`c27d92a`](https://github.com/PhungVietBac/WebAPI/commit/c27d92ad8b0f9100bc78d3be679fbec2d3de7c5f): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:09:16
-  - [`fb546f8`](https://github.com/PhungVietBac/WebAPI/commit/fb546f8fa0a49f1bfe8b2ef3031781a6dcc649d4): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 19:52:49
-  - [`3eaf7b1`](https://github.com/PhungVietBac/WebAPI/commit/3eaf7b15a8e7d95d74abac250e30a84deadbafce): Add Conversations + Messages endpoint _(by VietBac)_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 01:34:21
+  - [`71a9e4d`](https://github.com/PhungVietBac/PhungVietBac/commit/71a9e4d06ad3b9cd9a91c8c864332ab6e64df61e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 23:32:17
   - [`f8a7a1f`](https://github.com/PhungVietBac/PhungVietBac/commit/f8a7a1fe530cb77f41d38b75b361dcc72a38e19f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 20:36:34
@@ -40,8 +30,18 @@
   - [`db89196`](https://github.com/PhungVietBac/PhungVietBac/commit/db8919664bcaf84d1ada6ceabb5f3cea9152c9b3): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 17:27:32
   - [`fd75c77`](https://github.com/PhungVietBac/PhungVietBac/commit/fd75c773b99a20e29c376105c2e9203272976aa6): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 16:27:20
-  - [`db904e0`](https://github.com/PhungVietBac/PhungVietBac/commit/db904e0c3d07fd04303fcd3ea35cfdf4bc5e6b70): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 01:32:14
+  - [`538538a`](https://github.com/PhungVietBac/WebAPI/commit/538538ac0bafd1f9cd9467a1895a1be86f35c6f2): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 23:05:17
+  - [`9007fd5`](https://github.com/PhungVietBac/WebAPI/commit/9007fd5a9f2ca42278fc6bfeea4ceeb517ed9176): Add Conversations + Messages endpoint _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:49:44
+  - [`57949c8`](https://github.com/PhungVietBac/WebAPI/commit/57949c896318efc43872a2dd9caff85e77426f7d): Add Conversations + Messages endpoint _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:16:11
+  - [`c27d92a`](https://github.com/PhungVietBac/WebAPI/commit/c27d92ad8b0f9100bc78d3be679fbec2d3de7c5f): Add Conversations + Messages endpoint _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:09:16
+  - [`fb546f8`](https://github.com/PhungVietBac/WebAPI/commit/fb546f8fa0a49f1bfe8b2ef3031781a6dcc649d4): Add Conversations + Messages endpoint _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 01/06/2025, 07:08:57
