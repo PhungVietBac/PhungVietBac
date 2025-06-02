@@ -50,7 +50,6 @@
   - [`f9bea90`](https://github.com/PhungVietBac/AITripSystem/commit/f9bea903c739a29f783e753f559b6fba7b02c6e2): Save _(by VietBac)_
   - [`6b3cfa4`](https://github.com/PhungVietBac/AITripSystem/commit/6b3cfa43b942c126d63d17b1150b24ec4505d25e): Fix bugs _(by VietBac)_
   - [`58929d7`](https://github.com/PhungVietBac/AITripSystem/commit/58929d794021089199667974bbfe54c4f4ef8eff): Merge pull request #51 from PhungVietBac/VietBac + Fix bugs _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#51 Fix bugs](https://github.com/PhungVietBac/AITripSystem/pull/51) by **PhungVietBac** (closed, merged) at 01/06/2025, 07:08:45
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
