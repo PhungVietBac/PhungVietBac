@@ -19,6 +19,14 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 02:07:13
+  - [`840df08`](https://github.com/PhungVietBac/AITripSystem/commit/840df08f40f7b48e30906152e619b1c55ff42725): Update profile UI _(by PDAnh77)_
+  - [`cc73003`](https://github.com/PhungVietBac/AITripSystem/commit/cc73003ae65ccc51ddddff129ee3b84f81168fa4): Update header _(by PDAnh77)_
+  - [`11cefd1`](https://github.com/PhungVietBac/AITripSystem/commit/11cefd147a415322e51e5e20361990796b3e3ff1): Merge pull request #53 from PhungVietBac/DucAnh + Retrieve user avatar in header _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#53 Retrieve user avatar in header](https://github.com/PhungVietBac/AITripSystem/pull/53) by **PhungVietBac** (closed, merged) at 03/06/2025, 02:07:11
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 03/06/2025, 02:07:11
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 09:01:41
   - [`f306408`](https://github.com/PhungVietBac/PhungVietBac/commit/f306408c903f22094732c3b5ef5c1f8d38ae7a29): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -42,14 +50,6 @@
   - [`1d6a53f`](https://github.com/PhungVietBac/WebAPI/commit/1d6a53f450389d7a1cb6e2572089b7b70e5d3597): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:12:29
   - [`465e042`](https://github.com/PhungVietBac/WebAPI/commit/465e042db067f69b7e958f279da6a271efdaba58): Google Auth _(by VietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 02:07:13
-  - [`840df08`](https://github.com/PhungVietBac/AITripSystem/commit/840df08f40f7b48e30906152e619b1c55ff42725): Update profile UI _(by PDAnh77)_
-  - [`cc73003`](https://github.com/PhungVietBac/AITripSystem/commit/cc73003ae65ccc51ddddff129ee3b84f81168fa4): Update header _(by PDAnh77)_
-  - [`11cefd1`](https://github.com/PhungVietBac/AITripSystem/commit/11cefd147a415322e51e5e20361990796b3e3ff1): Merge pull request #53 from PhungVietBac/DucAnh + Retrieve user avatar in header _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#53 Retrieve user avatar in header](https://github.com/PhungVietBac/AITripSystem/pull/53) by **PhungVietBac** (closed, merged) at 03/06/2025, 02:07:11
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 03/06/2025, 02:07:11
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
