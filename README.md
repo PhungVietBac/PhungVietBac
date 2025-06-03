@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 16:45:32
+  - [`2203be3`](https://github.com/PhungVietBac/PhungVietBac/commit/2203be38802b004ba5beb4fe6da88008847e03e9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 16:28:05
   - [`89166f1`](https://github.com/PhungVietBac/PhungVietBac/commit/89166f197904ac2be34a7ac5463607f1f2bae23b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 15:34:22
@@ -28,8 +30,6 @@
   - [`16f108e`](https://github.com/PhungVietBac/PhungVietBac/commit/16f108e52e31cbbcebfac5b43bf7febaa6840b35): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 14:25:19
   - [`b1352eb`](https://github.com/PhungVietBac/PhungVietBac/commit/b1352eba6063a1053a73e4f417f81a88c592a70e): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 13:36:49
-  - [`d4faff1`](https://github.com/PhungVietBac/PhungVietBac/commit/d4faff1967039bc1abc7e34ae571bf2acfe80125): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 03/06/2025, 14:36:12
