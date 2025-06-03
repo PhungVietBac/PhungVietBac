@@ -19,6 +19,18 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 13:05:02
+  - [`989df00`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/989df00aa9402945f70ff11dd11b2f9be3d5259f): Add personality API _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 12:17:41
+  - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 11:50:35
+  - [`6ff1b0b`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6ff1b0b57c8af3c7f888d0456ff74ee759e46cd7): Add personality API _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:44:56
+  - [`221c744`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/221c7441f53974fc7fb50a158ba27251a447b2d7): Add personality API _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:41:15
+  - [`57d7b8c`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/57d7b8c8b525895dc1b74041a93f1277f8054634): Add personality API _(by VietBac)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 18:21:14
   - [`cf54f41`](https://github.com/PhungVietBac/PhungVietBac/commit/cf54f411277ef5dd28037f416d8574632eafe510): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -61,18 +73,6 @@
   - [`77febe3`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/77febe3f7505eed757ae5980b174b0b907fe4759): Update logic Home _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
   - [`778219c`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/778219c3171f0a9f687e5e663fb4f7cd105142f7): Update logic LogIn _(by PhungVietBac)_
-
-### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 13:05:02
-  - [`989df00`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/989df00aa9402945f70ff11dd11b2f9be3d5259f): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 12:17:41
-  - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 11:50:35
-  - [`6ff1b0b`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6ff1b0b57c8af3c7f888d0456ff74ee759e46cd7): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:44:56
-  - [`221c744`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/221c7441f53974fc7fb50a158ba27251a447b2d7): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:41:15
-  - [`57d7b8c`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/57d7b8c8b525895dc1b74041a93f1277f8054634): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
