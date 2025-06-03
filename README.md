@@ -32,12 +32,16 @@
   - [`f306408`](https://github.com/PhungVietBac/PhungVietBac/commit/f306408c903f22094732c3b5ef5c1f8d38ae7a29): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 02:07:13
-  - [`840df08`](https://github.com/PhungVietBac/AITripSystem/commit/840df08f40f7b48e30906152e619b1c55ff42725): Update profile UI _(by PDAnh77)_
-  - [`cc73003`](https://github.com/PhungVietBac/AITripSystem/commit/cc73003ae65ccc51ddddff129ee3b84f81168fa4): Update header _(by PDAnh77)_
-  - [`11cefd1`](https://github.com/PhungVietBac/AITripSystem/commit/11cefd147a415322e51e5e20361990796b3e3ff1): Merge pull request #53 from PhungVietBac/DucAnh + Retrieve user avatar in header _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#53 Retrieve user avatar in header](https://github.com/PhungVietBac/AITripSystem/pull/53) by **PhungVietBac** (closed, merged) at 03/06/2025, 02:07:11
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 03/06/2025, 02:07:11
+- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 03/06/2025, 14:36:12
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 14:36:06
+  - [`efd0815`](https://github.com/PhungVietBac/AITripSystem/commit/efd0815c165e1c85491d816e84e4bb52b150a68b): Fix middleware, Update AI suggestion, Fix UI _(by VietBac)_
+  - [`b7a041f`](https://github.com/PhungVietBac/AITripSystem/commit/b7a041f36a9cd739d2fa39a8dc9fd0bfcb327b99): Merge branch 'main' into VietBac _(by Phùng Việt Bắc)_
+  - [`7ddb146`](https://github.com/PhungVietBac/AITripSystem/commit/7ddb1468ae3053d5686d009a87cd228ed2f94233): Merge pull request #55 from PhungVietBac/VietBac + Fix middleware, Update AI suggestion, Fix UI _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#55 Fix middleware, Update AI suggestion, Fix UI](https://github.com/PhungVietBac/AITripSystem/pull/55) by **PhungVietBac** (closed, merged) at 03/06/2025, 14:36:05
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 14:35:52
+  - [`d21fe81`](https://github.com/PhungVietBac/AITripSystem/commit/d21fe817e2ecd14a39d7b76f5e855935b04efcb0): Fix middleware, Update AI suggestion, Fix UI _(by VietBac)_
+  - [`8e6fc03`](https://github.com/PhungVietBac/AITripSystem/commit/8e6fc032c7cc4ee539146237158a1ec8b73cffab): Merge pull request #54 from PhungVietBac/VietBac + Fix middleware, Update AI suggestion, Fix UI _(by Phùng Việt Bắc)_
+  - [`b7a041f`](https://github.com/PhungVietBac/AITripSystem/commit/b7a041f36a9cd739d2fa39a8dc9fd0bfcb327b99): Merge branch 'main' into VietBac _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
