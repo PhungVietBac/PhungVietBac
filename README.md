@@ -20,30 +20,36 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 03:26:42
+  - [`1531753`](https://github.com/PhungVietBac/PhungVietBac/commit/153175337cc0596f95148c54e85c828b53268ef3): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 02:39:02
+  - [`11c7cc8`](https://github.com/PhungVietBac/PhungVietBac/commit/11c7cc82722927e3b3666a3d08bb043e64ad47b7): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 02:18:58
+  - [`8083b82`](https://github.com/PhungVietBac/PhungVietBac/commit/8083b82d91461ef097f9cccfdc03b1c9ec6cc080): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 01:34:21
   - [`71a9e4d`](https://github.com/PhungVietBac/PhungVietBac/commit/71a9e4d06ad3b9cd9a91c8c864332ab6e64df61e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 23:32:17
   - [`f8a7a1f`](https://github.com/PhungVietBac/PhungVietBac/commit/f8a7a1fe530cb77f41d38b75b361dcc72a38e19f): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 20:36:34
-  - [`327704a`](https://github.com/PhungVietBac/PhungVietBac/commit/327704ab0bd854c0c918671428b06ef010abb2ca): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 18:40:47
-  - [`db89196`](https://github.com/PhungVietBac/PhungVietBac/commit/db8919664bcaf84d1ada6ceabb5f3cea9152c9b3): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 02/06/2025, 17:27:32
-  - [`fd75c77`](https://github.com/PhungVietBac/PhungVietBac/commit/fd75c773b99a20e29c376105c2e9203272976aa6): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 03:21:01
+  - [`d424be6`](https://github.com/PhungVietBac/WebAPI/commit/d424be640b9286da4d766fe6043b2b67168071f0): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:35:04
+  - [`1d6a53f`](https://github.com/PhungVietBac/WebAPI/commit/1d6a53f450389d7a1cb6e2572089b7b70e5d3597): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:12:29
+  - [`465e042`](https://github.com/PhungVietBac/WebAPI/commit/465e042db067f69b7e958f279da6a271efdaba58): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 01:32:14
   - [`538538a`](https://github.com/PhungVietBac/WebAPI/commit/538538ac0bafd1f9cd9467a1895a1be86f35c6f2): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 23:05:17
   - [`9007fd5`](https://github.com/PhungVietBac/WebAPI/commit/9007fd5a9f2ca42278fc6bfeea4ceeb517ed9176): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:49:44
-  - [`57949c8`](https://github.com/PhungVietBac/WebAPI/commit/57949c896318efc43872a2dd9caff85e77426f7d): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:16:11
-  - [`c27d92a`](https://github.com/PhungVietBac/WebAPI/commit/c27d92ad8b0f9100bc78d3be679fbec2d3de7c5f): Add Conversations + Messages endpoint _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 01/06/2025, 22:09:16
-  - [`fb546f8`](https://github.com/PhungVietBac/WebAPI/commit/fb546f8fa0a49f1bfe8b2ef3031781a6dcc649d4): Add Conversations + Messages endpoint _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 3 commit(s) by **PhungVietBac** at 03/06/2025, 02:07:13
+  - [`840df08`](https://github.com/PhungVietBac/AITripSystem/commit/840df08f40f7b48e30906152e619b1c55ff42725): Update profile UI _(by PDAnh77)_
+  - [`cc73003`](https://github.com/PhungVietBac/AITripSystem/commit/cc73003ae65ccc51ddddff129ee3b84f81168fa4): Update header _(by PDAnh77)_
+  - [`11cefd1`](https://github.com/PhungVietBac/AITripSystem/commit/11cefd147a415322e51e5e20361990796b3e3ff1): Merge pull request #53 from PhungVietBac/DucAnh + Retrieve user avatar in header _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#53 Retrieve user avatar in header](https://github.com/PhungVietBac/AITripSystem/pull/53) by **PhungVietBac** (closed, merged) at 03/06/2025, 02:07:11
+- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 03/06/2025, 02:07:11
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
