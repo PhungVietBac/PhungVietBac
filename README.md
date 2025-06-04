@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 04/06/2025, 00:44:06
+  - [`9882f7b`](https://github.com/PhungVietBac/PhungVietBac/commit/9882f7ba1e259c5b8df1ecea296a855fa9adef6a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 04/06/2025, 00:23:13
   - [`27fca7e`](https://github.com/PhungVietBac/PhungVietBac/commit/27fca7e108cde9f90c2e8959738c39eeb383a0af): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 23:33:16
@@ -28,8 +30,6 @@
   - [`05de2d6`](https://github.com/PhungVietBac/PhungVietBac/commit/05de2d635276dfef223829c6876e6628f0848b79): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 21:26:02
   - [`a49b983`](https://github.com/PhungVietBac/PhungVietBac/commit/a49b9830f040a44b4400d97aa4f55022e6ae26ff): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 20:37:05
-  - [`05d8d77`](https://github.com/PhungVietBac/PhungVietBac/commit/05d8d77327a834f6668943af469baab116c1d0cb): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:29:22
@@ -50,7 +50,6 @@
   - [`efd0815`](https://github.com/PhungVietBac/AITripSystem/commit/efd0815c165e1c85491d816e84e4bb52b150a68b): Fix middleware, Update AI suggestion, Fix UI _(by VietBac)_
   - [`b7a041f`](https://github.com/PhungVietBac/AITripSystem/commit/b7a041f36a9cd739d2fa39a8dc9fd0bfcb327b99): Merge branch 'main' into VietBac _(by Phùng Việt Bắc)_
   - [`7ddb146`](https://github.com/PhungVietBac/AITripSystem/commit/7ddb1468ae3053d5686d009a87cd228ed2f94233): Merge pull request #55 from PhungVietBac/VietBac + Fix middleware, Update AI suggestion, Fix UI _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#55 Fix middleware, Update AI suggestion, Fix UI](https://github.com/PhungVietBac/AITripSystem/pull/55) by **PhungVietBac** (closed, merged) at 03/06/2025, 14:36:05
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
