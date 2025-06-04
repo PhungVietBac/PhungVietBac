@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 04/06/2025, 00:23:13
+  - [`27fca7e`](https://github.com/PhungVietBac/PhungVietBac/commit/27fca7e108cde9f90c2e8959738c39eeb383a0af): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 23:33:16
   - [`2f8f778`](https://github.com/PhungVietBac/PhungVietBac/commit/2f8f778814a429d64b94df9ee8fc1cf97216a27a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 22:47:19
@@ -28,20 +30,18 @@
   - [`a49b983`](https://github.com/PhungVietBac/PhungVietBac/commit/a49b9830f040a44b4400d97aa4f55022e6ae26ff): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 20:37:05
   - [`05d8d77`](https://github.com/PhungVietBac/PhungVietBac/commit/05d8d77327a834f6668943af469baab116c1d0cb): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 03/06/2025, 19:52:35
-  - [`f3680de`](https://github.com/PhungVietBac/PhungVietBac/commit/f3680de175cf686aeea60e589b6a1f29eb9f654b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:29:22
+  - [`df17714`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/df17714f2e56e4adc662a44f1500b59eaea67f70): Add personality API _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:23:47
+  - [`a313082`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a313082921fed9fefb800a1b1f54fed43c62c933): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 13:05:02
   - [`989df00`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/989df00aa9402945f70ff11dd11b2f9be3d5259f): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 12:17:41
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 11:50:35
   - [`6ff1b0b`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6ff1b0b57c8af3c7f888d0456ff74ee759e46cd7): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:44:56
-  - [`221c744`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/221c7441f53974fc7fb50a158ba27251a447b2d7): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 04:41:15
-  - [`57d7b8c`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/57d7b8c8b525895dc1b74041a93f1277f8054634): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PullRequestEvent**: [#52 add googleAuth](https://github.com/PhungVietBac/AITripSystem/pull/52) by **PhungVietBac** (closed) at 03/06/2025, 21:55:43
