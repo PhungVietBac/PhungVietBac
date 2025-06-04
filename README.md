@@ -51,8 +51,6 @@
   - [`6ff1b0b`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6ff1b0b57c8af3c7f888d0456ff74ee759e46cd7): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PullRequestEvent**: [#52 add googleAuth](https://github.com/PhungVietBac/AITripSystem/pull/52) by **PhungVietBac** (closed) at 03/06/2025, 21:55:43
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 03/06/2025, 14:36:12
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
