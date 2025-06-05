@@ -19,18 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 17:27:51
-  - [`24d37f9`](https://github.com/PhungVietBac/PhungVietBac/commit/24d37f9b4751dd9e156230fab01f63feeee10b22): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 16:44:39
-  - [`aad202a`](https://github.com/PhungVietBac/PhungVietBac/commit/aad202a56bbc88eee1036c5a26edef5ebf3c1b7b): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 15:32:45
-  - [`33d3a90`](https://github.com/PhungVietBac/PhungVietBac/commit/33d3a90d5aa2e63f9431f1fbd1bd7cbcf6550840): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 14:23:53
-  - [`9462251`](https://github.com/PhungVietBac/PhungVietBac/commit/946225186604d9fdca22350162c8539ec84f6b89): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 13:36:32
-  - [`557f8fb`](https://github.com/PhungVietBac/PhungVietBac/commit/557f8fb94198404bcba677afe0d0576d16c875ec): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:29:22
   - [`df17714`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/df17714f2e56e4adc662a44f1500b59eaea67f70): Add personality API _(by VietBac)_
@@ -42,6 +30,18 @@
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 11:50:35
   - [`6ff1b0b`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/6ff1b0b57c8af3c7f888d0456ff74ee759e46cd7): Add personality API _(by VietBac)_
+
+### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 17:49:26
+  - [`eb0f529`](https://github.com/PhungVietBac/PhungVietBac/commit/eb0f529d762c596331c4ad693338a81aa3a3c54e): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 17:27:51
+  - [`24d37f9`](https://github.com/PhungVietBac/PhungVietBac/commit/24d37f9b4751dd9e156230fab01f63feeee10b22): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 16:44:39
+  - [`aad202a`](https://github.com/PhungVietBac/PhungVietBac/commit/aad202a56bbc88eee1036c5a26edef5ebf3c1b7b): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 15:32:45
+  - [`33d3a90`](https://github.com/PhungVietBac/PhungVietBac/commit/33d3a90d5aa2e63f9431f1fbd1bd7cbcf6550840): ⚡ Update README with the recent activity _(by github-actions[bot])_
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 14:23:53
+  - [`9462251`](https://github.com/PhungVietBac/PhungVietBac/commit/946225186604d9fdca22350162c8539ec84f6b89): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 21:23:21
