@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 10:34:54
+  - [`2d09cda`](https://github.com/PhungVietBac/PhungVietBac/commit/2d09cdac8461fd638a87b5865ab5ad09f62f3fa1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 09:00:35
   - [`792c95b`](https://github.com/PhungVietBac/PhungVietBac/commit/792c95b8b7d3ba01dfff4b25bdda001874cd9539): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/06/2025, 06:41:43
@@ -28,15 +30,13 @@
   - [`b495eb2`](https://github.com/PhungVietBac/PhungVietBac/commit/b495eb23f24a365707b9b2a1d75ccd3340074bfe): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 04/06/2025, 15:33:24
   - [`f31d7cc`](https://github.com/PhungVietBac/PhungVietBac/commit/f31d7ccc8c4aab4a254955152d9e7e3b1de1e4a6): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 04/06/2025, 12:24:45
-  - [`5ab72d3`](https://github.com/PhungVietBac/PhungVietBac/commit/5ab72d33bf39e20663fb4731d5b0b2694c7d23df): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 21:23:21
+  - [`eade36e`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/eade36ecb6ad7e338dfb93e85cb1f615fb93f9fa): Update logic Home _(by PhungVietBac)_
 - **PushEvent**: 2 commit(s) by **PhungVietBac** at 30/05/2025, 13:36:07
   - [`2b7e067`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/2b7e0676570b09a02259df726a4b494629e70b03): Update logic SignUp _(by PhungVietBac)_
   - [`77febe3`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/77febe3f7505eed757ae5980b174b0b907fe4759): Update logic Home _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 29/05/2025, 20:08:51
-  - [`778219c`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/778219c3171f0a9f687e5e663fb4f7cd105142f7): Update logic LogIn _(by PhungVietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:29:22
