@@ -19,6 +19,18 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
+  - [`a04f642`](https://github.com/PhungVietBac/WebAPI/commit/a04f642c74dd307838fc004db11bf601da398996): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:41:23
+  - [`99eeb34`](https://github.com/PhungVietBac/WebAPI/commit/99eeb34ef3bdcc513c733f9c39b41332c524e93e): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 03:21:01
+  - [`d424be6`](https://github.com/PhungVietBac/WebAPI/commit/d424be640b9286da4d766fe6043b2b67168071f0): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:35:04
+  - [`1d6a53f`](https://github.com/PhungVietBac/WebAPI/commit/1d6a53f450389d7a1cb6e2572089b7b70e5d3597): Google Auth _(by VietBac)_
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:12:29
+  - [`465e042`](https://github.com/PhungVietBac/WebAPI/commit/465e042db067f69b7e958f279da6a271efdaba58): Google Auth _(by VietBac)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/06/2025, 05:43:38
   - [`6aebd96`](https://github.com/PhungVietBac/PhungVietBac/commit/6aebd96f9fe6b9fbdea2d1bf400236eaf1b97be2): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -55,18 +67,6 @@
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-
-### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
-  - [`a04f642`](https://github.com/PhungVietBac/WebAPI/commit/a04f642c74dd307838fc004db11bf601da398996): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:41:23
-  - [`99eeb34`](https://github.com/PhungVietBac/WebAPI/commit/99eeb34ef3bdcc513c733f9c39b41332c524e93e): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 03:21:01
-  - [`d424be6`](https://github.com/PhungVietBac/WebAPI/commit/d424be640b9286da4d766fe6043b2b67168071f0): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:35:04
-  - [`1d6a53f`](https://github.com/PhungVietBac/WebAPI/commit/1d6a53f450389d7a1cb6e2572089b7b70e5d3597): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:12:29
-  - [`465e042`](https://github.com/PhungVietBac/WebAPI/commit/465e042db067f69b7e958f279da6a271efdaba58): Google Auth _(by VietBac)_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
