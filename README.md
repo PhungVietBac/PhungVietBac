@@ -32,6 +32,8 @@
   - [`2f61350`](https://github.com/PhungVietBac/PhungVietBac/commit/2f613505c36b2a72256047797931257778cea948): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 06/06/2025, 20:48:26
+  - [`a8057f7`](https://github.com/PhungVietBac/WebAPI/commit/a8057f7cdc996b3147bbbf061424d2328366a1c2): Update place_ctrl.py _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:42:29
   - [`a04f642`](https://github.com/PhungVietBac/WebAPI/commit/a04f642c74dd307838fc004db11bf601da398996): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:41:23
@@ -40,8 +42,6 @@
   - [`d424be6`](https://github.com/PhungVietBac/WebAPI/commit/d424be640b9286da4d766fe6043b2b67168071f0): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:35:04
   - [`1d6a53f`](https://github.com/PhungVietBac/WebAPI/commit/1d6a53f450389d7a1cb6e2572089b7b70e5d3597): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 02:12:29
-  - [`465e042`](https://github.com/PhungVietBac/WebAPI/commit/465e042db067f69b7e958f279da6a271efdaba58): Google Auth _(by VietBac)_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
