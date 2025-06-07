@@ -67,6 +67,10 @@
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PullRequestReviewEvent** by **PhungVietBac** at 06/06/2025, 23:01:51 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewCommentEvent** by **PhungVietBac** at 06/06/2025, 23:00:35 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewEvent** by **PhungVietBac** at 06/06/2025, 23:00:37 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
+- **PullRequestReviewCommentEvent** by **PhungVietBac** at 06/06/2025, 22:59:24 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
