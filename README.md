@@ -69,8 +69,6 @@
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PullRequestReviewEvent** by **PhungVietBac** at 06/06/2025, 23:01:51 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 - **PullRequestReviewCommentEvent** by **PhungVietBac** at 06/06/2025, 23:00:35 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
-- **PullRequestReviewEvent** by **PhungVietBac** at 06/06/2025, 23:00:37 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
-- **PullRequestReviewCommentEvent** by **PhungVietBac** at 06/06/2025, 22:59:24 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
