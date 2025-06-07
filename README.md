@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 07/06/2025, 13:32:40
+  - [`f95329b`](https://github.com/PhungVietBac/PhungVietBac/commit/f95329bab92da3066c86eeff1beac997aee043c9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 07/06/2025, 08:59:08
   - [`198f804`](https://github.com/PhungVietBac/PhungVietBac/commit/198f8042c327678ee589543dcf4f7985535d29d6): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 07/06/2025, 06:23:12
@@ -28,8 +30,6 @@
   - [`f1fd1d6`](https://github.com/PhungVietBac/PhungVietBac/commit/f1fd1d697c446628e13e6abad7eaeaf4e52652d1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 07/06/2025, 00:43:44
   - [`7c3d5a4`](https://github.com/PhungVietBac/PhungVietBac/commit/7c3d5a401f9b94848733014483a97d2e5032d514): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 07/06/2025, 00:22:55
-  - [`49267fa`](https://github.com/PhungVietBac/PhungVietBac/commit/49267fa56d14c0ae6ee7073b52ce644460da2eab): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 06/06/2025, 20:48:26
@@ -67,8 +67,6 @@
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PullRequestReviewCommentEvent** by **PhungVietBac** at 07/06/2025, 11:02:42 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
-- **PullRequestReviewEvent** by **PhungVietBac** at 07/06/2025, 11:02:43 ([AITripSystem](https://github.com/PhungVietBac/AITripSystem))
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
