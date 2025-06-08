@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:36:45
+  - [`5903358`](https://github.com/PhungVietBac/WebAPI/commit/5903358dafc48123002f5031a9e5c12063d6c6e3): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:17:46
   - [`6845294`](https://github.com/PhungVietBac/WebAPI/commit/6845294c19731bcad60103cbe56e82ae43cb9fd0): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 06/06/2025, 20:48:26
@@ -28,21 +30,10 @@
   - [`a04f642`](https://github.com/PhungVietBac/WebAPI/commit/a04f642c74dd307838fc004db11bf601da398996): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 05:41:23
   - [`99eeb34`](https://github.com/PhungVietBac/WebAPI/commit/99eeb34ef3bdcc513c733f9c39b41332c524e93e): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 03/06/2025, 03:21:01
-  - [`d424be6`](https://github.com/PhungVietBac/WebAPI/commit/d424be640b9286da4d766fe6043b2b67168071f0): Google Auth _(by VietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:03:52
-  - [`3188e56`](https://github.com/PhungVietBac/AITripSystem/commit/3188e567273b1c0e7bcb2880d13c80676df8c040): Delete ai_trip_system/src/app/(private)/friend directory _(by Phùng Việt Bắc)_
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 09/06/2025, 01:00:42
-- **PushEvent**: 2 commit(s) by **PhungVietBac** at 09/06/2025, 01:00:39
-  - [`d7897b6`](https://github.com/PhungVietBac/AITripSystem/commit/d7897b63c5e43f18cfa14c6a609cf5d4ff8f5624): Fix All + Fix All _(by VietBac)_
-  - [`1157452`](https://github.com/PhungVietBac/AITripSystem/commit/11574522f9fde48f0cfe8925b885be1e7db92b56): Merge pull request #63 from PhungVietBac/VietBac + Fix all to deploy _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#63 Fix all to deploy](https://github.com/PhungVietBac/AITripSystem/pull/63) by **PhungVietBac** (closed, merged) at 09/06/2025, 01:00:38
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 00:55:24
-  - [`d7897b6`](https://github.com/PhungVietBac/AITripSystem/commit/d7897b63c5e43f18cfa14c6a609cf5d4ff8f5624): Fix All + Fix All _(by VietBac)_
 
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 01:30:52
+  - [`25d61e5`](https://github.com/PhungVietBac/PhungVietBac/commit/25d61e5488f883305347dbe47cc2aac3b2ebd198): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 00:41:06
   - [`c6e624d`](https://github.com/PhungVietBac/PhungVietBac/commit/c6e624d0d9cdbf4705da5de644dce73875383daf): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 00:19:17
@@ -51,8 +42,11 @@
   - [`ee52e1b`](https://github.com/PhungVietBac/PhungVietBac/commit/ee52e1ba3c58a6c2c138f6dcd0c1ee405ef934e7): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 23:28:00
   - [`315a6ea`](https://github.com/PhungVietBac/PhungVietBac/commit/315a6ea0d58d440e1f97bda9b039924d5c6ccac7): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 22:43:04
-  - [`6139a4d`](https://github.com/PhungVietBac/PhungVietBac/commit/6139a4ddf8361ed851bdaac6dcfd7bc5659b1d64): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:03:52
+  - [`3188e56`](https://github.com/PhungVietBac/AITripSystem/commit/3188e567273b1c0e7bcb2880d13c80676df8c040): Delete ai_trip_system/src/app/(private)/friend directory _(by Phùng Việt Bắc)_
+- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 09/06/2025, 01:00:42
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
