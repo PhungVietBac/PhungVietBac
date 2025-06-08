@@ -19,7 +19,19 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 6 commit(s) by **PhungVietBac** at 08/06/2025, 19:44:52
+  - [`01e7bc9`](https://github.com/PhungVietBac/AITripSystem/commit/01e7bc96a0da3984eae65de84fa557a7ab3235b3): add explorePage _(by tnduya3)_
+  - [`ab6d1b6`](https://github.com/PhungVietBac/AITripSystem/commit/ab6d1b67ebd745abac99cdda2db01b8048482b55): fix YourBooking UI, add place page, fix booking repository _(by tnduya3)_
+  - [`439f254`](https://github.com/PhungVietBac/AITripSystem/commit/439f2542c4fef521bf3b43aaee2ca3001da10a4b): fix bookingAPI _(by tnduya3)_
+  - [`5d9dd4e`](https://github.com/PhungVietBac/AITripSystem/commit/5d9dd4ec63cd9bf1121295691410c4a455b24c0d): update booking link, update payment function _(by tnduya3)_
+  - [`3133546`](https://github.com/PhungVietBac/AITripSystem/commit/3133546ddb55e3c8878cad68e23c57c705ae149f): complete explorePage(algorithm&UI), update bookingPage _(by tnduya3)_
+  - [`b132b34`](https://github.com/PhungVietBac/AITripSystem/commit/b132b341569a0c7290657e210c299b3707d62d15): Merge pull request #57 from PhungVietBac/Duy + add explorePage _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#57 add explorePage](https://github.com/PhungVietBac/AITripSystem/pull/57) by **PhungVietBac** (closed, merged) at 08/06/2025, 19:44:50
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 18:39:04
+  - [`cdb70d9`](https://github.com/PhungVietBac/PhungVietBac/commit/cdb70d930692fd5356989c8c65dc4772984150a9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 18:18:25
   - [`9ba1eb1`](https://github.com/PhungVietBac/PhungVietBac/commit/9ba1eb1d20a41967c30006bb2fcf91453ab525ca): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 17:44:12
@@ -28,8 +40,6 @@
   - [`efddd9c`](https://github.com/PhungVietBac/PhungVietBac/commit/efddd9c169b1ed6416a30837a43a89bda425deb1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 16:41:16
   - [`63d30da`](https://github.com/PhungVietBac/PhungVietBac/commit/63d30da43c0cbb1d4a0c64f131dd431a00c07635): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 16:23:47
-  - [`4cbc609`](https://github.com/PhungVietBac/PhungVietBac/commit/4cbc6091b04a4ad037a0eca3607e9748f6959911): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 06/06/2025, 20:48:26
@@ -65,8 +75,6 @@
   - [`989df00`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/989df00aa9402945f70ff11dd11b2f9be3d5259f): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 12:17:41
   - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
