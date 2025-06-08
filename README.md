@@ -20,16 +20,38 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 6 commit(s) by **PhungVietBac** at 08/06/2025, 19:44:52
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 08/06/2025, 20:26:57
+  - [`37d5d51`](https://github.com/PhungVietBac/AITripSystem/commit/37d5d519e1997b0a653937c5b76f632aab21ebfd): Fix intro page _(by VietBac)_
+- **PushEvent**: 7 commit(s) by **PhungVietBac** at 08/06/2025, 20:16:46
+  - [`300f6b7`](https://github.com/PhungVietBac/AITripSystem/commit/300f6b7de4bb3ce639a3ad745eb5b2ca4df64dc5): update animation with intro _(by Flourine)_
+  - [`c775297`](https://github.com/PhungVietBac/AITripSystem/commit/c77529765a7dbffd4529a6e117261e4932fa29e9): use deployed api to call for chatbot _(by Flourine)_
+  - [`25eda65`](https://github.com/PhungVietBac/AITripSystem/commit/25eda653a95e625b5b6c20f25ccc26d8951f2a2f): remove all local db, use hooks for chatbot _(by Flourine)_
+  - [`96be8bb`](https://github.com/PhungVietBac/AITripSystem/commit/96be8bbe7243ed66eab95d13285e7bf423a3e46b): Use API for conversations & messages, update home UI _(by Flourine)_
+  - [`36f3bae`](https://github.com/PhungVietBac/AITripSystem/commit/36f3bae1681941783180300e8958fcd8f73331b2): complete intro, login UI _(by Flourine)_
+  - [`2f07c58`](https://github.com/PhungVietBac/AITripSystem/commit/2f07c58fc67d24d9e5f6ca50d06a1d82e227be10): solve conflicts in PR _(by Flourine)_
+  - [`f16d721`](https://github.com/PhungVietBac/AITripSystem/commit/f16d7213008d8e69473a8844839f7b473b5ee984): Merge pull request #58 from PhungVietBac/tuantran + update conversation, message, improve UI intro, login, home _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#58 update conversation, message, improve UI intro, login, home](https://github.com/PhungVietBac/AITripSystem/pull/58) by **PhungVietBac** (closed, merged) at 08/06/2025, 20:16:46
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 08/06/2025, 20:13:36
+  - [`2f07c58`](https://github.com/PhungVietBac/AITripSystem/commit/2f07c58fc67d24d9e5f6ca50d06a1d82e227be10): solve conflicts in PR _(by Flourine)_
+- **PushEvent**: 14 commit(s) by **PhungVietBac** at 08/06/2025, 20:09:19
   - [`01e7bc9`](https://github.com/PhungVietBac/AITripSystem/commit/01e7bc96a0da3984eae65de84fa557a7ab3235b3): add explorePage _(by tnduya3)_
   - [`ab6d1b6`](https://github.com/PhungVietBac/AITripSystem/commit/ab6d1b67ebd745abac99cdda2db01b8048482b55): fix YourBooking UI, add place page, fix booking repository _(by tnduya3)_
   - [`439f254`](https://github.com/PhungVietBac/AITripSystem/commit/439f2542c4fef521bf3b43aaee2ca3001da10a4b): fix bookingAPI _(by tnduya3)_
   - [`5d9dd4e`](https://github.com/PhungVietBac/AITripSystem/commit/5d9dd4ec63cd9bf1121295691410c4a455b24c0d): update booking link, update payment function _(by tnduya3)_
   - [`3133546`](https://github.com/PhungVietBac/AITripSystem/commit/3133546ddb55e3c8878cad68e23c57c705ae149f): complete explorePage(algorithm&UI), update bookingPage _(by tnduya3)_
   - [`b132b34`](https://github.com/PhungVietBac/AITripSystem/commit/b132b341569a0c7290657e210c299b3707d62d15): Merge pull request #57 from PhungVietBac/Duy + add explorePage _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#57 add explorePage](https://github.com/PhungVietBac/AITripSystem/pull/57) by **PhungVietBac** (closed, merged) at 08/06/2025, 19:44:50
+  - [`9faa6a6`](https://github.com/PhungVietBac/AITripSystem/commit/9faa6a6908d2ff220b983263b3fbeb4e49181a86): Fix explore page _(by VietBac)_
+  - [`d3ebe2d`](https://github.com/PhungVietBac/AITripSystem/commit/d3ebe2d82d479f276117841138c2d9cb1815cbcb): Merge pull request #59 from PhungVietBac/VietBac + Fix explore page _(by Phùng Việt Bắc)_
+  - [`300f6b7`](https://github.com/PhungVietBac/AITripSystem/commit/300f6b7de4bb3ce639a3ad745eb5b2ca4df64dc5): update animation with intro _(by Flourine)_
+  - [`c775297`](https://github.com/PhungVietBac/AITripSystem/commit/c77529765a7dbffd4529a6e117261e4932fa29e9): use deployed api to call for chatbot _(by Flourine)_
+  - [`25eda65`](https://github.com/PhungVietBac/AITripSystem/commit/25eda653a95e625b5b6c20f25ccc26d8951f2a2f): remove all local db, use hooks for chatbot _(by Flourine)_
+  - [`96be8bb`](https://github.com/PhungVietBac/AITripSystem/commit/96be8bbe7243ed66eab95d13285e7bf423a3e46b): Use API for conversations & messages, update home UI _(by Flourine)_
+  - [`36f3bae`](https://github.com/PhungVietBac/AITripSystem/commit/36f3bae1681941783180300e8958fcd8f73331b2): complete intro, login UI _(by Flourine)_
+  - [`f06efd3`](https://github.com/PhungVietBac/AITripSystem/commit/f06efd33a6eca33e8021292fb09770ba029fba0e): solve conflicts in PR _(by Flourine)_
 
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 19:46:11
+  - [`a55e39e`](https://github.com/PhungVietBac/PhungVietBac/commit/a55e39ebf338be7c1d6df027920ba47911c79cfe): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 18:39:04
   - [`cdb70d9`](https://github.com/PhungVietBac/PhungVietBac/commit/cdb70d930692fd5356989c8c65dc4772984150a9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 18:18:25
@@ -38,8 +60,6 @@
   - [`d996d3f`](https://github.com/PhungVietBac/PhungVietBac/commit/d996d3fa1d32e4c1639440501f9a06d9d672c428): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 17:24:10
   - [`efddd9c`](https://github.com/PhungVietBac/PhungVietBac/commit/efddd9c169b1ed6416a30837a43a89bda425deb1): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 08/06/2025, 16:41:16
-  - [`63d30da`](https://github.com/PhungVietBac/PhungVietBac/commit/63d30da43c0cbb1d4a0c64f131dd431a00c07635): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 06/06/2025, 20:48:26
