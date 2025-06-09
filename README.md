@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 22:45:13
+  - [`69b6ae0`](https://github.com/PhungVietBac/PhungVietBac/commit/69b6ae09c78a9e9025d54ca4fc3752e800937140): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 22:26:47
   - [`5991b74`](https://github.com/PhungVietBac/PhungVietBac/commit/5991b741dd40843b2344b684b47bad9b355a7d05): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 20:36:07
@@ -28,8 +30,6 @@
   - [`9aaddc1`](https://github.com/PhungVietBac/PhungVietBac/commit/9aaddc1b37f11501cd414933384da053fc782cad): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 17:48:56
   - [`8bb88ad`](https://github.com/PhungVietBac/PhungVietBac/commit/8bb88ad3f76c553aa9ff5e3504917d5c0aa210f5): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 17:28:00
-  - [`bf9f62b`](https://github.com/PhungVietBac/PhungVietBac/commit/bf9f62b93ab6c3b36f0816bfeaa86654e778bb70): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 20:42:23
