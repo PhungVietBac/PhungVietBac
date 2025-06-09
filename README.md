@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 20:36:07
+  - [`d1f8840`](https://github.com/PhungVietBac/PhungVietBac/commit/d1f884057721349721713932b814017ac4dc6527): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 19:51:51
   - [`9aaddc1`](https://github.com/PhungVietBac/PhungVietBac/commit/9aaddc1b37f11501cd414933384da053fc782cad): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 17:48:56
@@ -28,10 +30,10 @@
   - [`bf9f62b`](https://github.com/PhungVietBac/PhungVietBac/commit/bf9f62b93ab6c3b36f0816bfeaa86654e778bb70): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 16:45:39
   - [`0d727c5`](https://github.com/PhungVietBac/PhungVietBac/commit/0d727c53e98a1ba740fd48402b67b55585971251): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 16:27:37
-  - [`fd557a3`](https://github.com/PhungVietBac/PhungVietBac/commit/fd557a32721ce83bbc66300b2e295de9c566c2a1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 20:42:23
+  - [`5e5f481`](https://github.com/PhungVietBac/AITripSystem/commit/5e5f481b4dfb2c6a74b9074ad129f3ed0dd52af8): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 20:28:24
   - [`8ece4de`](https://github.com/PhungVietBac/AITripSystem/commit/8ece4dec99b1a5fa58884820ebcdd203c116a455): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
 - **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 09/06/2025, 20:20:00
@@ -40,11 +42,6 @@
   - [`9176aa9`](https://github.com/PhungVietBac/AITripSystem/commit/9176aa91ba3114a2b1a9465786a85ceadcb82ebf): Merge branch 'main' into DucAnh _(by Phùng Việt Bắc)_
   - [`660cc58`](https://github.com/PhungVietBac/AITripSystem/commit/660cc58e2be5b90e9842160a1b07f34388a74f87): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
 - **PullRequestEvent**: [#61 Add search user feature](https://github.com/PhungVietBac/AITripSystem/pull/61) by **PhungVietBac** (closed, merged) at 09/06/2025, 20:19:52
-- **PushEvent**: 4 commit(s) by **PhungVietBac** at 09/06/2025, 20:19:33
-  - [`d7897b6`](https://github.com/PhungVietBac/AITripSystem/commit/d7897b63c5e43f18cfa14c6a609cf5d4ff8f5624): Fix All + Fix All _(by VietBac)_
-  - [`1157452`](https://github.com/PhungVietBac/AITripSystem/commit/11574522f9fde48f0cfe8925b885be1e7db92b56): Merge pull request #63 from PhungVietBac/VietBac + Fix all to deploy _(by Phùng Việt Bắc)_
-  - [`3188e56`](https://github.com/PhungVietBac/AITripSystem/commit/3188e567273b1c0e7bcb2880d13c80676df8c040): Delete ai_trip_system/src/app/(private)/friend directory _(by Phùng Việt Bắc)_
-  - [`9176aa9`](https://github.com/PhungVietBac/AITripSystem/commit/9176aa91ba3114a2b1a9465786a85ceadcb82ebf): Merge branch 'main' into DucAnh _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
