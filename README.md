@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 09:07:29
+  - [`338dad2`](https://github.com/PhungVietBac/PhungVietBac/commit/338dad2238a239093afc8f8c1e64a1086c0f6176): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 06:41:06
   - [`44bffe3`](https://github.com/PhungVietBac/PhungVietBac/commit/44bffe3693d5b74e6f7b634ca4497735f3f15834): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 06:22:12
@@ -28,8 +30,6 @@
   - [`0caf459`](https://github.com/PhungVietBac/PhungVietBac/commit/0caf4595724856103668fd6d712caae12220cd41): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 05:21:50
   - [`8f93a07`](https://github.com/PhungVietBac/PhungVietBac/commit/8f93a071e1e01fbb79b1d27edc47994eace95b2d): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 04:39:30
-  - [`7bcbba7`](https://github.com/PhungVietBac/PhungVietBac/commit/7bcbba783a147b335b1d1696c97b268ecd215efe): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
@@ -46,7 +46,6 @@
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:03:52
   - [`3188e56`](https://github.com/PhungVietBac/AITripSystem/commit/3188e567273b1c0e7bcb2880d13c80676df8c040): Delete ai_trip_system/src/app/(private)/friend directory _(by Phùng Việt Bắc)_
-- **DeleteEvent**: The branch VietBac was deleted in PhungVietBac/AITripSystem at 09/06/2025, 01:00:42
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
