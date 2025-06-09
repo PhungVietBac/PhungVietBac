@@ -19,8 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 19:51:51
   - [`9aaddc1`](https://github.com/PhungVietBac/PhungVietBac/commit/9aaddc1b37f11501cd414933384da053fc782cad): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -32,6 +30,8 @@
   - [`0d727c5`](https://github.com/PhungVietBac/PhungVietBac/commit/0d727c53e98a1ba740fd48402b67b55585971251): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 16:27:37
   - [`fd557a3`](https://github.com/PhungVietBac/PhungVietBac/commit/fd557a32721ce83bbc66300b2e295de9c566c2a1): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
