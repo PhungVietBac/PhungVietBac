@@ -20,8 +20,6 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 20:42:23
-  - [`5e5f481`](https://github.com/PhungVietBac/AITripSystem/commit/5e5f481b4dfb2c6a74b9074ad129f3ed0dd52af8): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 23:32:01
