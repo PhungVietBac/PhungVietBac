@@ -44,8 +44,6 @@
   - [`6845294`](https://github.com/PhungVietBac/WebAPI/commit/6845294c19731bcad60103cbe56e82ae43cb9fd0): Google Auth _(by VietBac)_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:03:52
-  - [`3188e56`](https://github.com/PhungVietBac/AITripSystem/commit/3188e567273b1c0e7bcb2880d13c80676df8c040): Delete ai_trip_system/src/app/(private)/friend directory _(by Phùng Việt Bắc)_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
