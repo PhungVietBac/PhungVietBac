@@ -36,12 +36,6 @@
   - [`5e5f481`](https://github.com/PhungVietBac/AITripSystem/commit/5e5f481b4dfb2c6a74b9074ad129f3ed0dd52af8): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 20:28:24
   - [`8ece4de`](https://github.com/PhungVietBac/AITripSystem/commit/8ece4dec99b1a5fa58884820ebcdd203c116a455): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
-- **DeleteEvent**: The branch DucAnh was deleted in PhungVietBac/AITripSystem at 09/06/2025, 20:20:00
-- **PushEvent**: 3 commit(s) by **PhungVietBac** at 09/06/2025, 20:19:52
-  - [`e908908`](https://github.com/PhungVietBac/AITripSystem/commit/e908908766620fcc8234a795a4b2066d61d45613): Add search user feature _(by PDAnh77)_
-  - [`9176aa9`](https://github.com/PhungVietBac/AITripSystem/commit/9176aa91ba3114a2b1a9465786a85ceadcb82ebf): Merge branch 'main' into DucAnh _(by Phùng Việt Bắc)_
-  - [`660cc58`](https://github.com/PhungVietBac/AITripSystem/commit/660cc58e2be5b90e9842160a1b07f34388a74f87): Merge pull request #61 from PhungVietBac/DucAnh + Add search user feature _(by Phùng Việt Bắc)_
-- **PullRequestEvent**: [#61 Add search user feature](https://github.com/PhungVietBac/AITripSystem/pull/61) by **PhungVietBac** (closed, merged) at 09/06/2025, 20:19:52
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
