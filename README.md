@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 10/06/2025, 02:19:57
+  - [`8f2ac2b`](https://github.com/PhungVietBac/PhungVietBac/commit/8f2ac2bef8f2bb817550f35b4b5a7a21104e0969): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 10/06/2025, 00:21:34
   - [`99edc32`](https://github.com/PhungVietBac/PhungVietBac/commit/99edc32e2a9bfd92a5906957a01c2a89f2e1c9d5): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 23:32:01
@@ -28,10 +30,20 @@
   - [`69b6ae0`](https://github.com/PhungVietBac/PhungVietBac/commit/69b6ae09c78a9e9025d54ca4fc3752e800937140): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 22:26:47
   - [`5991b74`](https://github.com/PhungVietBac/PhungVietBac/commit/5991b741dd40843b2344b684b47bad9b355a7d05): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 09/06/2025, 20:36:07
-  - [`d1f8840`](https://github.com/PhungVietBac/PhungVietBac/commit/d1f884057721349721713932b814017ac4dc6527): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 10/06/2025, 02:05:02
+  - [`f2d7d16`](https://github.com/PhungVietBac/AITripSystem/commit/f2d7d167d728fec12f54c5068cc99804e4a53ace): Merge pull request #64 from PhungVietBac/Duy + update Booking with payment _(by Phùng Việt Bắc)_
+- **PushEvent**: 8 commit(s) by **PhungVietBac** at 10/06/2025, 01:53:45
+  - [`6872269`](https://github.com/PhungVietBac/AITripSystem/commit/6872269dc952dabca516f843d53a930e85dca7a0): update Booking without payment _(by tnduya3)_
+  - [`64403b3`](https://github.com/PhungVietBac/AITripSystem/commit/64403b3c85de3c52388df7d718db451a2f6525a0): Merge branch 'main' of https://github.com/PhungVietBac/AITripSystem into Duy _(by tnduya3)_
+  - [`e90e946`](https://github.com/PhungVietBac/AITripSystem/commit/e90e946415e38481c18d47d4283ff88f9054b2f4): Full complete booking with payment method(VNPay - fake) _(by tnduya3)_
+  - [`efa4759`](https://github.com/PhungVietBac/AITripSystem/commit/efa4759f767e440667397ef9fe39bc1a8427ee80): Merge branch 'Duy' of https://github.com/PhungVietBac/AITripSystem into Duy _(by tnduya3)_
+  - [`f872331`](https://github.com/PhungVietBac/AITripSystem/commit/f8723312dd9b25bef0a0a17b88ccf23c5a6ab8e4): Merge branch 'Duy' of https://github.com/PhungVietBac/AITripSystem into Duy _(by tnduya3)_
+  - [`1bbd9e4`](https://github.com/PhungVietBac/AITripSystem/commit/1bbd9e44a5f1b3b5057bd0c9d4979ca656f021b5): Merge branch 'Duy' of https://github.com/PhungVietBac/AITripSystem into Duy _(by tnduya3)_
+  - [`6d389aa`](https://github.com/PhungVietBac/AITripSystem/commit/6d389aae5472ee3af604d606571985af05718266): fix conflict branch Duy _(by tnduya3)_
+  - [`ca4b190`](https://github.com/PhungVietBac/AITripSystem/commit/ca4b190782f0c172fdb3938c3cd9fa5105b8b383): Merge pull request #64 from PhungVietBac/Duy + update Booking with payment _(by Phùng Việt Bắc)_
+- **PullRequestEvent**: [#64 update Booking with payment](https://github.com/PhungVietBac/AITripSystem/pull/64) by **PhungVietBac** (closed, merged) at 10/06/2025, 01:53:44
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
