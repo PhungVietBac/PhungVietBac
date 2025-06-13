@@ -19,6 +19,8 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
   - [`39ffd1d`](https://github.com/PhungVietBac/WebAPI/commit/39ffd1d2185992d4d0a0d4dd4b57fb4713d32d6f): Google Auth _(by VietBac)_
@@ -42,8 +44,6 @@
   - [`23253fa`](https://github.com/PhungVietBac/PhungVietBac/commit/23253fa16b6dfe352b4fb3b4f7a0b00b9ccf573c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 10/06/2025, 19:56:47
   - [`cddeefa`](https://github.com/PhungVietBac/PhungVietBac/commit/cddeefa5fc653c121afbfea75ff7dc8b532950c9): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
