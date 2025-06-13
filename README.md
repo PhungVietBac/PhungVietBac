@@ -32,6 +32,8 @@
   - [`23253fa`](https://github.com/PhungVietBac/PhungVietBac/commit/23253fa16b6dfe352b4fb3b4f7a0b00b9ccf573c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 13/06/2025, 16:30:26
+  - [`9e1f77b`](https://github.com/PhungVietBac/AITripSystem/commit/9e1f77bb901a9fff0ad52c7b7eeba1290e075515): Merge pull request #64 from PhungVietBac/Duy + update Booking with payment _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
