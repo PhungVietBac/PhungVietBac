@@ -19,7 +19,13 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 22/06/2025, 15:44:29
+  - [`d343892`](https://github.com/PhungVietBac/AITripSystem/commit/d343892a83884ee1b95345eb8ab3c0ed0b2d8719): Merge pull request #64 from PhungVietBac/Duy + update Booking with payment _(by Phùng Việt Bắc)_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 22/06/2025, 15:29:58
+  - [`459f4e4`](https://github.com/PhungVietBac/PhungVietBac/commit/459f4e4a883704477b67d2cb2fb0df2bb54f2f3f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 22/06/2025, 14:41:15
   - [`8175a4f`](https://github.com/PhungVietBac/PhungVietBac/commit/8175a4ff07a60b466542fa7e866a9e8bd9d45535): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 22/06/2025, 14:22:59
@@ -28,8 +34,6 @@
   - [`b1b1424`](https://github.com/PhungVietBac/PhungVietBac/commit/b1b1424730768e3cb4948dfcf9303367d3ab039c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 17/06/2025, 19:52:52
   - [`3f72c00`](https://github.com/PhungVietBac/PhungVietBac/commit/3f72c00f91f83ea2cc0242b29df9cff951a5a141): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 17/06/2025, 12:25:13
-  - [`4ee58ae`](https://github.com/PhungVietBac/PhungVietBac/commit/4ee58ae9ccdc354d5123f3345b1525125cff4f51): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 22/06/2025, 13:44:14
@@ -42,8 +46,6 @@
   - [`6033654`](https://github.com/PhungVietBac/WebAPI/commit/6033654b24a8a10e8405187888795bc524a6c9be): Google Auth _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:36:45
   - [`5903358`](https://github.com/PhungVietBac/WebAPI/commit/5903358dafc48123002f5031a9e5c12063d6c6e3): Google Auth _(by VietBac)_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
