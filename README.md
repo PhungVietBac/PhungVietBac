@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 09:09:44
+  - [`c5679f2`](https://github.com/PhungVietBac/PhungVietBac/commit/c5679f2b124daeaa10011409b613ad97e5c213e5): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 06:42:57
   - [`c1dac41`](https://github.com/PhungVietBac/PhungVietBac/commit/c1dac41e665e444c40fc0b080987aca169fa2f1d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 06:22:52
@@ -28,15 +30,13 @@
   - [`7b932ea`](https://github.com/PhungVietBac/PhungVietBac/commit/7b932ea76f63a44793509643235243ebd0ba99f1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 05:22:44
   - [`42b5694`](https://github.com/PhungVietBac/PhungVietBac/commit/42b569421e445b9cc4832d8459d8523dc7354e67): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 04:41:28
-  - [`27fdbba`](https://github.com/PhungVietBac/PhungVietBac/commit/27fdbba50df4aaf7931e96dde9131133ecaaf071): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **DeleteEvent**: The branch VQ-temp was deleted in PhungVietBac/AITripSystem at 23/06/2025, 09:13:20
 - **CreateEvent**: A new branch named VQ-temp was created in PhungVietBac/AITripSystem at 23/06/2025, 08:44:13
 - **DeleteEvent**: The branch VanQuoc was deleted in PhungVietBac/AITripSystem at 23/06/2025, 08:10:46
 - **CreateEvent**: A new branch named VanQuoc was created in PhungVietBac/AITripSystem at 23/06/2025, 08:08:03
 - **DeleteEvent**: The branch VanQuoc was deleted in PhungVietBac/AITripSystem at 23/06/2025, 08:07:26
-- **DeleteEvent**: The branch fixer was deleted in PhungVietBac/AITripSystem at 23/06/2025, 08:02:30
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 22/06/2025, 13:44:14
