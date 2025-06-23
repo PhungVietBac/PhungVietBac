@@ -19,6 +19,14 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 10:53:47
+  - [`95d87e0`](https://github.com/PhungVietBac/AITripSystem/commit/95d87e0cb996a6c5cf7074ba5f09f5cb48e75177): Map page (VanQuoc) _(by VietBac)_
+- **DeleteEvent**: The branch VQ-temp was deleted in PhungVietBac/AITripSystem at 23/06/2025, 09:13:20
+- **CreateEvent**: A new branch named VQ-temp was created in PhungVietBac/AITripSystem at 23/06/2025, 08:44:13
+- **DeleteEvent**: The branch VanQuoc was deleted in PhungVietBac/AITripSystem at 23/06/2025, 08:10:46
+- **CreateEvent**: A new branch named VanQuoc was created in PhungVietBac/AITripSystem at 23/06/2025, 08:08:03
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 17:28:16
   - [`4f76c13`](https://github.com/PhungVietBac/PhungVietBac/commit/4f76c13c10e3fa764f41f07ba1fb977c186368a2): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -30,14 +38,6 @@
   - [`6fc4e1f`](https://github.com/PhungVietBac/PhungVietBac/commit/6fc4e1fbfae8b3458efc52ed57c55d60915618cf): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 23/06/2025, 12:47:28
   - [`c130d8d`](https://github.com/PhungVietBac/PhungVietBac/commit/c130d8ddd187c46d88e4cf691f4279d7949e1ab7): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 10:53:47
-  - [`95d87e0`](https://github.com/PhungVietBac/AITripSystem/commit/95d87e0cb996a6c5cf7074ba5f09f5cb48e75177): Map page (VanQuoc) _(by VietBac)_
-- **DeleteEvent**: The branch VQ-temp was deleted in PhungVietBac/AITripSystem at 23/06/2025, 09:13:20
-- **CreateEvent**: A new branch named VQ-temp was created in PhungVietBac/AITripSystem at 23/06/2025, 08:44:13
-- **DeleteEvent**: The branch VanQuoc was deleted in PhungVietBac/AITripSystem at 23/06/2025, 08:10:46
-- **CreateEvent**: A new branch named VanQuoc was created in PhungVietBac/AITripSystem at 23/06/2025, 08:08:03
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 22/06/2025, 13:44:14
