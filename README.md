@@ -70,10 +70,6 @@
   - [`df17714`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/df17714f2e56e4adc662a44f1500b59eaea67f70): Add personality API _(by VietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 00:23:47
   - [`a313082`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/a313082921fed9fefb800a1b1f54fed43c62c933): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 13:05:02
-  - [`989df00`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/989df00aa9402945f70ff11dd11b2f9be3d5259f): Add personality API _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 30/05/2025, 12:17:41
-  - [`4ccfce4`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/4ccfce490df64547fcac5cc23881ed56fa473a12): Add personality API _(by VietBac)_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
