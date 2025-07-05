@@ -19,11 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
-- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
-- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 21:23:31
+  - [`89a8d64`](https://github.com/PhungVietBac/PhungVietBac/commit/89a8d64e3f9dc8422e94e85711cdaf34ede3d5ae): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 20:31:06
   - [`d4c9086`](https://github.com/PhungVietBac/PhungVietBac/commit/d4c90863b721833b3ed51c2ad5f572b98ac20d9d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 19:47:54
@@ -32,8 +30,10 @@
   - [`e6b6954`](https://github.com/PhungVietBac/PhungVietBac/commit/e6b6954eaa7df7a0a1f1299a5a2a556b4a1141be): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 18:19:02
   - [`900da28`](https://github.com/PhungVietBac/PhungVietBac/commit/900da28533279633ec8c1723c8a5439bd8435084): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 17:24:28
-  - [`0aea22f`](https://github.com/PhungVietBac/PhungVietBac/commit/0aea22fbc677e34ac8a26cef94fff2e31290272d): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
+- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
+- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
