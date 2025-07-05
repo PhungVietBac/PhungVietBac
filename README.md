@@ -19,7 +19,15 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
+- **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/07/2025, 22:43:10
+  - [`f86f386`](https://github.com/PhungVietBac/OlympiaAPI/commit/f86f386c6b953b2706dfd5431535f17332d5aade): Update appsettings.json _(by Phùng Việt Bắc)_
+- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 22:10:58
+- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 21:53:27
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 22:42:16
+  - [`58acc37`](https://github.com/PhungVietBac/PhungVietBac/commit/58acc37a944548bbb98a65dce092c1a85b704d1d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 22:23:26
   - [`6125db5`](https://github.com/PhungVietBac/PhungVietBac/commit/6125db5b649b578c9f1a276354e73f6b921d6b02): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 21:44:00
@@ -28,12 +36,6 @@
   - [`89a8d64`](https://github.com/PhungVietBac/PhungVietBac/commit/89a8d64e3f9dc8422e94e85711cdaf34ede3d5ae): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 20:31:06
   - [`d4c9086`](https://github.com/PhungVietBac/PhungVietBac/commit/d4c90863b721833b3ed51c2ad5f572b98ac20d9d): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 19:47:54
-  - [`f8b5807`](https://github.com/PhungVietBac/PhungVietBac/commit/f8b58073c5460cbf7f14b5a19a9846b8f2c9336d): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
-- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 22:10:58
-- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 21:53:27
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
