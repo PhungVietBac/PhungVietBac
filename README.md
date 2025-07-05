@@ -19,7 +19,13 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
+- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
+- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 20:31:06
+  - [`d4c9086`](https://github.com/PhungVietBac/PhungVietBac/commit/d4c90863b721833b3ed51c2ad5f572b98ac20d9d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 19:47:54
   - [`f8b5807`](https://github.com/PhungVietBac/PhungVietBac/commit/f8b58073c5460cbf7f14b5a19a9846b8f2c9336d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 18:39:44
@@ -28,8 +34,6 @@
   - [`900da28`](https://github.com/PhungVietBac/PhungVietBac/commit/900da28533279633ec8c1723c8a5439bd8435084): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 17:24:28
   - [`0aea22f`](https://github.com/PhungVietBac/PhungVietBac/commit/0aea22fbc677e34ac8a26cef94fff2e31290272d): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 16:24:14
-  - [`812cda7`](https://github.com/PhungVietBac/PhungVietBac/commit/812cda79884fd0b1f02ad4f44348066640bdfeaf): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
@@ -72,9 +76,6 @@
 - _No recent events_
 
 ### [PhungVietBac/Test](https://github.com/PhungVietBac/Test)
-- _No recent events_
-
-### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
 
 <!--END_SECTION:activity-->
