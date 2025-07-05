@@ -57,8 +57,6 @@
   - [`bdcadaa`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/bdcadaa9d5ede9a5e4abd66887bd9c50ffd9b4cd): Update logic clothes, combine,... _(by PhungVietBac)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:23:34
   - [`df40014`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/df40014570aae9b70dd437b8f1d97d36bee7129f): Update logic clothes, combine,... _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 04/06/2025, 21:23:21
-  - [`eade36e`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/eade36ecb6ad7e338dfb93e85cb1f615fb93f9fa): Update logic Home _(by PhungVietBac)_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 20:43:45
