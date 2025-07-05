@@ -19,7 +19,12 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
+- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 21:53:27
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 21:44:00
+  - [`5156ed6`](https://github.com/PhungVietBac/PhungVietBac/commit/5156ed6bbf66ed98f88210fbeff39527ef66bdf9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 21:23:31
   - [`89a8d64`](https://github.com/PhungVietBac/PhungVietBac/commit/89a8d64e3f9dc8422e94e85711cdaf34ede3d5ae): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 20:31:06
@@ -28,12 +33,6 @@
   - [`f8b5807`](https://github.com/PhungVietBac/PhungVietBac/commit/f8b58073c5460cbf7f14b5a19a9846b8f2c9336d): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 18:39:44
   - [`e6b6954`](https://github.com/PhungVietBac/PhungVietBac/commit/e6b6954eaa7df7a0a1f1299a5a2a556b4a1141be): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/07/2025, 18:19:02
-  - [`900da28`](https://github.com/PhungVietBac/PhungVietBac/commit/900da28533279633ec8c1723c8a5439bd8435084): ⚡ Update README with the recent activity _(by github-actions[bot])_
-
-### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
-- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
-- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 20:56:45
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
