@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/07/2025, 09:18:36
+  - [`cd9b979`](https://github.com/PhungVietBac/PhungVietBac/commit/cd9b97931a099d9e118d1ec60ab90fe484465f7e): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/07/2025, 06:43:24
   - [`4c482d8`](https://github.com/PhungVietBac/PhungVietBac/commit/4c482d8a8dc599a8b24406d1997f6e8de1686ae4): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/07/2025, 06:23:46
@@ -28,8 +30,6 @@
   - [`d10d76f`](https://github.com/PhungVietBac/PhungVietBac/commit/d10d76fc5654f7d7218e237b1cb74ad9f6c88c2a): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/07/2025, 05:22:22
   - [`e6c0421`](https://github.com/PhungVietBac/PhungVietBac/commit/e6c042199be99a29defd2f69d2506d6112886b4f): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 06/07/2025, 04:41:17
-  - [`d460eaa`](https://github.com/PhungVietBac/PhungVietBac/commit/d460eaac2ba2bd52168b9d92e351ed52c0eff052): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/07/2025, 22:43:10
@@ -59,14 +59,10 @@
   - [`5903358`](https://github.com/PhungVietBac/WebAPI/commit/5903358dafc48123002f5031a9e5c12063d6c6e3): Google Auth _(by VietBac)_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:51:03
-  - [`bdcadaa`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/bdcadaa9d5ede9a5e4abd66887bd9c50ffd9b4cd): Update logic clothes, combine,... _(by PhungVietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 22:23:34
-  - [`df40014`](https://github.com/TranDai108/Armoiracle_Fashion_App/commit/df40014570aae9b70dd437b8f1d97d36bee7129f): Update logic clothes, combine,... _(by PhungVietBac)_
+- _No recent events_
 
 ### [PhungVietBac/Armoiracle_Fashion_API](https://github.com/PhungVietBac/Armoiracle_Fashion_API)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/06/2025, 20:43:45
-  - [`19519d9`](https://github.com/PhungVietBac/Armoiracle_Fashion_API/commit/19519d941aa544db0bc99c438c2a4f379aed7b0c): Add personality API _(by VietBac)_
+- _No recent events_
 
 ### [PhungVietBac/DemoFirebase](https://github.com/PhungVietBac/DemoFirebase)
 - _No recent events_
