@@ -49,14 +49,6 @@
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 22/06/2025, 13:44:14
   - [`0d717f1`](https://github.com/PhungVietBac/WebAPI/commit/0d717f15012ba49e9d50d6e198450fc6be88535c): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:29:51
-  - [`39ffd1d`](https://github.com/PhungVietBac/WebAPI/commit/39ffd1d2185992d4d0a0d4dd4b57fb4713d32d6f): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:22:29
-  - [`47e5027`](https://github.com/PhungVietBac/WebAPI/commit/47e5027a8a3e3852eb48c6ba87cd3933a5f90338): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 02:19:42
-  - [`6033654`](https://github.com/PhungVietBac/WebAPI/commit/6033654b24a8a10e8405187888795bc524a6c9be): Google Auth _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 09/06/2025, 01:36:45
-  - [`5903358`](https://github.com/PhungVietBac/WebAPI/commit/5903358dafc48123002f5031a9e5c12063d6c6e3): Google Auth _(by VietBac)_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - _No recent events_
