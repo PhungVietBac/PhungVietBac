@@ -40,9 +40,6 @@
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
   - [`bfcc14e`](https://github.com/PhungVietBac/AITripSystem/commit/bfcc14e5fb0523113e42716a1fb690c23fc408fb): Map page (VanQuoc) _(by VietBac)_
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 10:53:47
-  - [`95d87e0`](https://github.com/PhungVietBac/AITripSystem/commit/95d87e0cb996a6c5cf7074ba5f09f5cb48e75177): Map page (VanQuoc) _(by VietBac)_
-- **DeleteEvent**: The branch VQ-temp was deleted in PhungVietBac/AITripSystem at 23/06/2025, 09:13:20
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - _No recent events_
