@@ -38,8 +38,7 @@
 - **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 21:53:27
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 23/06/2025, 22:39:06
-  - [`bfcc14e`](https://github.com/PhungVietBac/AITripSystem/commit/bfcc14e5fb0523113e42716a1fb690c23fc408fb): Map page (VanQuoc) _(by VietBac)_
+- _No recent events_
 
 ### [PhungVietBac/WebAPI](https://github.com/PhungVietBac/WebAPI)
 - _No recent events_
