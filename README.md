@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 05:46:13
+  - [`3eaa966`](https://github.com/PhungVietBac/PhungVietBac/commit/3eaa966efe0863ba64ea9b2419b8dbe3ffb84510): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 05:24:20
   - [`2757b1e`](https://github.com/PhungVietBac/PhungVietBac/commit/2757b1e8757c24c80abe3bcb6912cdf4eb66352c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 04:43:39
@@ -28,8 +30,6 @@
   - [`9fe7990`](https://github.com/PhungVietBac/PhungVietBac/commit/9fe7990a88c5367ec2f17c9241b6ccf40115957f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 03:45:17
   - [`b5c9ac5`](https://github.com/PhungVietBac/PhungVietBac/commit/b5c9ac59337d6e0e4388e5afaf0e0d7c54976034): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 03:26:52
-  - [`8771a9d`](https://github.com/PhungVietBac/PhungVietBac/commit/8771a9dccf1a7bfbfabb1d6e4cbc522f1ccc014b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
