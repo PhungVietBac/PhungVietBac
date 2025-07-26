@@ -19,10 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
-- _No recent events_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/07/2025, 17:26:10
+  - [`44e00c8`](https://github.com/PhungVietBac/PhungVietBac/commit/44e00c826c880bddff99645095cdc6e209ce1e57): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/07/2025, 23:31:34
   - [`951d21a`](https://github.com/PhungVietBac/PhungVietBac/commit/951d21aa91f16c45883621010537ac248dfd0d28): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/07/2025, 13:39:30
@@ -31,8 +30,9 @@
   - [`4a57841`](https://github.com/PhungVietBac/PhungVietBac/commit/4a57841cf9158f12ba2dfa4997599054b93a7e4f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 15/07/2025, 02:41:11
   - [`28b9ea0`](https://github.com/PhungVietBac/PhungVietBac/commit/28b9ea0e84f9e9349880093ad0f199e6562f3cbe): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 15/07/2025, 02:19:18
-  - [`dc3db8a`](https://github.com/PhungVietBac/PhungVietBac/commit/dc3db8a401d23e084baab8ec6f35bd27187c8e9a): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
+- _No recent events_
 
 ### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/07/2025, 22:43:10
