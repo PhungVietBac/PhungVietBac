@@ -19,6 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
+- _No recent events_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 24/07/2025, 23:31:34
   - [`951d21a`](https://github.com/PhungVietBac/PhungVietBac/commit/951d21aa91f16c45883621010537ac248dfd0d28): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -56,9 +59,6 @@
 - _No recent events_
 
 ### [PhungVietBac/WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
-- _No recent events_
-
-### [PhungVietBac/Test](https://github.com/PhungVietBac/Test)
 - _No recent events_
 
 <!--END_SECTION:activity-->
