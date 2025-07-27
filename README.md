@@ -19,9 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 10:55:53
+  - [`fb1d5ab`](https://github.com/PhungVietBac/PhungVietBac/commit/fb1d5ab075bf8f25d32eb33a0f53b9cad4e16392): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 09:26:30
   - [`0825bc2`](https://github.com/PhungVietBac/PhungVietBac/commit/0825bc2708b58595d256e1ca4969f56fbb752837): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 06:44:00
@@ -30,8 +30,8 @@
   - [`c54586c`](https://github.com/PhungVietBac/PhungVietBac/commit/c54586c270b5e4d1af6cde311e88105fc1f7a61c): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 05:46:13
   - [`3eaa966`](https://github.com/PhungVietBac/PhungVietBac/commit/3eaa966efe0863ba64ea9b2419b8dbe3ffb84510): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 05:24:20
-  - [`2757b1e`](https://github.com/PhungVietBac/PhungVietBac/commit/2757b1e8757c24c80abe3bcb6912cdf4eb66352c): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
