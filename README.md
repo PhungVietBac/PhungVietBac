@@ -22,6 +22,8 @@
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 09:26:30
+  - [`0825bc2`](https://github.com/PhungVietBac/PhungVietBac/commit/0825bc2708b58595d256e1ca4969f56fbb752837): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 06:44:00
   - [`8c04511`](https://github.com/PhungVietBac/PhungVietBac/commit/8c04511d506db9404169e6151acd563eec3befbe): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 06:24:58
@@ -30,8 +32,6 @@
   - [`3eaa966`](https://github.com/PhungVietBac/PhungVietBac/commit/3eaa966efe0863ba64ea9b2419b8dbe3ffb84510): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 05:24:20
   - [`2757b1e`](https://github.com/PhungVietBac/PhungVietBac/commit/2757b1e8757c24c80abe3bcb6912cdf4eb66352c): ⚡ Update README with the recent activity _(by github-actions[bot])_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/07/2025, 04:43:39
-  - [`3b8e799`](https://github.com/PhungVietBac/PhungVietBac/commit/3b8e799ff09d537c39436484389b770824bb4c01): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
