@@ -37,10 +37,7 @@
 - _No recent events_
 
 ### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
-- **PushEvent**: 1 commit(s) by **PhungVietBac** at 05/07/2025, 22:43:10
-  - [`f86f386`](https://github.com/PhungVietBac/OlympiaAPI/commit/f86f386c6b953b2706dfd5431535f17332d5aade): Update appsettings.json _(by Phùng Việt Bắc)_
-- **CreateEvent**: A new branch named main was created in PhungVietBac/OlympiaAPI at 05/07/2025, 22:10:58
-- **CreateEvent**: A new repository named null was created in PhungVietBac/OlympiaAPI at 05/07/2025, 21:53:27
+- _No recent events_
 
 ### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - _No recent events_
