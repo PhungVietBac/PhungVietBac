@@ -19,6 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/FlowDetect](https://github.com/PhungVietBac/FlowDetect)
+- _No recent events_
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/08/2025, 09:22:21
   - [`06a6f5c`](https://github.com/PhungVietBac/PhungVietBac/commit/06a6f5cc5c2d983eee90cbba6eadde85f8553653): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -52,9 +55,6 @@
 - _No recent events_
 
 ### [PhungVietBac/Olympia](https://github.com/PhungVietBac/Olympia)
-- _No recent events_
-
-### [PhungVietBac/WENS_project_NT131.P13_group15](https://github.com/PhungVietBac/WENS_project_NT131.P13_group15)
 - _No recent events_
 
 <!--END_SECTION:activity-->
