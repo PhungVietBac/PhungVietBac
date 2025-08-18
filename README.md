@@ -19,9 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/FlowDetect](https://github.com/PhungVietBac/FlowDetect)
-- _No recent events_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 05/08/2025, 09:22:21
   - [`06a6f5c`](https://github.com/PhungVietBac/PhungVietBac/commit/06a6f5cc5c2d983eee90cbba6eadde85f8553653): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -33,6 +30,9 @@
   - [`f93eef3`](https://github.com/PhungVietBac/PhungVietBac/commit/f93eef3abb60b9922f8f4baa0357d2a202166bb6): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 28/07/2025, 14:30:39
   - [`e41f09d`](https://github.com/PhungVietBac/PhungVietBac/commit/e41f09dcbdbf32e25c35e9d43882cbf5895a3799): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/FlowDetect](https://github.com/PhungVietBac/FlowDetect)
+- _No recent events_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 
