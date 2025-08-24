@@ -32,7 +32,6 @@
   - [`e2b5632`](https://github.com/PhungVietBac/PhungVietBac/commit/e2b5632308b4e8d9647e895d74071fcfc6a4f99b): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/FlowDetect](https://github.com/PhungVietBac/FlowDetect)
-- _No recent events_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 
