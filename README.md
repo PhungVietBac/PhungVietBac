@@ -34,6 +34,7 @@
 ### [PhungVietBac/FlowDetect](https://github.com/PhungVietBac/FlowDetect)
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
+- _No recent events_
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
