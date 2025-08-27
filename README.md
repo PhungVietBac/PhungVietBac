@@ -19,9 +19,6 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
-- _No recent events_
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 26/08/2025, 05:23:25
   - [`6079888`](https://github.com/PhungVietBac/PhungVietBac/commit/6079888a0d1d1ee73c1ff5b23befc3dff3891683): ⚡ Update README with the recent activity _(by github-actions[bot])_
@@ -33,6 +30,9 @@
   - [`7104a05`](https://github.com/PhungVietBac/PhungVietBac/commit/7104a0590c9b9053e6b32a6fd0b382fc79659bd1): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 25/08/2025, 14:24:37
   - [`99d905b`](https://github.com/PhungVietBac/PhungVietBac/commit/99d905b2243a63126352780cca601a0ff7fec764): ⚡ Update README with the recent activity _(by github-actions[bot])_
+
+### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
+- _No recent events_
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
 
