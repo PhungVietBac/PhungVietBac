@@ -32,7 +32,7 @@
   - [`99d905b`](https://github.com/PhungVietBac/PhungVietBac/commit/99d905b2243a63126352780cca601a0ff7fec764): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
-- _No recent events_
+- **CreateEvent**: A new repository named null was created in PhungVietBac/models at 27/08/2025, 20:46:42
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
 
