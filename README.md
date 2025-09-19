@@ -20,6 +20,8 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 19/09/2025, 08:50:53
+  - [`d063204`](https://github.com/PhungVietBac/PhungVietBac/commit/d063204da406eabaef6803bcd160c94aa2a36e05): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 18/09/2025, 23:46:41
   - [`e7cfd01`](https://github.com/PhungVietBac/PhungVietBac/commit/e7cfd017c6dddc387dc3cff0d10dbbe840b149e9): ⚡ Update README with the recent activity _(by github-actions[bot])_
 - **PushEvent**: 1 commit(s) by **github-actions[bot]** at 18/09/2025, 23:28:55
@@ -28,8 +30,6 @@
   - [`9c7a5ad`](https://github.com/PhungVietBac/PhungVietBac/commit/9c7a5ad67245b9d074c971094db227b6920a0af0): Update activity.yml _(by Phùng Việt Bắc)_
 - **PushEvent**: 1 commit(s) by **PhungVietBac** at 27/08/2025, 22:47:02
   - [`36cc195`](https://github.com/PhungVietBac/PhungVietBac/commit/36cc1952dadc89c7a6a84e7a194f8aa19ce983cc): Update activity.yml _(by Phùng Việt Bắc)_
-- **PushEvent**: 1 commit(s) by **github-actions[bot]** at 27/08/2025, 22:25:21
-  - [`e49d199`](https://github.com/PhungVietBac/PhungVietBac/commit/e49d1998f1af3a387661291ebd3c22238d8786be): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
 - **CreateEvent**: A new branch named main was created in PhungVietBac/FlowDetect_Models at 27/08/2025, 21:32:33
