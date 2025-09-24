@@ -36,6 +36,7 @@
 - **CreateEvent**: A new repository named null was created in PhungVietBac/models at 27/08/2025, 20:46:42
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
+- _No recent events_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - _No recent events_
