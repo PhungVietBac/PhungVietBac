@@ -33,7 +33,6 @@
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
 - **CreateEvent**: A new branch named main was created in PhungVietBac/FlowDetect_Models at 27/08/2025, 21:32:33
-- **CreateEvent**: A new repository named null was created in PhungVietBac/models at 27/08/2025, 20:46:42
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
 - _No recent events_
