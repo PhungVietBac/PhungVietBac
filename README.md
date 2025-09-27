@@ -32,7 +32,6 @@
   - [`36cc195`](https://github.com/PhungVietBac/PhungVietBac/commit/36cc1952dadc89c7a6a84e7a194f8aa19ce983cc): Update activity.yml _(by Phùng Việt Bắc)_
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
-- **CreateEvent**: A new branch named main was created in PhungVietBac/FlowDetect_Models at 27/08/2025, 21:32:33
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
 - _No recent events_
