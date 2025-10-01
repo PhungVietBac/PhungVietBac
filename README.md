@@ -32,6 +32,7 @@
   - [`114e259`](https://github.com/PhungVietBac/PhungVietBac/commit/114e2597780e6f74894271c0b1034713e207e50f): ⚡ Update README with the recent activity _(by github-actions[bot])_
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
+- _No recent events_
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
 - _No recent events_
