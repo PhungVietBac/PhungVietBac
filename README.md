@@ -19,12 +19,15 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/nids-microservices](https://github.com/PhungVietBac/nids-microservices)
+- **CreateEvent**: A new branch named main was created in PhungVietBac/nids-microservices at 24/11/2025, 17:19:30
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 16:31:24
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 15:36:07
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 14:41:20
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 14:25:10
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 13:38:20
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 24/11/2025, 12:46:20
 
 ### [PhungVietBac/MSS](https://github.com/PhungVietBac/MSS)
 - _No recent events_
@@ -52,9 +55,6 @@
 - _No recent events_
 
 ### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
-- _No recent events_
-
-### [PhungVietBac/AITripSystem](https://github.com/PhungVietBac/AITripSystem)
 - _No recent events_
 
 <!--END_SECTION:activity-->
