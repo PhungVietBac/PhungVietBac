@@ -20,11 +20,11 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 21:28:04
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 20:41:15
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 19:56:45
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 18:41:56
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 18:25:21
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 04/12/2025, 17:31:07
 
 ### [PhungVietBac/nids-microservices](https://github.com/PhungVietBac/nids-microservices)
 - **PushEvent**: 0 commit(s) by **PhungVietBac** at 25/11/2025, 13:56:08
@@ -40,9 +40,7 @@
 - **CreateEvent**: A new branch named main was created in PhungVietBac/WebSocket at 08/11/2025, 15:59:50
 
 ### [PhungVietBac/FD](https://github.com/PhungVietBac/FD)
-- **PushEvent**: 0 commit(s) by **PhungVietBac** at 04/11/2025, 13:31:29
-- **PushEvent**: 0 commit(s) by **PhungVietBac** at 04/11/2025, 13:30:55
-- **CreateEvent**: A new branch named main was created in PhungVietBac/FD at 04/11/2025, 13:30:25
+- _No recent events_
 
 ### [PhungVietBac/FlowDetect_Models](https://github.com/PhungVietBac/FlowDetect_Models)
 - _No recent events_
