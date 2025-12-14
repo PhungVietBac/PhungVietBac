@@ -19,12 +19,15 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/nids](https://github.com/PhungVietBac/nids)
+- **CreateEvent**: A new branch named main was created in PhungVietBac/nids at 14/12/2025, 22:04:32
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 21:42:32
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 21:23:28
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 20:31:13
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 19:50:16
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 18:39:38
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/12/2025, 18:20:32
 
 ### [PhungVietBac/nids-microservices](https://github.com/PhungVietBac/nids-microservices)
 - **PushEvent**: 0 commit(s) by **PhungVietBac** at 25/11/2025, 13:56:08
@@ -49,9 +52,6 @@
 - _No recent events_
 
 ### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
-- _No recent events_
-
-### [PhungVietBac/OlympiaAPI](https://github.com/PhungVietBac/OlympiaAPI)
 - _No recent events_
 
 <!--END_SECTION:activity-->
