@@ -19,15 +19,15 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
-- **MemberEvent**: PhungVietBac added PhungVietBac to TranDai108/Edge-ai-joint-optimization at 18/03/2026, 22:12:16
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/03/2026, 22:18:55
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 20/02/2026, 02:24:05
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 20/02/2026, 01:11:54
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 20/02/2026, 00:02:43
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 19/02/2026, 22:55:36
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 19/02/2026, 21:30:44
+
+### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
+- **MemberEvent**: PhungVietBac added PhungVietBac to TranDai108/Edge-ai-joint-optimization at 18/03/2026, 22:12:16
 
 ### [PhungVietBac/nids](https://github.com/PhungVietBac/nids)
 - _No recent events_
