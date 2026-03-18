@@ -19,6 +19,9 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
+- **MemberEvent**: PhungVietBac added PhungVietBac to TranDai108/Edge-ai-joint-optimization at 18/03/2026, 22:12:16
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 20/02/2026, 02:24:05
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 20/02/2026, 01:11:54
@@ -48,9 +51,6 @@
 - _No recent events_
 
 ### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
-- _No recent events_
-
-### [TranDai108/Embedded_Project_NT131.P13](https://github.com/TranDai108/Embedded_Project_NT131.P13)
 - _No recent events_
 
 <!--END_SECTION:activity-->
