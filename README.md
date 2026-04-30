@@ -20,13 +20,10 @@
 
 <!--START_SECTION:activity-->
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 01/05/2026, 00:01:47
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 30/04/2026, 22:28:03
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 30/04/2026, 20:06:55
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 30/04/2026, 18:14:29
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 30/04/2026, 16:19:59
+- _No recent events_
 
 ### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
+- _No recent events_
 
 ### [PhungVietBac/nids](https://github.com/PhungVietBac/nids)
 - _No recent events_
