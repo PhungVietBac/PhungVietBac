@@ -19,12 +19,15 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/KLTN_project](https://github.com/PhungVietBac/KLTN_project)
+- **CreateEvent**: A new branch named master was created in PhungVietBac/KLTN_project at 18/07/2026, 22:21:54
+
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 21:01:52
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 19:29:01
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 18:14:19
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 16:59:29
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 15:24:05
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 13:28:51
 
 ### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
 - _No recent events_
@@ -48,9 +51,6 @@
 - _No recent events_
 
 ### [PhungVietBac/FlowDetect_Dashboard](https://github.com/PhungVietBac/FlowDetect_Dashboard)
-- _No recent events_
-
-### [TranDai108/Armoiracle_Fashion_App](https://github.com/TranDai108/Armoiracle_Fashion_App)
 - _No recent events_
 
 <!--END_SECTION:activity-->
