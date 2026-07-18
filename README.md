@@ -19,6 +19,13 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
+### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 23:31:12
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 22:29:46
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 21:01:52
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 19:29:01
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 18:14:19
+
 ### [PhungVietBac/KLTN_project](https://github.com/PhungVietBac/KLTN_project)
 - **PushEvent**: 0 commit(s) by **PhungVietBac** at 18/07/2026, 23:21:30
 - **PushEvent**: 0 commit(s) by **PhungVietBac** at 18/07/2026, 22:46:00
@@ -27,13 +34,6 @@
 ### [TranDai108/Edge-microservice-joint-optimization](https://github.com/TranDai108/Edge-microservice-joint-optimization)
 - **CreateEvent**: A new branch named main was created in TranDai108/Edge-microservice-joint-optimization at 18/07/2026, 23:10:40
 - **MemberEvent**: PhungVietBac added PhungVietBac to TranDai108/Edge-microservice-joint-optimization at 18/07/2026, 23:05:36
-
-### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 22:29:46
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 21:01:52
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 19:29:01
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 18:14:19
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 18/07/2026, 16:59:29
 
 ### [TranDai108/Edge-ai-joint-optimization](https://github.com/TranDai108/Edge-ai-joint-optimization)
 - _No recent events_
