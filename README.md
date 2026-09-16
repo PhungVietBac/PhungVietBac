@@ -19,14 +19,14 @@
 ## 🔥 Hoạt động gần đây
 
 <!--START_SECTION:activity-->
-### [TranDai108/Edge-microservice-joint-optimization](https://github.com/TranDai108/Edge-microservice-joint-optimization)
-
 ### [PhungVietBac/PhungVietBac](https://github.com/PhungVietBac/PhungVietBac)
+- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 16/09/2026, 16:27:04
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 16/09/2026, 11:20:53
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 15/09/2026, 02:10:05
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 13/09/2026, 21:52:15
 - **PushEvent**: 0 commit(s) by **github-actions[bot]** at 13/09/2026, 07:10:00
-- **PushEvent**: 0 commit(s) by **github-actions[bot]** at 14/09/2026, 20:51:47
+
+### [TranDai108/Edge-microservice-joint-optimization](https://github.com/TranDai108/Edge-microservice-joint-optimization)
 
 ### [PhungVietBac/KLTN_project](https://github.com/PhungVietBac/KLTN_project)
 - _No recent events_
